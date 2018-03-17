@@ -1,5 +1,16 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/www.shallalist.de/domains.list": {
+        "1521312036": [
+            "661paintball.com",
+            "666-sex.de",
+            "666asians.com",
+            "666bukkakeblog.info",
+            "666cams.nl",
+            "666dierensex.nl",
+            "666kg.org",
+            "666network.com",
+            "666pussy.com"
+        ],
         "to_test": [
             "&#1087;&#1088;&#1072;&#1074;&#1080;&#1090;&#1077;&#1083;&#1100;&#1089;&#1090;&#1074;&#1086;.&#1088;&#1092;",
             "&#1087;&#1088;&#1077;&#1079;&#1080;&#1076;&#1077;&#1085;&#1090;.&#1088;&#1092;",
@@ -4910,7 +4921,8 @@
             "65-jaar-getrouwd.novis43.com",
             "654shoes.com",
             "65http.cc",
-            "65plusexclusief.nl"
+            "65plusexclusief.nl",
+            "66.de.tk"
         ]
     }
 }
