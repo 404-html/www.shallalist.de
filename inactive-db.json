@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/www.shallalist.de/domains.list": {
-        "1521844602": [
+        "1521931823": [
             "&#1087;&#1088;&#1077;&#1079;&#1080;&#1076;&#1077;&#1085;&#1090;.&#1088;&#1092;",
             "&#1088;&#1091;&#1089;&#1089;&#1082;&#1086;&#1077;-&#1087;&#1086;&#1088;&#1085;&#1086;.com",
             "-cream-and-sugar.tumblr.com",
@@ -245,7 +245,6 @@
             "00famosas.com.ar",
             "00gay.de",
             "00gratisfisse.dk",
-            "&#1087;&#1088;&#1072;&#1074;&#1080;&#1090;&#1077;&#1083;&#1100;&#1089;&#1090;&#1074;&#1086;.&#1088;&#1092;",
             "00kidsporno.tux.nu",
             "00proxy.com",
             "00proxy.net",
@@ -306,7 +305,9 @@
             "0190-dialer.de",
             "0190-flirtline.de",
             "0190-girl.de",
-            "0190-girls.de"
+            "0190-girls.de",
+            "0190-live-sex.de",
+            "0190-live-sexcam.de"
         ],
         "to_test": [
             "0190-webcam.de",
@@ -38673,13 +38674,12 @@
             "0190-telefonerotik.de",
             "0190-telefonsex-privat.de",
             "0190-telefonsex-world.de",
-            "0190-live-sex.de",
-            "0190-live-sexcam.de",
             "0190-nummer.de.tc",
             "0190-pool.de",
             "0190-sex-2000.de",
             "0190-sex-sex.de",
-            "0190-sex.de"
+            "0190-sex.de",
+            "&#1087;&#1088;&#1072;&#1074;&#1080;&#1090;&#1077;&#1083;&#1100;&#1089;&#1090;&#1074;&#1086;.&#1088;&#1092;"
         ]
     }
 }
