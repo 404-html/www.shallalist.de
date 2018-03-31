@@ -1,5 +1,8 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/www.shallalist.de/domains.list": {
+        "0": [
+            "19667.popbambos.com"
+        ],
         "to_test": [
             "damonworld.com",
             "damonx.free.fr",
