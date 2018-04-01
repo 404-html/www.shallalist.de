@@ -1,5 +1,8 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/www.shallalist.de/domains.list": {
+        "0": [
+            "209.249.157.69.available.above.net"
+        ],
         "to_test": [
             "damonworld.com",
             "damonx.free.fr",
