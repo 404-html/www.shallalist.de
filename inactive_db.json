@@ -8511,9 +8511,7 @@
             "ddelspo.com",
             "ddemusic.com",
             "ddeweb.homelinux.com",
-            "ddfc.me.uk"
-        ],
-        "to_test": [
+            "ddfc.me.uk",
             "ddgrinding.com",
             "ddix4.info",
             "ddjmotorsports.com",
@@ -8631,6 +8629,7 @@
             "de-warehouse.com",
             "de-wingerd.net",
             "de-wittfloors.co.uk",
+            "de-world.de",
             "de-xxx.com",
             "de.abalonegames.com",
             "de.carrente.fi",
@@ -8706,7 +8705,9 @@
             "dealersrenault.co.uk",
             "dealfactory.ru",
             "dealfeat.com",
-            "dealin.gr",
+            "dealin.gr"
+        ],
+        "to_test": [
             "dealkents.com",
             "deallarges.com",
             "dealonealtv.com",
