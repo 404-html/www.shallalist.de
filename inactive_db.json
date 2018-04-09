@@ -11687,9 +11687,7 @@
             "diabetessupportforums.com",
             "diabetic1stop.com",
             "diabeticandcomfortsocks.com",
-            "diabeticsupplies.md"
-        ],
-        "to_test": [
+            "diabeticsupplies.md",
             "diableaucorps.com",
             "diablesexy.com",
             "diablesse-sexy.com",
@@ -11921,7 +11919,6 @@
             "dialup.mgts.by",
             "dialup.nauticom.net",
             "dialup.netins.net",
-            "dialup.newclass.net",
             "dialup.onego.ru",
             "dialup.online.no",
             "dialup.optusnet.com.au",
@@ -11982,7 +11979,9 @@
             "diamondlandcasino.com",
             "diamondlandcasino.ru",
             "diamondlifecasino.com",
-            "diamondlifecasino.net",
+            "diamondlifecasino.net"
+        ],
+        "to_test": [
             "diamondlimousines.co.nz",
             "diamondlinegokkast.nl",
             "diamondmeatclub.com",
