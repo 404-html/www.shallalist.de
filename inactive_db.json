@@ -11500,9 +11500,7 @@
             "dezeikerd.nl",
             "dezekantboven.nl",
             "dezingendekut.nl",
-            "dezonnebank.com"
-        ],
-        "to_test": [
+            "dezonnebank.com",
             "dfa.unict.it",
             "dfaman.com",
             "dfamarchdelegation.org",
@@ -11689,7 +11687,9 @@
             "diabetessupportforums.com",
             "diabetic1stop.com",
             "diabeticandcomfortsocks.com",
-            "diabeticsupplies.md",
+            "diabeticsupplies.md"
+        ],
+        "to_test": [
             "diableaucorps.com",
             "diablesexy.com",
             "diablesse-sexy.com",
