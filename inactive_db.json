@@ -12560,9 +12560,7 @@
             "die-boten-der-asen.net",
             "die-brandmeister.de",
             "die-bundesliga-online.de",
-            "die-date.nl"
-        ],
-        "to_test": [
+            "die-date.nl",
             "die-dreckfinken.de",
             "die-eisvoegel.de",
             "die-erotik-schmiede.de",
@@ -12626,6 +12624,7 @@
             "die-teegalerie.de",
             "die-tischtennisseite.de",
             "die-unglaubliche-erotik-page.de",
+            "die-versicherungsvergleicher.online",
             "die-versuchung-pur.de",
             "die-weiber-wg.de",
             "die-wilden-70.de",
@@ -12677,7 +12676,9 @@
             "diepinmijnkont.nl",
             "dieppeseinemaritime.com",
             "diepvuisten.be",
-            "dier-sex.be",
+            "dier-sex.be"
+        ],
+        "to_test": [
             "dierberg-anglerbedarf.de",
             "diereisezentrale.com",
             "dieren-neuken.nl",
