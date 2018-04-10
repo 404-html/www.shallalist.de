@@ -15548,9 +15548,7 @@
             "djkiia.net.cn",
             "djkiib.com.cn",
             "djkiic.cn",
-            "djkiid.cn"
-        ],
-        "to_test": [
+            "djkiid.cn",
             "djkiie.net.cn",
             "djkiif.com.cn",
             "djkstenern.de",
@@ -15710,7 +15708,9 @@
             "dmd-sportswear.com",
             "dmdaustralia.com.au",
             "dmdclassics.com",
-            "dmeb2.net",
+            "dmeb2.net"
+        ],
+        "to_test": [
             "dmforever.biz",
             "dmforever.superforos.com",
             "dmforum.org.uk",
