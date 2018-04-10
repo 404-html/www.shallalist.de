@@ -22690,9 +22690,7 @@
             "early-river-gallery.bigstep.com",
             "early-teen.com",
             "early-teens.net",
-            "earlybird.seekbooks.co.uk"
-        ],
-        "to_test": [
+            "earlybird.seekbooks.co.uk",
             "earlybirdantiques.net",
             "earlybirdimages.com",
             "earlybuilding.com",
@@ -22754,7 +22752,6 @@
             "earthseasky.co.uk",
             "earthsex.org",
             "earthshakingmelons.com",
-            "earthshineco.com",
             "earthsoftwaredownload.com",
             "earthstationsunltd.com",
             "earthstonemarkers.com",
@@ -22844,7 +22841,9 @@
             "easterncanadapfha.com",
             "easternconstruction.org",
             "easterneve.com",
-            "easterneyetgp.com",
+            "easterneyetgp.com"
+        ],
+        "to_test": [
             "easternflower.net",
             "easterngspc.org",
             "easternhawks.com",
