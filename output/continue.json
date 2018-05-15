@@ -1,8 +1,8 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/www.shallalist.de/domains.list": {
-        "down": 51939,
-        "invalid": 158,
-        "tested": 308199,
-        "up": 256102
+        "down": 52053,
+        "invalid": 159,
+        "tested": 308593,
+        "up": 256381
     }
 }
