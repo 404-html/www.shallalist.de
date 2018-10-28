@@ -80,6 +80,11 @@
             "expiration_date": "29-oct-2019",
             "state": "future"
         },
+        "a-sx.com": {
+            "epoch": "1543363200",
+            "expiration_date": "28-nov-2018",
+            "state": "future"
+        },
         "ar-jay.com": {
             "epoch": "1837036800",
             "expiration_date": "19-mar-2028",
@@ -11103,6 +11108,11 @@
         "as-travel.net": {
             "epoch": "1546473600",
             "expiration_date": "03-jan-2019",
+            "state": "future"
+        },
+        "as-yachts.com": {
+            "epoch": "1541894400",
+            "expiration_date": "11-nov-2018",
             "state": "future"
         },
         "as.com": {
@@ -31208,6 +31218,946 @@
         "astuteadvance.com": {
             "epoch": "1567296000",
             "expiration_date": "01-sep-2019",
+            "state": "future"
+        },
+        "asv-receptions.com": {
+            "epoch": "1564012800",
+            "expiration_date": "25-jul-2019",
+            "state": "future"
+        },
+        "asv.dk": {
+            "epoch": "1553990400",
+            "expiration_date": "31-mar-2019",
+            "state": "future"
+        },
+        "asvel.com": {
+            "epoch": "1620777600",
+            "expiration_date": "12-may-2021",
+            "state": "future"
+        },
+        "asvgimnasios.com": {
+            "epoch": "1569974400",
+            "expiration_date": "02-oct-2019",
+            "state": "future"
+        },
+        "asvh.se": {
+            "epoch": "1546214400",
+            "expiration_date": "31-dec-2018",
+            "state": "future"
+        },
+        "asvictims.com": {
+            "epoch": "1555891200",
+            "expiration_date": "22-apr-2019",
+            "state": "future"
+        },
+        "asvitre.com": {
+            "epoch": "1568073600",
+            "expiration_date": "10-sep-2019",
+            "state": "future"
+        },
+        "asvolt.com": {
+            "epoch": "1572307200",
+            "expiration_date": "29-oct-2019",
+            "state": "future"
+        },
+        "asvoyeur.com": {
+            "epoch": "1549324800",
+            "expiration_date": "05-feb-2019",
+            "state": "future"
+        },
+        "asvproductions.com": {
+            "epoch": "1611100800",
+            "expiration_date": "20-jan-2021",
+            "state": "future"
+        },
+        "asvt.se": {
+            "epoch": "1546214400",
+            "expiration_date": "31-dec-2018",
+            "state": "future"
+        },
+        "asvv.com": {
+            "epoch": "1577404800",
+            "expiration_date": "27-dec-2019",
+            "state": "future"
+        },
+        "asw.ca": {
+            "epoch": "1599955200",
+            "expiration_date": "13-sep-2020",
+            "state": "future"
+        },
+        "asw.com": {
+            "epoch": "1610928000",
+            "expiration_date": "18-jan-2021",
+            "state": "future"
+        },
+        "aswebsales.com": {
+            "epoch": "1535500800",
+            "expiration_date": "29-aug-2018",
+            "state": "past"
+        },
+        "aswechange.com": {
+            "epoch": "1550448000",
+            "expiration_date": "18-feb-2019",
+            "state": "future"
+        },
+        "asweetgirl.com": {
+            "epoch": "1546041600",
+            "expiration_date": "29-dec-2018",
+            "state": "future"
+        },
+        "asweetsecret.com": {
+            "epoch": "1609545600",
+            "expiration_date": "02-jan-2021",
+            "state": "future"
+        },
+        "aswexpress.com": {
+            "epoch": "1612224000",
+            "expiration_date": "02-feb-2021",
+            "state": "future"
+        },
+        "aswgt.com": {
+            "epoch": "1561507200",
+            "expiration_date": "26-jun-2019",
+            "state": "future"
+        },
+        "aswhat.com": {
+            "epoch": "1555545600",
+            "expiration_date": "18-apr-2019",
+            "state": "future"
+        },
+        "aswltd.com": {
+            "epoch": "1593129600",
+            "expiration_date": "26-jun-2020",
+            "state": "future"
+        },
+        "aswords.com": {
+            "epoch": "1553472000",
+            "expiration_date": "25-mar-2019",
+            "state": "future"
+        },
+        "aswrite.com": {
+            "epoch": "1556755200",
+            "expiration_date": "02-may-2019",
+            "state": "future"
+        },
+        "asxacias.com": {
+            "epoch": "1544659200",
+            "expiration_date": "13-dec-2018",
+            "state": "future"
+        },
+        "asyalale.com": {
+            "epoch": "1630108800",
+            "expiration_date": "28-aug-2021",
+            "state": "future"
+        },
+        "asylum-anime.com": {
+            "epoch": "1803513600",
+            "expiration_date": "25-feb-2027",
+            "state": "future"
+        },
+        "asylum.com": {
+            "epoch": "1563062400",
+            "expiration_date": "14-jul-2019",
+            "state": "future"
+        },
+        "asylumlan.com": {
+            "epoch": "1569024000",
+            "expiration_date": "21-sep-2019",
+            "state": "future"
+        },
+        "asylumsports.com": {
+            "epoch": "1548460800",
+            "expiration_date": "26-jan-2019",
+            "state": "future"
+        },
+        "asylumsupport.info": {
+            "epoch": "1545868800",
+            "expiration_date": "27-dec-2018",
+            "state": "future"
+        },
+        "asylumx.com": {
+            "epoch": "1547337600",
+            "expiration_date": "13-jan-2019",
+            "state": "future"
+        },
+        "asymo.net": {
+            "epoch": "1568073600",
+            "expiration_date": "10-sep-2019",
+            "state": "future"
+        },
+        "asynjur.com": {
+            "epoch": "1548720000",
+            "expiration_date": "29-jan-2019",
+            "state": "future"
+        },
+        "asynkron.dk": {
+            "epoch": "1561852800",
+            "expiration_date": "30-jun-2019",
+            "state": "future"
+        },
+        "asyoulikeitsilvershop.com": {
+            "epoch": "1561248000",
+            "expiration_date": "23-jun-2019",
+            "state": "future"
+        },
+        "asyouporn.com": {
+            "epoch": "1571270400",
+            "expiration_date": "17-oct-2019",
+            "state": "future"
+        },
+        "asyouwish.org": {
+            "epoch": "1553558400",
+            "expiration_date": "26-mar-2019",
+            "state": "future"
+        },
+        "aszti.com": {
+            "epoch": "1546473600",
+            "expiration_date": "03-jan-2019",
+            "state": "future"
+        },
+        "at-band-camp.net": {
+            "epoch": "1546560000",
+            "expiration_date": "04-jan-2019",
+            "state": "future"
+        },
+        "at18.com": {
+            "epoch": "1543104000",
+            "expiration_date": "25-nov-2018",
+            "state": "future"
+        },
+        "at29.com": {
+            "epoch": "1543536000",
+            "expiration_date": "30-nov-2018",
+            "state": "future"
+        },
+        "at6smallrooms.com": {
+            "epoch": "1563408000",
+            "expiration_date": "18-jul-2019",
+            "state": "future"
+        },
+        "ata-al.net": {
+            "epoch": "1568419200",
+            "expiration_date": "14-sep-2019",
+            "state": "future"
+        },
+        "ata-group.com": {
+            "epoch": "1552521600",
+            "expiration_date": "14-mar-2019",
+            "state": "future"
+        },
+        "ata-hotel.com": {
+            "epoch": "1536710400",
+            "expiration_date": "12-sep-2018",
+            "state": "past"
+        },
+        "ata-k4k.com": {
+            "epoch": "1571184000",
+            "expiration_date": "16-oct-2019",
+            "state": "future"
+        },
+        "ata-travel.com": {
+            "epoch": "1546214400",
+            "expiration_date": "31-dec-2018",
+            "state": "future"
+        },
+        "ata.com": {
+            "epoch": "1670803200",
+            "expiration_date": "12-dec-2022",
+            "state": "future"
+        },
+        "ataacademy.com": {
+            "epoch": "1547596800",
+            "expiration_date": "16-jan-2019",
+            "state": "future"
+        },
+        "atablackbelt.net": {
+            "epoch": "1567468800",
+            "expiration_date": "03-sep-2019",
+            "state": "future"
+        },
+        "ataboy.ca": {
+            "epoch": "1552521600",
+            "expiration_date": "14-mar-2019",
+            "state": "future"
+        },
+        "atacam.com": {
+            "epoch": "1561161600",
+            "expiration_date": "22-jun-2019",
+            "state": "future"
+        },
+        "atacama.pl": {
+            "epoch": "1554508800",
+            "expiration_date": "06-apr-2019",
+            "state": "future"
+        },
+        "atacamadesert.cl": {
+            "epoch": "1615248000",
+            "expiration_date": "09-mar-2021",
+            "state": "future"
+        },
+        "atacess.org": {
+            "epoch": "1550966400",
+            "expiration_date": "24-feb-2019",
+            "state": "future"
+        },
+        "ataglance.com": {
+            "epoch": "1546560000",
+            "expiration_date": "04-jan-2019",
+            "state": "future"
+        },
+        "atagu.gl": {
+            "epoch": "1553644800",
+            "expiration_date": "27-mar-2019",
+            "state": "future"
+        },
+        "atagulf.com": {
+            "epoch": "1573430400",
+            "expiration_date": "11-nov-2019",
+            "state": "future"
+        },
+        "atahotels.it": {
+            "epoch": "1552780800",
+            "expiration_date": "17-mar-2019",
+            "state": "future"
+        },
+        "atahualpa.com": {
+            "epoch": "1661385600",
+            "expiration_date": "25-aug-2022",
+            "state": "future"
+        },
+        "atahualpa.info": {
+            "epoch": "1557964800",
+            "expiration_date": "16-may-2019",
+            "state": "future"
+        },
+        "atahualpacusco.com": {
+            "epoch": "1541116800",
+            "expiration_date": "02-nov-2018",
+            "state": "future"
+        },
+        "atailtoremember.com": {
+            "epoch": "1560297600",
+            "expiration_date": "12-jun-2019",
+            "state": "future"
+        },
+        "atak.dk": {
+            "epoch": "1632960000",
+            "expiration_date": "30-sep-2021",
+            "state": "future"
+        },
+        "atakick.com": {
+            "epoch": "1651449600",
+            "expiration_date": "02-may-2022",
+            "state": "future"
+        },
+        "atakix.com": {
+            "epoch": "1556323200",
+            "expiration_date": "27-apr-2019",
+            "state": "future"
+        },
+        "atakklonow.pl": {
+            "epoch": "1547856000",
+            "expiration_date": "19-jan-2019",
+            "state": "future"
+        },
+        "atakspermy.pl": {
+            "epoch": "1551225600",
+            "expiration_date": "27-feb-2019",
+            "state": "future"
+        },
+        "atala.it": {
+            "epoch": "1542585600",
+            "expiration_date": "19-nov-2018",
+            "state": "future"
+        },
+        "atalaia-madeira.com": {
+            "epoch": "1552953600",
+            "expiration_date": "19-mar-2019",
+            "state": "future"
+        },
+        "atalanta.it": {
+            "epoch": "1545955200",
+            "expiration_date": "28-dec-2018",
+            "state": "future"
+        },
+        "atalante.fr": {
+            "epoch": "1566432000",
+            "expiration_date": "22-aug-2019",
+            "state": "future"
+        },
+        "atalantei.com": {
+            "epoch": "1572134400",
+            "expiration_date": "27-oct-2019",
+            "state": "future"
+        },
+        "atalayadenijar.com": {
+            "epoch": "1569801600",
+            "expiration_date": "30-sep-2019",
+            "state": "future"
+        },
+        "atalayaperu.com": {
+            "epoch": "1550016000",
+            "expiration_date": "13-feb-2019",
+            "state": "future"
+        },
+        "atalayatowers.com": {
+            "epoch": "1557273600",
+            "expiration_date": "08-may-2019",
+            "state": "future"
+        },
+        "ataleintime.com": {
+            "epoch": "1559001600",
+            "expiration_date": "28-may-2019",
+            "state": "future"
+        },
+        "ataloss.com": {
+            "epoch": "1565827200",
+            "expiration_date": "15-aug-2019",
+            "state": "future"
+        },
+        "atalto.com": {
+            "epoch": "1851984000",
+            "expiration_date": "08-sep-2028",
+            "state": "future"
+        },
+        "atama.us": {
+            "epoch": "1554249600",
+            "expiration_date": "03-apr-2019",
+            "state": "future"
+        },
+        "atamadison.com": {
+            "epoch": "1780704000",
+            "expiration_date": "06-jun-2026",
+            "state": "future"
+        },
+        "atamaii.com": {
+            "epoch": "1577664000",
+            "expiration_date": "30-dec-2019",
+            "state": "future"
+        },
+        "atamanhotel.com": {
+            "epoch": "1576108800",
+            "expiration_date": "12-dec-2019",
+            "state": "future"
+        },
+        "atamihotel.com": {
+            "epoch": "1570492800",
+            "expiration_date": "08-oct-2019",
+            "state": "future"
+        },
+        "atanime.com": {
+            "epoch": "1560384000",
+            "expiration_date": "13-jun-2019",
+            "state": "future"
+        },
+        "ataonline.com": {
+            "epoch": "1546128000",
+            "expiration_date": "30-dec-2018",
+            "state": "future"
+        },
+        "atapantiques.com": {
+            "epoch": "1534809600",
+            "expiration_date": "21-aug-2018",
+            "state": "past"
+        },
+        "atapark.com": {
+            "epoch": "1669939200",
+            "expiration_date": "02-dec-2022",
+            "state": "future"
+        },
+        "atar.pl": {
+            "epoch": "1543363200",
+            "expiration_date": "28-nov-2018",
+            "state": "future"
+        },
+        "atarecords.com": {
+            "epoch": "1562112000",
+            "expiration_date": "03-jul-2019",
+            "state": "future"
+        },
+        "atari-explorer.com": {
+            "epoch": "1566604800",
+            "expiration_date": "24-aug-2019",
+            "state": "future"
+        },
+        "atari-history.com": {
+            "epoch": "1541289600",
+            "expiration_date": "04-nov-2018",
+            "state": "future"
+        },
+        "atari-uk.com": {
+            "epoch": "1568419200",
+            "expiration_date": "14-sep-2019",
+            "state": "future"
+        },
+        "atari.com": {
+            "epoch": "1553990400",
+            "expiration_date": "31-mar-2019",
+            "state": "future"
+        },
+        "atari.org": {
+            "epoch": "1747612800",
+            "expiration_date": "19-may-2025",
+            "state": "future"
+        },
+        "atari2600.com": {
+            "epoch": "1852848000",
+            "expiration_date": "18-sep-2028",
+            "state": "future"
+        },
+        "atari2600.org": {
+            "epoch": "1567641600",
+            "expiration_date": "05-sep-2019",
+            "state": "future"
+        },
+        "atari7800.com": {
+            "epoch": "1568764800",
+            "expiration_date": "18-sep-2019",
+            "state": "future"
+        },
+        "atari7800.org": {
+            "epoch": "1583366400",
+            "expiration_date": "05-mar-2020",
+            "state": "future"
+        },
+        "atariace.com": {
+            "epoch": "1560384000",
+            "expiration_date": "13-jun-2019",
+            "state": "future"
+        },
+        "atariage.com": {
+            "epoch": "1600560000",
+            "expiration_date": "20-sep-2020",
+            "state": "future"
+        },
+        "ataricentral.com": {
+            "epoch": "1552867200",
+            "expiration_date": "18-mar-2019",
+            "state": "future"
+        },
+        "atarifreak.com": {
+            "epoch": "1554508800",
+            "expiration_date": "06-apr-2019",
+            "state": "future"
+        },
+        "atarifun.com": {
+            "epoch": "1589414400",
+            "expiration_date": "14-may-2020",
+            "state": "future"
+        },
+        "atarigame.net": {
+            "epoch": "1546300800",
+            "expiration_date": "01-jan-2019",
+            "state": "future"
+        },
+        "atariguide.com": {
+            "epoch": "1560988800",
+            "expiration_date": "20-jun-2019",
+            "state": "future"
+        },
+        "atarihq.com": {
+            "epoch": "1615507200",
+            "expiration_date": "12-mar-2021",
+            "state": "future"
+        },
+        "atariland.com": {
+            "epoch": "1567123200",
+            "expiration_date": "30-aug-2019",
+            "state": "future"
+        },
+        "atarimuseum.com": {
+            "epoch": "1564444800",
+            "expiration_date": "30-jul-2019",
+            "state": "future"
+        },
+        "atariprotos.com": {
+            "epoch": "1578441600",
+            "expiration_date": "08-jan-2020",
+            "state": "future"
+        },
+        "ataritimes.com": {
+            "epoch": "1564444800",
+            "expiration_date": "30-jul-2019",
+            "state": "future"
+        },
+        "ataritours.com": {
+            "epoch": "1551139200",
+            "expiration_date": "26-feb-2019",
+            "state": "future"
+        },
+        "atariz.com": {
+            "epoch": "1560124800",
+            "expiration_date": "10-jun-2019",
+            "state": "future"
+        },
+        "atarn.org": {
+            "epoch": "1567382400",
+            "expiration_date": "02-sep-2019",
+            "state": "future"
+        },
+        "atars.net": {
+            "epoch": "1547856000",
+            "expiration_date": "19-jan-2019",
+            "state": "future"
+        },
+        "atas.ru": {
+            "epoch": "1559347200",
+            "expiration_date": "01-jun-2019",
+            "state": "future"
+        },
+        "atasaz.com": {
+            "epoch": "1549843200",
+            "expiration_date": "11-feb-2019",
+            "state": "future"
+        },
+        "atascaderocreek.com": {
+            "epoch": "1555632000",
+            "expiration_date": "19-apr-2019",
+            "state": "future"
+        },
+        "atasec.org": {
+            "epoch": "1559692800",
+            "expiration_date": "05-jun-2019",
+            "state": "future"
+        },
+        "atasehirhaber.com": {
+            "epoch": "1561939200",
+            "expiration_date": "01-jul-2019",
+            "state": "future"
+        },
+        "atasteforchocolate.com": {
+            "epoch": "1567296000",
+            "expiration_date": "01-sep-2019",
+            "state": "future"
+        },
+        "atastefulgift.com": {
+            "epoch": "1588464000",
+            "expiration_date": "03-may-2020",
+            "state": "future"
+        },
+        "atasteofalaska.com": {
+            "epoch": "1543708800",
+            "expiration_date": "02-dec-2018",
+            "state": "future"
+        },
+        "atasteofcalifornia.com": {
+            "epoch": "1551571200",
+            "expiration_date": "03-mar-2019",
+            "state": "future"
+        },
+        "atasteofeurope.com": {
+            "epoch": "1577664000",
+            "expiration_date": "30-dec-2019",
+            "state": "future"
+        },
+        "atasteofitaly.com": {
+            "epoch": "1573948800",
+            "expiration_date": "17-nov-2019",
+            "state": "future"
+        },
+        "atasteofitalyfoods.com": {
+            "epoch": "1571270400",
+            "expiration_date": "17-oct-2019",
+            "state": "future"
+        },
+        "atasteofkentucky.com": {
+            "epoch": "1587945600",
+            "expiration_date": "27-apr-2020",
+            "state": "future"
+        },
+        "atasteofmonterey.com": {
+            "epoch": "1563321600",
+            "expiration_date": "17-jul-2019",
+            "state": "future"
+        },
+        "atasteofthesouth.com": {
+            "epoch": "1688515200",
+            "expiration_date": "05-jul-2023",
+            "state": "future"
+        },
+        "atastores.com": {
+            "epoch": "1561248000",
+            "expiration_date": "23-jun-2019",
+            "state": "future"
+        },
+        "atatak.com": {
+            "epoch": "1570752000",
+            "expiration_date": "11-oct-2019",
+            "state": "future"
+        },
+        "atatekalodges.com": {
+            "epoch": "1548374400",
+            "expiration_date": "25-jan-2019",
+            "state": "future"
+        },
+        "atatrail.org": {
+            "epoch": "1555891200",
+            "expiration_date": "22-apr-2019",
+            "state": "future"
+        },
+        "atatrials.com": {
+            "epoch": "1566000000",
+            "expiration_date": "17-aug-2019",
+            "state": "future"
+        },
+        "atauroisland.com": {
+            "epoch": "1630713600",
+            "expiration_date": "04-sep-2021",
+            "state": "future"
+        },
+        "ataytour.com": {
+            "epoch": "1554595200",
+            "expiration_date": "07-apr-2019",
+            "state": "future"
+        },
+        "atb-aero.com": {
+            "epoch": "1554422400",
+            "expiration_date": "05-apr-2019",
+            "state": "future"
+        },
+        "atb-music.com": {
+            "epoch": "1587081600",
+            "expiration_date": "17-apr-2020",
+            "state": "future"
+        },
+        "atb-selection.com": {
+            "epoch": "1559347200",
+            "expiration_date": "01-jun-2019",
+            "state": "future"
+        },
+        "atb.com": {
+            "epoch": "1764115200",
+            "expiration_date": "26-nov-2025",
+            "state": "future"
+        },
+        "atb.net": {
+            "epoch": "1572652800",
+            "expiration_date": "02-nov-2019",
+            "state": "future"
+        },
+        "atba-herding.org": {
+            "epoch": "1579737600",
+            "expiration_date": "23-jan-2020",
+            "state": "future"
+        },
+        "atbabette.com": {
+            "epoch": "1572048000",
+            "expiration_date": "26-oct-2019",
+            "state": "future"
+        },
+        "atbauk.org": {
+            "epoch": "1622246400",
+            "expiration_date": "29-may-2021",
+            "state": "future"
+        },
+        "atbc.com": {
+            "epoch": "1648857600",
+            "expiration_date": "02-apr-2022",
+            "state": "future"
+        },
+        "atbcanada.com": {
+            "epoch": "1543190400",
+            "expiration_date": "26-nov-2018",
+            "state": "future"
+        },
+        "atbdiscounts.com": {
+            "epoch": "1546473600",
+            "expiration_date": "03-jan-2019",
+            "state": "future"
+        },
+        "atbeach.com": {
+            "epoch": "1646697600",
+            "expiration_date": "08-mar-2022",
+            "state": "future"
+        },
+        "atbeachrentals.com": {
+            "epoch": "1568160000",
+            "expiration_date": "11-sep-2019",
+            "state": "future"
+        },
+        "atbforum.com": {
+            "epoch": "1560556800",
+            "expiration_date": "15-jun-2019",
+            "state": "future"
+        },
+        "atbla.com": {
+            "epoch": "1547078400",
+            "expiration_date": "10-jan-2019",
+            "state": "future"
+        },
+        "atbmag.com": {
+            "epoch": "1546560000",
+            "expiration_date": "04-jan-2019",
+            "state": "future"
+        },
+        "atbondage.com": {
+            "epoch": "1547164800",
+            "expiration_date": "11-jan-2019",
+            "state": "future"
+        },
+        "atbotg.com": {
+            "epoch": "1546560000",
+            "expiration_date": "04-jan-2019",
+            "state": "future"
+        },
+        "atbtercume.com": {
+            "epoch": "1572998400",
+            "expiration_date": "06-nov-2019",
+            "state": "future"
+        },
+        "atbunet.org": {
+            "epoch": "1571270400",
+            "expiration_date": "17-oct-2019",
+            "state": "future"
+        },
+        "atc-routesdumonde.com": {
+            "epoch": "1541376000",
+            "expiration_date": "05-nov-2018",
+            "state": "future"
+        },
+        "atcalicocreations.com": {
+            "epoch": "1534982400",
+            "expiration_date": "23-aug-2018",
+            "state": "past"
+        },
+        "atcampground.com": {
+            "epoch": "1637193600",
+            "expiration_date": "18-nov-2021",
+            "state": "future"
+        },
+        "atcandisplay.com": {
+            "epoch": "1547856000",
+            "expiration_date": "19-jan-2019",
+            "state": "future"
+        },
+        "atcannonbeach.com": {
+            "epoch": "1547683200",
+            "expiration_date": "17-jan-2019",
+            "state": "future"
+        },
+        "atcapecod.com": {
+            "epoch": "1580774400",
+            "expiration_date": "04-feb-2020",
+            "state": "future"
+        },
+        "atcarchery.com": {
+            "epoch": "1569628800",
+            "expiration_date": "28-sep-2019",
+            "state": "future"
+        },
+        "atchisonanimalclinic.com": {
+            "epoch": "1606867200",
+            "expiration_date": "02-dec-2020",
+            "state": "future"
+        },
+        "atchisonracing.com": {
+            "epoch": "1676592000",
+            "expiration_date": "17-feb-2023",
+            "state": "future"
+        },
+        "atchristmastime.com": {
+            "epoch": "1549065600",
+            "expiration_date": "02-feb-2019",
+            "state": "future"
+        },
+        "atcl.org": {
+            "epoch": "1558310400",
+            "expiration_date": "20-may-2019",
+            "state": "future"
+        },
+        "atclondon.com": {
+            "epoch": "1551052800",
+            "expiration_date": "25-feb-2019",
+            "state": "future"
+        },
+        "atcmusic.com": {
+            "epoch": "1599868800",
+            "expiration_date": "12-sep-2020",
+            "state": "future"
+        },
+        "atco.tv": {
+            "epoch": "1564099200",
+            "expiration_date": "26-jul-2019",
+            "state": "future"
+        },
+        "atconnex.net": {
+            "epoch": "1565136000",
+            "expiration_date": "07-aug-2019",
+            "state": "future"
+        },
+        "atcorace.com": {
+            "epoch": "1544745600",
+            "expiration_date": "14-dec-2018",
+            "state": "future"
+        },
+        "atcotravel.com": {
+            "epoch": "1612828800",
+            "expiration_date": "09-feb-2021",
+            "state": "future"
+        },
+        "atcsimulator.com": {
+            "epoch": "1546560000",
+            "expiration_date": "04-jan-2019",
+            "state": "future"
+        },
+        "atctkd.com": {
+            "epoch": "1558656000",
+            "expiration_date": "24-may-2019",
+            "state": "future"
+        },
+        "atcto3.it": {
+            "epoch": "1541376000",
+            "expiration_date": "05-nov-2018",
+            "state": "future"
+        },
+        "atcybertopia.com": {
+            "epoch": "1571616000",
+            "expiration_date": "21-oct-2019",
+            "state": "future"
+        },
+        "atd.ro": {
+            "epoch": "1540684800",
+            "expiration_date": "28-oct-2018",
+            "state": "past"
+        },
+        "atdawns.com": {
+            "epoch": "1622419200",
+            "expiration_date": "31-may-2021",
+            "state": "future"
+        },
+        "atdcalleppey.com": {
+            "epoch": "1552176000",
+            "expiration_date": "10-mar-2019",
+            "state": "future"
+        },
+        "atdhe.net": {
+            "epoch": "1546905600",
+            "expiration_date": "08-jan-2019",
+            "state": "future"
+        },
+        "atdmachineshop.com": {
+            "epoch": "1553644800",
+            "expiration_date": "27-mar-2019",
+            "state": "future"
+        },
+        "atdmt.com": {
+            "epoch": "1566000000",
+            "expiration_date": "17-aug-2019",
+            "state": "future"
+        },
+        "ateamfanfic.org": {
+            "epoch": "1553904000",
+            "expiration_date": "30-mar-2019",
+            "state": "future"
+        },
+        "ateammasters.com": {
+            "epoch": "1546732800",
+            "expiration_date": "06-jan-2019",
+            "state": "future"
+        },
+        "ateball.com": {
+            "epoch": "1566518400",
+            "expiration_date": "23-aug-2019",
             "state": "future"
         }
     }
