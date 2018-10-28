@@ -48300,6 +48300,21 @@
             "expiration_date": "31-mar-2019",
             "state": "future"
         },
+        "av-girl.info": {
+            "epoch": "1572048000",
+            "expiration_date": "26-oct-2019",
+            "state": "future"
+        },
+        "av-god.com": {
+            "epoch": "1574380800",
+            "expiration_date": "22-nov-2019",
+            "state": "future"
+        },
+        "av-hibino.com": {
+            "epoch": "1569888000",
+            "expiration_date": "01-oct-2019",
+            "state": "future"
+        },
         "av.com": {
             "epoch": "1760918400",
             "expiration_date": "20-oct-2025",
@@ -49493,6 +49508,1301 @@
         "avcosta.com": {
             "epoch": "1563667200",
             "expiration_date": "21-jul-2019",
+            "state": "future"
+        },
+        "avenidapalace.com": {
+            "epoch": "1553212800",
+            "expiration_date": "22-mar-2019",
+            "state": "future"
+        },
+        "avenir-musique.com": {
+            "epoch": "1566000000",
+            "expiration_date": "17-aug-2019",
+            "state": "future"
+        },
+        "avenir.com": {
+            "epoch": "1543622400",
+            "expiration_date": "01-dec-2018",
+            "state": "future"
+        },
+        "aveniu.lt": {
+            "epoch": "1544313600",
+            "expiration_date": "09-dec-2018",
+            "state": "future"
+        },
+        "aveno.net": {
+            "epoch": "1544918400",
+            "expiration_date": "16-dec-2018",
+            "state": "future"
+        },
+        "aventamerica.com": {
+            "epoch": "1557360000",
+            "expiration_date": "09-may-2019",
+            "state": "future"
+        },
+        "avente-watches.com": {
+            "epoch": "1602892800",
+            "expiration_date": "17-oct-2020",
+            "state": "future"
+        },
+        "aventellc.com": {
+            "epoch": "1598227200",
+            "expiration_date": "24-aug-2020",
+            "state": "future"
+        },
+        "aventertainments.com": {
+            "epoch": "1661558400",
+            "expiration_date": "27-aug-2022",
+            "state": "future"
+        },
+        "aventino.it": {
+            "epoch": "1554336000",
+            "expiration_date": "04-apr-2019",
+            "state": "future"
+        },
+        "aventinohotels.com": {
+            "epoch": "1554595200",
+            "expiration_date": "07-apr-2019",
+            "state": "future"
+        },
+        "aventools.com": {
+            "epoch": "1727827200",
+            "expiration_date": "02-oct-2024",
+            "state": "future"
+        },
+        "aventour-as.com": {
+            "epoch": "1552003200",
+            "expiration_date": "08-mar-2019",
+            "state": "future"
+        },
+        "aventourpatagonia.com": {
+            "epoch": "1570492800",
+            "expiration_date": "08-oct-2019",
+            "state": "future"
+        },
+        "aventours.com": {
+            "epoch": "1559433600",
+            "expiration_date": "02-jun-2019",
+            "state": "future"
+        },
+        "aventrade.com": {
+            "epoch": "1573603200",
+            "expiration_date": "13-nov-2019",
+            "state": "future"
+        },
+        "aventthai.com": {
+            "epoch": "1541376000",
+            "expiration_date": "05-nov-2018",
+            "state": "future"
+        },
+        "aventur-agency.com": {
+            "epoch": "1568764800",
+            "expiration_date": "18-sep-2019",
+            "state": "future"
+        },
+        "aventura-cafe.com": {
+            "epoch": "1543536000",
+            "expiration_date": "30-nov-2018",
+            "state": "future"
+        },
+        "aventura-compostelle.com": {
+            "epoch": "1553817600",
+            "expiration_date": "29-mar-2019",
+            "state": "future"
+        },
+        "aventura-mag.com": {
+            "epoch": "1571788800",
+            "expiration_date": "23-oct-2019",
+            "state": "future"
+        },
+        "aventura.fi": {
+            "epoch": "1661904000",
+            "expiration_date": "31-aug-2022",
+            "state": "future"
+        },
+        "aventuraemporda.net": {
+            "epoch": "1536710400",
+            "expiration_date": "12-sep-2018",
+            "state": "past"
+        },
+        "aventuraenglobo.com": {
+            "epoch": "1544054400",
+            "expiration_date": "06-dec-2018",
+            "state": "future"
+        },
+        "aventuraflowers.com": {
+            "epoch": "1596844800",
+            "expiration_date": "08-aug-2020",
+            "state": "future"
+        },
+        "aventuragay.com": {
+            "epoch": "1548374400",
+            "expiration_date": "25-jan-2019",
+            "state": "future"
+        },
+        "aventurama.com": {
+            "epoch": "1569628800",
+            "expiration_date": "28-sep-2019",
+            "state": "future"
+        },
+        "aventuramexicana.com": {
+            "epoch": "1562198400",
+            "expiration_date": "04-jul-2019",
+            "state": "future"
+        },
+        "aventurapelada.com": {
+            "epoch": "1569628800",
+            "expiration_date": "28-sep-2019",
+            "state": "future"
+        },
+        "aventuraquechua.com": {
+            "epoch": "1544486400",
+            "expiration_date": "11-dec-2018",
+            "state": "future"
+        },
+        "aventurarse.com": {
+            "epoch": "1545004800",
+            "expiration_date": "17-dec-2018",
+            "state": "future"
+        },
+        "aventurarse.net": {
+            "epoch": "1545004800",
+            "expiration_date": "17-dec-2018",
+            "state": "future"
+        },
+        "aventuraseroticas.com": {
+            "epoch": "1547337600",
+            "expiration_date": "13-jan-2019",
+            "state": "future"
+        },
+        "aventurasexual.com": {
+            "epoch": "1570665600",
+            "expiration_date": "10-oct-2019",
+            "state": "future"
+        },
+        "aventurasitinerantes.com": {
+            "epoch": "1567296000",
+            "expiration_date": "01-sep-2019",
+            "state": "future"
+        },
+        "aventuraspanama.com": {
+            "epoch": "1775520000",
+            "expiration_date": "07-apr-2026",
+            "state": "future"
+        },
+        "aventuraycia.com": {
+            "epoch": "1566864000",
+            "expiration_date": "27-aug-2019",
+            "state": "future"
+        },
+        "aventure-canoes.fr": {
+            "epoch": "1570060800",
+            "expiration_date": "03-oct-2019",
+            "state": "future"
+        },
+        "aventure-parc-aramits.com": {
+            "epoch": "1547596800",
+            "expiration_date": "16-jan-2019",
+            "state": "future"
+        },
+        "aventure.ca": {
+            "epoch": "1551571200",
+            "expiration_date": "03-mar-2019",
+            "state": "future"
+        },
+        "aventurec.com": {
+            "epoch": "1560643200",
+            "expiration_date": "16-jun-2019",
+            "state": "future"
+        },
+        "aventurecanada.com": {
+            "epoch": "1555113600",
+            "expiration_date": "13-apr-2019",
+            "state": "future"
+        },
+        "aventureinukshuk.com": {
+            "epoch": "1584057600",
+            "expiration_date": "13-mar-2020",
+            "state": "future"
+        },
+        "aventuremail.com": {
+            "epoch": "1576281600",
+            "expiration_date": "14-dec-2019",
+            "state": "future"
+        },
+        "aventurenature.com": {
+            "epoch": "1554508800",
+            "expiration_date": "06-apr-2019",
+            "state": "future"
+        },
+        "aventurenordquebec.com": {
+            "epoch": "1555113600",
+            "expiration_date": "13-apr-2019",
+            "state": "future"
+        },
+        "aventurenorthwest.com": {
+            "epoch": "1616544000",
+            "expiration_date": "24-mar-2021",
+            "state": "future"
+        },
+        "aventures-en-pyrenees.com": {
+            "epoch": "1569628800",
+            "expiration_date": "28-sep-2019",
+            "state": "future"
+        },
+        "aventures-et-cie.com": {
+            "epoch": "1607212800",
+            "expiration_date": "06-dec-2020",
+            "state": "future"
+        },
+        "aventures-montagnes.com": {
+            "epoch": "1572220800",
+            "expiration_date": "28-oct-2019",
+            "state": "future"
+        },
+        "aventures3000.com": {
+            "epoch": "1549756800",
+            "expiration_date": "10-feb-2019",
+            "state": "future"
+        },
+        "aventuresauthentiquesafricaines.com": {
+            "epoch": "1559260800",
+            "expiration_date": "31-may-2019",
+            "state": "future"
+        },
+        "aventuresnouvellefrance.com": {
+            "epoch": "1550534400",
+            "expiration_date": "19-feb-2019",
+            "state": "future"
+        },
+        "aventuresousmarine.fr": {
+            "epoch": "1557532800",
+            "expiration_date": "11-may-2019",
+            "state": "future"
+        },
+        "aventuresport.com": {
+            "epoch": "1695168000",
+            "expiration_date": "20-sep-2023",
+            "state": "future"
+        },
+        "aventuresport.org": {
+            "epoch": "1555372800",
+            "expiration_date": "16-apr-2019",
+            "state": "future"
+        },
+        "aventurestropicales.com": {
+            "epoch": "1568160000",
+            "expiration_date": "11-sep-2019",
+            "state": "future"
+        },
+        "aventuretv.com": {
+            "epoch": "1548633600",
+            "expiration_date": "28-jan-2019",
+            "state": "future"
+        },
+        "aventureverticale.com": {
+            "epoch": "1549065600",
+            "expiration_date": "02-feb-2019",
+            "state": "future"
+        },
+        "aventurevoyages.com": {
+            "epoch": "1570924800",
+            "expiration_date": "13-oct-2019",
+            "state": "future"
+        },
+        "aventuria.com": {
+            "epoch": "1552089600",
+            "expiration_date": "09-mar-2019",
+            "state": "future"
+        },
+        "aventurie.com": {
+            "epoch": "1574380800",
+            "expiration_date": "22-nov-2019",
+            "state": "future"
+        },
+        "aventurilapescuit.ro": {
+            "epoch": "1534464000",
+            "expiration_date": "17-aug-2018",
+            "state": "past"
+        },
+        "aventurismo.cl": {
+            "epoch": "1544054400",
+            "expiration_date": "06-dec-2018",
+            "state": "future"
+        },
+        "aventurismo.net": {
+            "epoch": "1561075200",
+            "expiration_date": "21-jun-2019",
+            "state": "future"
+        },
+        "aventyr.net": {
+            "epoch": "1560988800",
+            "expiration_date": "20-jun-2019",
+            "state": "future"
+        },
+        "aventyrarna.se": {
+            "epoch": "1546646400",
+            "expiration_date": "05-jan-2019",
+            "state": "future"
+        },
+        "aventyrenso.se": {
+            "epoch": "1546214400",
+            "expiration_date": "31-dec-2018",
+            "state": "future"
+        },
+        "aventyrsbanan.com": {
+            "epoch": "1574467200",
+            "expiration_date": "23-nov-2019",
+            "state": "future"
+        },
+        "aventyrsguiden.nu": {
+            "epoch": "1569369600",
+            "expiration_date": "25-sep-2019",
+            "state": "future"
+        },
+        "aventyrsresor.se": {
+            "epoch": "1546214400",
+            "expiration_date": "31-dec-2018",
+            "state": "future"
+        },
+        "avenu.net": {
+            "epoch": "1577145600",
+            "expiration_date": "24-dec-2019",
+            "state": "future"
+        },
+        "avenue-casino.com": {
+            "epoch": "1548633600",
+            "expiration_date": "28-jan-2019",
+            "state": "future"
+        },
+        "avenue-des-bebes.com": {
+            "epoch": "1562716800",
+            "expiration_date": "10-jul-2019",
+            "state": "future"
+        },
+        "avenue-du-cul.com": {
+            "epoch": "1568851200",
+            "expiration_date": "19-sep-2019",
+            "state": "future"
+        },
+        "avenue-du-sexe.com": {
+            "epoch": "1548979200",
+            "expiration_date": "01-feb-2019",
+            "state": "future"
+        },
+        "avenue-mortgage.com": {
+            "epoch": "1591228800",
+            "expiration_date": "04-jun-2020",
+            "state": "future"
+        },
+        "avenue-video-gay.com": {
+            "epoch": "1548720000",
+            "expiration_date": "29-jan-2019",
+            "state": "future"
+        },
+        "avenue-videox.com": {
+            "epoch": "1560384000",
+            "expiration_date": "13-jun-2019",
+            "state": "future"
+        },
+        "avenue-x.com": {
+            "epoch": "1547942400",
+            "expiration_date": "20-jan-2019",
+            "state": "future"
+        },
+        "avenue.com": {
+            "epoch": "1572912000",
+            "expiration_date": "05-nov-2019",
+            "state": "future"
+        },
+        "avenue18.ca": {
+            "epoch": "1600560000",
+            "expiration_date": "20-sep-2020",
+            "state": "future"
+        },
+        "avenue2.info": {
+            "epoch": "1559865600",
+            "expiration_date": "07-jun-2019",
+            "state": "future"
+        },
+        "avenue69.com": {
+            "epoch": "1571961600",
+            "expiration_date": "25-oct-2019",
+            "state": "future"
+        },
+        "avenuea.com": {
+            "epoch": "1545004800",
+            "expiration_date": "17-dec-2018",
+            "state": "future"
+        },
+        "avenuearabella.com": {
+            "epoch": "1555545600",
+            "expiration_date": "18-apr-2019",
+            "state": "future"
+        },
+        "avenueblue.com": {
+            "epoch": "1545091200",
+            "expiration_date": "18-dec-2018",
+            "state": "future"
+        },
+        "avenueblue.net": {
+            "epoch": "1552003200",
+            "expiration_date": "08-mar-2019",
+            "state": "future"
+        },
+        "avenuecats.com": {
+            "epoch": "1546732800",
+            "expiration_date": "06-jan-2019",
+            "state": "future"
+        },
+        "avenuedelalingerie.com": {
+            "epoch": "1545868800",
+            "expiration_date": "27-dec-2018",
+            "state": "future"
+        },
+        "avenuedesanges.com": {
+            "epoch": "1543708800",
+            "expiration_date": "02-dec-2018",
+            "state": "future"
+        },
+        "avenuedesbebes.com": {
+            "epoch": "1562716800",
+            "expiration_date": "10-jul-2019",
+            "state": "future"
+        },
+        "avenuedesjeux.com": {
+            "epoch": "1556150400",
+            "expiration_date": "25-apr-2019",
+            "state": "future"
+        },
+        "avenuedusexe.com": {
+            "epoch": "1554249600",
+            "expiration_date": "03-apr-2019",
+            "state": "future"
+        },
+        "avenueflower.com": {
+            "epoch": "1678492800",
+            "expiration_date": "11-mar-2023",
+            "state": "future"
+        },
+        "avenuegardenhotel.com": {
+            "epoch": "1571788800",
+            "expiration_date": "23-oct-2019",
+            "state": "future"
+        },
+        "avenuegold.com": {
+            "epoch": "1559692800",
+            "expiration_date": "05-jun-2019",
+            "state": "future"
+        },
+        "avenuehotel.dk": {
+            "epoch": "1546214400",
+            "expiration_date": "31-dec-2018",
+            "state": "future"
+        },
+        "avenueinnbb.com": {
+            "epoch": "1572912000",
+            "expiration_date": "05-nov-2019",
+            "state": "future"
+        },
+        "avenuelibertine.com": {
+            "epoch": "1567036800",
+            "expiration_date": "29-aug-2019",
+            "state": "future"
+        },
+        "avenuemedia.com": {
+            "epoch": "1554336000",
+            "expiration_date": "04-apr-2019",
+            "state": "future"
+        },
+        "avenuemortgage.com": {
+            "epoch": "1576540800",
+            "expiration_date": "17-dec-2019",
+            "state": "future"
+        },
+        "avenueo.com": {
+            "epoch": "1571961600",
+            "expiration_date": "25-oct-2019",
+            "state": "future"
+        },
+        "avenuerodiez.com": {
+            "epoch": "1563408000",
+            "expiration_date": "18-jul-2019",
+            "state": "future"
+        },
+        "avenueservices.com": {
+            "epoch": "1544486400",
+            "expiration_date": "11-dec-2018",
+            "state": "future"
+        },
+        "avenuesexe.com": {
+            "epoch": "1548892800",
+            "expiration_date": "31-jan-2019",
+            "state": "future"
+        },
+        "avenuesexy.com": {
+            "epoch": "1568937600",
+            "expiration_date": "20-sep-2019",
+            "state": "future"
+        },
+        "avenuespethospital.com": {
+            "epoch": "1655683200",
+            "expiration_date": "20-jun-2022",
+            "state": "future"
+        },
+        "avenuestotravel.com": {
+            "epoch": "1550102400",
+            "expiration_date": "14-feb-2019",
+            "state": "future"
+        },
+        "avenuevictorhugobooks.com": {
+            "epoch": "1545782400",
+            "expiration_date": "26-dec-2018",
+            "state": "future"
+        },
+        "avenuexxx.com": {
+            "epoch": "1558137600",
+            "expiration_date": "18-may-2019",
+            "state": "future"
+        },
+        "avenui.com": {
+            "epoch": "1545436800",
+            "expiration_date": "22-dec-2018",
+            "state": "future"
+        },
+        "avenvironments.com": {
+            "epoch": "1685145600",
+            "expiration_date": "27-may-2023",
+            "state": "future"
+        },
+        "avenyn.se": {
+            "epoch": "1672444800",
+            "expiration_date": "31-dec-2022",
+            "state": "future"
+        },
+        "average-penis-size-chart.com": {
+            "epoch": "1556496000",
+            "expiration_date": "29-apr-2019",
+            "state": "future"
+        },
+        "averageamateurs.com": {
+            "epoch": "1565654400",
+            "expiration_date": "13-aug-2019",
+            "state": "future"
+        },
+        "averageamericanjoe.com": {
+            "epoch": "1569715200",
+            "expiration_date": "29-sep-2019",
+            "state": "future"
+        },
+        "averagedicks.com": {
+            "epoch": "1546300800",
+            "expiration_date": "01-jan-2019",
+            "state": "future"
+        },
+        "averagegals.com": {
+            "epoch": "1580601600",
+            "expiration_date": "02-feb-2020",
+            "state": "future"
+        },
+        "averagegirl.com": {
+            "epoch": "1595980800",
+            "expiration_date": "29-jul-2020",
+            "state": "future"
+        },
+        "averagegirls.com": {
+            "epoch": "1564531200",
+            "expiration_date": "31-jul-2019",
+            "state": "future"
+        },
+        "averagegirlsnude.com": {
+            "epoch": "1570752000",
+            "expiration_date": "11-oct-2019",
+            "state": "future"
+        },
+        "averageguy.com": {
+            "epoch": "1543017600",
+            "expiration_date": "24-nov-2018",
+            "state": "future"
+        },
+        "averageho.com": {
+            "epoch": "1574726400",
+            "expiration_date": "26-nov-2019",
+            "state": "future"
+        },
+        "averagehoe.com": {
+            "epoch": "1555372800",
+            "expiration_date": "16-apr-2019",
+            "state": "future"
+        },
+        "averagejoeblackjack.com": {
+            "epoch": "1568160000",
+            "expiration_date": "11-sep-2019",
+            "state": "future"
+        },
+        "averagejoesblog.com": {
+            "epoch": "1571011200",
+            "expiration_date": "14-oct-2019",
+            "state": "future"
+        },
+        "averagemodels.com": {
+            "epoch": "1545868800",
+            "expiration_date": "27-dec-2018",
+            "state": "future"
+        },
+        "averagenudes.com": {
+            "epoch": "1559347200",
+            "expiration_date": "01-jun-2019",
+            "state": "future"
+        },
+        "averagepenissize.com": {
+            "epoch": "1563235200",
+            "expiration_date": "16-jul-2019",
+            "state": "future"
+        },
+        "averagesex.com": {
+            "epoch": "1583798400",
+            "expiration_date": "10-mar-2020",
+            "state": "future"
+        },
+        "averagesizepenis.com": {
+            "epoch": "1550102400",
+            "expiration_date": "14-feb-2019",
+            "state": "future"
+        },
+        "averagesluts.com": {
+            "epoch": "1550016000",
+            "expiration_date": "13-feb-2019",
+            "state": "future"
+        },
+        "averageteens.com": {
+            "epoch": "1568246400",
+            "expiration_date": "12-sep-2019",
+            "state": "future"
+        },
+        "averechts.net": {
+            "epoch": "1552694400",
+            "expiration_date": "16-mar-2019",
+            "state": "future"
+        },
+        "averett.edu": {
+            "epoch": "1564531200",
+            "expiration_date": "31-jul-2019",
+            "state": "future"
+        },
+        "averillfarms.com": {
+            "epoch": "1552348800",
+            "expiration_date": "12-mar-2019",
+            "state": "future"
+        },
+        "averills.com": {
+            "epoch": "1610409600",
+            "expiration_date": "12-jan-2021",
+            "state": "future"
+        },
+        "averillstand.com": {
+            "epoch": "1554163200",
+            "expiration_date": "02-apr-2019",
+            "state": "future"
+        },
+        "averno.it": {
+            "epoch": "1570752000",
+            "expiration_date": "11-oct-2019",
+            "state": "future"
+        },
+        "avernum.com": {
+            "epoch": "1585785600",
+            "expiration_date": "02-apr-2020",
+            "state": "future"
+        },
+        "averoldi.com": {
+            "epoch": "1551484800",
+            "expiration_date": "02-mar-2019",
+            "state": "future"
+        },
+        "averotica.com": {
+            "epoch": "1556755200",
+            "expiration_date": "02-may-2019",
+            "state": "future"
+        },
+        "averoticagirls.com": {
+            "epoch": "1567382400",
+            "expiration_date": "02-sep-2019",
+            "state": "future"
+        },
+        "averotix.com": {
+            "epoch": "1552780800",
+            "expiration_date": "17-mar-2019",
+            "state": "future"
+        },
+        "averres.com": {
+            "epoch": "1556236800",
+            "expiration_date": "26-apr-2019",
+            "state": "future"
+        },
+        "aversaantiques.com": {
+            "epoch": "1554336000",
+            "expiration_date": "04-apr-2019",
+            "state": "future"
+        },
+        "aversi.dk": {
+            "epoch": "1569801600",
+            "expiration_date": "30-sep-2019",
+            "state": "future"
+        },
+        "avert.org": {
+            "epoch": "1615075200",
+            "expiration_date": "07-mar-2021",
+            "state": "future"
+        },
+        "averyanderson.com": {
+            "epoch": "1581379200",
+            "expiration_date": "11-feb-2020",
+            "state": "future"
+        },
+        "averybrewing.com": {
+            "epoch": "1576108800",
+            "expiration_date": "12-dec-2019",
+            "state": "future"
+        },
+        "averydennison.jobs": {
+            "epoch": "1569801600",
+            "expiration_date": "30-sep-2019",
+            "state": "future"
+        },
+        "averyhill.com": {
+            "epoch": "1556323200",
+            "expiration_date": "27-apr-2019",
+            "state": "future"
+        },
+        "averylabelsonline.com": {
+            "epoch": "1577491200",
+            "expiration_date": "28-dec-2019",
+            "state": "future"
+        },
+        "averymosaic.com": {
+            "epoch": "1555027200",
+            "expiration_date": "12-apr-2019",
+            "state": "future"
+        },
+        "averypiano.com": {
+            "epoch": "1544400000",
+            "expiration_date": "10-dec-2018",
+            "state": "future"
+        },
+        "averyranchgolf.com": {
+            "epoch": "1673740800",
+            "expiration_date": "15-jan-2023",
+            "state": "future"
+        },
+        "averysgardenmarket.com": {
+            "epoch": "1556150400",
+            "expiration_date": "25-apr-2019",
+            "state": "future"
+        },
+        "averytube.com": {
+            "epoch": "1556236800",
+            "expiration_date": "26-apr-2019",
+            "state": "future"
+        },
+        "avesex.com": {
+            "epoch": "1548633600",
+            "expiration_date": "28-jan-2019",
+            "state": "future"
+        },
+        "avesinternational.com": {
+            "epoch": "1551657600",
+            "expiration_date": "04-mar-2019",
+            "state": "future"
+        },
+        "avessca.com": {
+            "epoch": "1559433600",
+            "expiration_date": "02-jun-2019",
+            "state": "future"
+        },
+        "avestakurd.net": {
+            "epoch": "1561161600",
+            "expiration_date": "22-jun-2019",
+            "state": "future"
+        },
+        "avestass.se": {
+            "epoch": "1559606400",
+            "expiration_date": "04-jun-2019",
+            "state": "future"
+        },
+        "avestravel.com": {
+            "epoch": "1567641600",
+            "expiration_date": "05-sep-2019",
+            "state": "future"
+        },
+        "avetravel.com": {
+            "epoch": "1572048000",
+            "expiration_date": "26-oct-2019",
+            "state": "future"
+        },
+        "aveux.com": {
+            "epoch": "1553817600",
+            "expiration_date": "29-mar-2019",
+            "state": "future"
+        },
+        "avevita.lt": {
+            "epoch": "1552435200",
+            "expiration_date": "13-mar-2019",
+            "state": "future"
+        },
+        "avexgolf.com": {
+            "epoch": "1573689600",
+            "expiration_date": "14-nov-2019",
+            "state": "future"
+        },
+        "avexx4x.com": {
+            "epoch": "1558569600",
+            "expiration_date": "23-may-2019",
+            "state": "future"
+        },
+        "aveyinc.com": {
+            "epoch": "1597190400",
+            "expiration_date": "12-aug-2020",
+            "state": "future"
+        },
+        "aveyron-segala-tourisme.com": {
+            "epoch": "1554595200",
+            "expiration_date": "07-apr-2019",
+            "state": "future"
+        },
+        "aveyron-sorgues.com": {
+            "epoch": "1543017600",
+            "expiration_date": "24-nov-2018",
+            "state": "future"
+        },
+        "aveyron.com": {
+            "epoch": "1552780800",
+            "expiration_date": "17-mar-2019",
+            "state": "future"
+        },
+        "aveyronline.com": {
+            "epoch": "1569196800",
+            "expiration_date": "23-sep-2019",
+            "state": "future"
+        },
+        "avfantasy.com": {
+            "epoch": "1564876800",
+            "expiration_date": "04-aug-2019",
+            "state": "future"
+        },
+        "avfc.dk": {
+            "epoch": "1580428800",
+            "expiration_date": "31-jan-2020",
+            "state": "future"
+        },
+        "avfcblog.com": {
+            "epoch": "1542240000",
+            "expiration_date": "15-nov-2018",
+            "state": "future"
+        },
+        "avforce.com": {
+            "epoch": "1563494400",
+            "expiration_date": "19-jul-2019",
+            "state": "future"
+        },
+        "avforums.com": {
+            "epoch": "1626307200",
+            "expiration_date": "15-jul-2021",
+            "state": "future"
+        },
+        "avftp.com": {
+            "epoch": "1566777600",
+            "expiration_date": "26-aug-2019",
+            "state": "future"
+        },
+        "avfuck.com": {
+            "epoch": "1551571200",
+            "expiration_date": "03-mar-2019",
+            "state": "future"
+        },
+        "avfurnitureplus.com": {
+            "epoch": "1616457600",
+            "expiration_date": "23-mar-2021",
+            "state": "future"
+        },
+        "avg.pl": {
+            "epoch": "1564444800",
+            "expiration_date": "30-jul-2019",
+            "state": "future"
+        },
+        "avgallery.com": {
+            "epoch": "1546905600",
+            "expiration_date": "08-jan-2019",
+            "state": "future"
+        },
+        "avgcondo.com": {
+            "epoch": "1560297600",
+            "expiration_date": "12-jun-2019",
+            "state": "future"
+        },
+        "avgirl.com": {
+            "epoch": "1564272000",
+            "expiration_date": "28-jul-2019",
+            "state": "future"
+        },
+        "avgirls.com": {
+            "epoch": "1540684800",
+            "expiration_date": "28-oct-2018",
+            "state": "past"
+        },
+        "avgirlx.com": {
+            "epoch": "1561939200",
+            "expiration_date": "01-jul-2019",
+            "state": "future"
+        },
+        "avgod.com": {
+            "epoch": "1543363200",
+            "expiration_date": "28-nov-2018",
+            "state": "future"
+        },
+        "avhappy.com": {
+            "epoch": "1568073600",
+            "expiration_date": "10-sep-2019",
+            "state": "future"
+        },
+        "avhardcore.com": {
+            "epoch": "1577059200",
+            "expiration_date": "23-dec-2019",
+            "state": "future"
+        },
+        "avhaven.com": {
+            "epoch": "1547078400",
+            "expiration_date": "10-jan-2019",
+            "state": "future"
+        },
+        "avheat.com": {
+            "epoch": "1541721600",
+            "expiration_date": "09-nov-2018",
+            "state": "future"
+        },
+        "avhere.com": {
+            "epoch": "1636156800",
+            "expiration_date": "06-nov-2021",
+            "state": "future"
+        },
+        "avhifi.com": {
+            "epoch": "1569196800",
+            "expiration_date": "23-sep-2019",
+            "state": "future"
+        },
+        "avhome.com": {
+            "epoch": "1683504000",
+            "expiration_date": "08-may-2023",
+            "state": "future"
+        },
+        "avhoney.com": {
+            "epoch": "1581206400",
+            "expiration_date": "09-feb-2020",
+            "state": "future"
+        },
+        "avhospital.org": {
+            "epoch": "1608249600",
+            "expiration_date": "18-dec-2020",
+            "state": "future"
+        },
+        "avht.ru": {
+            "epoch": "1543017600",
+            "expiration_date": "24-nov-2018",
+            "state": "future"
+        },
+        "avhunter.com": {
+            "epoch": "1582848000",
+            "expiration_date": "28-feb-2020",
+            "state": "future"
+        },
+        "avia-model.ru": {
+            "epoch": "1563926400",
+            "expiration_date": "24-jul-2019",
+            "state": "future"
+        },
+        "avia.lt": {
+            "epoch": "1561334400",
+            "expiration_date": "24-jun-2019",
+            "state": "future"
+        },
+        "avia3n.ru": {
+            "epoch": "1552867200",
+            "expiration_date": "18-mar-2019",
+            "state": "future"
+        },
+        "aviabellanca.com": {
+            "epoch": "1566345600",
+            "expiration_date": "21-aug-2019",
+            "state": "future"
+        },
+        "aviabilet.ru": {
+            "epoch": "1577836800",
+            "expiration_date": "01-jan-2020",
+            "state": "future"
+        },
+        "aviabiz.com": {
+            "epoch": "1547251200",
+            "expiration_date": "12-jan-2019",
+            "state": "future"
+        },
+        "aviacion.cl": {
+            "epoch": "1552262400",
+            "expiration_date": "11-mar-2019",
+            "state": "future"
+        },
+        "aviacionulm.com": {
+            "epoch": "1554076800",
+            "expiration_date": "01-apr-2019",
+            "state": "future"
+        },
+        "aviaed.net": {
+            "epoch": "1535587200",
+            "expiration_date": "30-aug-2018",
+            "state": "past"
+        },
+        "aviaekspresas.lt": {
+            "epoch": "1551398400",
+            "expiration_date": "01-mar-2019",
+            "state": "future"
+        },
+        "aviafilms.com": {
+            "epoch": "1570838400",
+            "expiration_date": "12-oct-2019",
+            "state": "future"
+        },
+        "aviajes.com": {
+            "epoch": "1542758400",
+            "expiration_date": "21-nov-2018",
+            "state": "future"
+        },
+        "aviall.com": {
+            "epoch": "1739577600",
+            "expiration_date": "15-feb-2025",
+            "state": "future"
+        },
+        "aviamodel.com": {
+            "epoch": "1555977600",
+            "expiration_date": "23-apr-2019",
+            "state": "future"
+        },
+        "aviamost.com": {
+            "epoch": "1556755200",
+            "expiration_date": "02-may-2019",
+            "state": "future"
+        },
+        "aviamost.ru": {
+            "epoch": "1574467200",
+            "expiration_date": "23-nov-2019",
+            "state": "future"
+        },
+        "avianadventuresaviary.com": {
+            "epoch": "1547337600",
+            "expiration_date": "13-jan-2019",
+            "state": "future"
+        },
+        "avianaquatics.com": {
+            "epoch": "1557532800",
+            "expiration_date": "11-may-2019",
+            "state": "future"
+        },
+        "avianavenue.com": {
+            "epoch": "1554854400",
+            "expiration_date": "10-apr-2019",
+            "state": "future"
+        },
+        "avianbiotech.com": {
+            "epoch": "1698537600",
+            "expiration_date": "29-oct-2023",
+            "state": "future"
+        },
+        "avianbreeder.com": {
+            "epoch": "1553990400",
+            "expiration_date": "31-mar-2019",
+            "state": "future"
+        },
+        "avianca.net": {
+            "epoch": "1546214400",
+            "expiration_date": "31-dec-2018",
+            "state": "future"
+        },
+        "aviancenter.com": {
+            "epoch": "1564617600",
+            "expiration_date": "01-aug-2019",
+            "state": "future"
+        },
+        "aviancompanions.com": {
+            "epoch": "1577491200",
+            "expiration_date": "28-dec-2019",
+            "state": "future"
+        },
+        "avianeyes.org": {
+            "epoch": "1549238400",
+            "expiration_date": "04-feb-2019",
+            "state": "future"
+        },
+        "avianhabitats.com": {
+            "epoch": "1559001600",
+            "expiration_date": "28-may-2019",
+            "state": "future"
+        },
+        "avianmanagement.com": {
+            "epoch": "1545350400",
+            "expiration_date": "21-dec-2018",
+            "state": "future"
+        },
+        "avianmechanics.com": {
+            "epoch": "1545955200",
+            "expiration_date": "28-dec-2018",
+            "state": "future"
+        },
+        "avianpublications.com": {
+            "epoch": "1547596800",
+            "expiration_date": "16-jan-2019",
+            "state": "future"
+        },
+        "avianrescue.org": {
+            "epoch": "1570579200",
+            "expiration_date": "09-oct-2019",
+            "state": "future"
+        },
+        "aviantics.com": {
+            "epoch": "1540944000",
+            "expiration_date": "31-oct-2018",
+            "state": "future"
+        },
+        "avianweb.com": {
+            "epoch": "1617840000",
+            "expiration_date": "08-apr-2021",
+            "state": "future"
+        },
+        "avianwelfare.org": {
+            "epoch": "1599177600",
+            "expiration_date": "04-sep-2020",
+            "state": "future"
+        },
+        "avianyard.com": {
+            "epoch": "1777248000",
+            "expiration_date": "27-apr-2026",
+            "state": "future"
+        },
+        "aviapress.com": {
+            "epoch": "1608854400",
+            "expiration_date": "25-dec-2020",
+            "state": "future"
+        },
+        "aviariums.com": {
+            "epoch": "1557532800",
+            "expiration_date": "11-may-2019",
+            "state": "future"
+        },
+        "aviartnutkins.com": {
+            "epoch": "1562716800",
+            "expiration_date": "10-jul-2019",
+            "state": "future"
+        },
+        "aviary.info": {
+            "epoch": "1546387200",
+            "expiration_date": "02-jan-2019",
+            "state": "future"
+        },
+        "aviary.org": {
+            "epoch": "1789516800",
+            "expiration_date": "16-sep-2026",
+            "state": "future"
+        },
+        "aviaryconnections.com": {
+            "epoch": "1571616000",
+            "expiration_date": "21-oct-2019",
+            "state": "future"
+        },
+        "aviastock.com": {
+            "epoch": "1567123200",
+            "expiration_date": "30-aug-2019",
+            "state": "future"
+        },
+        "aviataircraft.com": {
+            "epoch": "1608508800",
+            "expiration_date": "21-dec-2020",
+            "state": "future"
+        },
+        "aviate.biz": {
+            "epoch": "1577232000",
+            "expiration_date": "25-dec-2019",
+            "state": "future"
+        },
+        "aviatec-ulm.com": {
+            "epoch": "1568160000",
+            "expiration_date": "11-sep-2019",
+            "state": "future"
+        },
+        "aviatechpubs.com": {
+            "epoch": "1545955200",
+            "expiration_date": "28-dec-2018",
+            "state": "future"
+        },
+        "aviatechpubs.info": {
+            "epoch": "1547942400",
+            "expiration_date": "20-jan-2019",
+            "state": "future"
+        },
+        "aviatic.fr": {
+            "epoch": "1553126400",
+            "expiration_date": "21-mar-2019",
+            "state": "future"
+        },
+        "aviation-antiques.com": {
+            "epoch": "1604880000",
+            "expiration_date": "09-nov-2020",
+            "state": "future"
+        },
+        "aviation-art-hangar.com": {
+            "epoch": "1627084800",
+            "expiration_date": "24-jul-2021",
+            "state": "future"
+        },
+        "aviation-art.net": {
+            "epoch": "1547683200",
+            "expiration_date": "17-jan-2019",
+            "state": "future"
+        },
+        "aviation-central.com": {
+            "epoch": "1568160000",
+            "expiration_date": "11-sep-2019",
+            "state": "future"
+        },
+        "aviationactivities.com": {
+            "epoch": "1561593600",
+            "expiration_date": "27-jun-2019",
+            "state": "future"
+        },
+        "aviationads.net": {
+            "epoch": "1571270400",
+            "expiration_date": "17-oct-2019",
+            "state": "future"
+        },
+        "aviationartist.com": {
+            "epoch": "1712361600",
+            "expiration_date": "06-apr-2024",
+            "state": "future"
+        },
+        "aviationauthority.org": {
+            "epoch": "1572048000",
+            "expiration_date": "26-oct-2019",
+            "state": "future"
+        },
+        "aviationbook.com": {
+            "epoch": "1712188800",
+            "expiration_date": "04-apr-2024",
+            "state": "future"
+        },
+        "aviationbooksbygms.com": {
+            "epoch": "1558051200",
+            "expiration_date": "17-may-2019",
+            "state": "future"
+        },
+        "aviationclubdefrance.com": {
+            "epoch": "1567382400",
+            "expiration_date": "02-sep-2019",
             "state": "future"
         }
     }
