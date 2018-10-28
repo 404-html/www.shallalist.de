@@ -77019,6 +77019,1251 @@
             "epoch": "1555632000",
             "expiration_date": "19-apr-2019",
             "state": "future"
+        },
+        "bank-anywhere.com": {
+            "epoch": "1558224000",
+            "expiration_date": "19-may-2019",
+            "state": "future"
+        },
+        "bank-banque-canada.ca": {
+            "epoch": "1764374400",
+            "expiration_date": "29-nov-2025",
+            "state": "future"
+        },
+        "bank-media.com": {
+            "epoch": "1560470400",
+            "expiration_date": "14-jun-2019",
+            "state": "future"
+        },
+        "bank-music.com": {
+            "epoch": "1552435200",
+            "expiration_date": "13-mar-2019",
+            "state": "future"
+        },
+        "bank-of-dadeville.com": {
+            "epoch": "1596499200",
+            "expiration_date": "04-aug-2020",
+            "state": "future"
+        },
+        "bank-of-tidewater.com": {
+            "epoch": "1557446400",
+            "expiration_date": "10-may-2019",
+            "state": "future"
+        },
+        "bank-of-wisdom.com": {
+            "epoch": "1550016000",
+            "expiration_date": "13-feb-2019",
+            "state": "future"
+        },
+        "bank-saderat-iran.com": {
+            "epoch": "1557878400",
+            "expiration_date": "15-may-2019",
+            "state": "future"
+        },
+        "bank-shot.com": {
+            "epoch": "1555459200",
+            "expiration_date": "17-apr-2019",
+            "state": "future"
+        },
+        "bank-soft.com": {
+            "epoch": "1559347200",
+            "expiration_date": "01-jun-2019",
+            "state": "future"
+        },
+        "bankandoffice.com": {
+            "epoch": "1635897600",
+            "expiration_date": "03-nov-2021",
+            "state": "future"
+        },
+        "bankara.net": {
+            "epoch": "1563494400",
+            "expiration_date": "19-jul-2019",
+            "state": "future"
+        },
+        "bankard.com": {
+            "epoch": "1571616000",
+            "expiration_date": "21-oct-2019",
+            "state": "future"
+        },
+        "bankasia-bd.com": {
+            "epoch": "1658966400",
+            "expiration_date": "28-jul-2022",
+            "state": "future"
+        },
+        "bankatcommerce.com": {
+            "epoch": "1558656000",
+            "expiration_date": "24-may-2019",
+            "state": "future"
+        },
+        "bankatharrington.com": {
+            "epoch": "1749168000",
+            "expiration_date": "06-jun-2025",
+            "state": "future"
+        },
+        "bankatlantic.com": {
+            "epoch": "1543708800",
+            "expiration_date": "02-dec-2018",
+            "state": "future"
+        },
+        "bankatsecurity.com": {
+            "epoch": "1651190400",
+            "expiration_date": "29-apr-2022",
+            "state": "future"
+        },
+        "bankatunited.com": {
+            "epoch": "1609891200",
+            "expiration_date": "06-jan-2021",
+            "state": "future"
+        },
+        "bankaudiusa.com": {
+            "epoch": "1635292800",
+            "expiration_date": "27-oct-2021",
+            "state": "future"
+        },
+        "bankbac.com": {
+            "epoch": "1595894400",
+            "expiration_date": "28-jul-2020",
+            "state": "future"
+        },
+        "bankbb.com": {
+            "epoch": "1542931200",
+            "expiration_date": "23-nov-2018",
+            "state": "future"
+        },
+        "bankbps.pl": {
+            "epoch": "1545091200",
+            "expiration_date": "18-dec-2018",
+            "state": "future"
+        },
+        "bankcalumet.com": {
+            "epoch": "1570752000",
+            "expiration_date": "11-oct-2019",
+            "state": "future"
+        },
+        "bankcaroline.com": {
+            "epoch": "1564444800",
+            "expiration_date": "30-jul-2019",
+            "state": "future"
+        },
+        "bankcb.com": {
+            "epoch": "1553817600",
+            "expiration_date": "29-mar-2019",
+            "state": "future"
+        },
+        "bankcenterfirst.com": {
+            "epoch": "1848355200",
+            "expiration_date": "28-jul-2028",
+            "state": "future"
+        },
+        "bankchampaign.com": {
+            "epoch": "1850083200",
+            "expiration_date": "17-aug-2028",
+            "state": "future"
+        },
+        "bankcib.com": {
+            "epoch": "1842048000",
+            "expiration_date": "16-may-2028",
+            "state": "future"
+        },
+        "bankcnb.com": {
+            "epoch": "1555718400",
+            "expiration_date": "20-apr-2019",
+            "state": "future"
+        },
+        "bankcom.com": {
+            "epoch": "1568073600",
+            "expiration_date": "10-sep-2019",
+            "state": "future"
+        },
+        "bankcsb.com": {
+            "epoch": "1837641600",
+            "expiration_date": "26-mar-2028",
+            "state": "future"
+        },
+        "bankdirect.com": {
+            "epoch": "1584835200",
+            "expiration_date": "22-mar-2020",
+            "state": "future"
+        },
+        "bankdirector.com": {
+            "epoch": "1579737600",
+            "expiration_date": "23-jan-2020",
+            "state": "future"
+        },
+        "bankeberg.com": {
+            "epoch": "1543536000",
+            "expiration_date": "30-nov-2018",
+            "state": "future"
+        },
+        "bankelites.com": {
+            "epoch": "1536969600",
+            "expiration_date": "15-sep-2018",
+            "state": "past"
+        },
+        "bankerandtradesman.com": {
+            "epoch": "1686787200",
+            "expiration_date": "15-jun-2023",
+            "state": "future"
+        },
+        "bankersalmanac.com": {
+            "epoch": "1549756800",
+            "expiration_date": "10-feb-2019",
+            "state": "future"
+        },
+        "bankersbankusa.com": {
+            "epoch": "1552953600",
+            "expiration_date": "19-mar-2019",
+            "state": "future"
+        },
+        "bankersbridgeclub.com": {
+            "epoch": "1546387200",
+            "expiration_date": "02-jan-2019",
+            "state": "future"
+        },
+        "bankerscompliancegroup.com": {
+            "epoch": "1607212800",
+            "expiration_date": "06-dec-2020",
+            "state": "future"
+        },
+        "bankersfirstmortgage.com": {
+            "epoch": "1541203200",
+            "expiration_date": "03-nov-2018",
+            "state": "future"
+        },
+        "bankersinsurance.com": {
+            "epoch": "1592265600",
+            "expiration_date": "16-jun-2020",
+            "state": "future"
+        },
+        "bankerslifeinsurance.com": {
+            "epoch": "1542240000",
+            "expiration_date": "15-nov-2018",
+            "state": "future"
+        },
+        "bankersmortgage.com": {
+            "epoch": "1810339200",
+            "expiration_date": "15-may-2027",
+            "state": "future"
+        },
+        "bankersonline.com": {
+            "epoch": "1574812800",
+            "expiration_date": "27-nov-2019",
+            "state": "future"
+        },
+        "bankerstitle.com": {
+            "epoch": "1552694400",
+            "expiration_date": "16-mar-2019",
+            "state": "future"
+        },
+        "bankerstrustiowa.com": {
+            "epoch": "1561075200",
+            "expiration_date": "21-jun-2019",
+            "state": "future"
+        },
+        "bankeureka.com": {
+            "epoch": "1617926400",
+            "expiration_date": "09-apr-2021",
+            "state": "future"
+        },
+        "bankey.net": {
+            "epoch": "1537056000",
+            "expiration_date": "16-sep-2018",
+            "state": "past"
+        },
+        "bankfirst.com": {
+            "epoch": "1556323200",
+            "expiration_date": "27-apr-2019",
+            "state": "future"
+        },
+        "bankfirstfederal.com": {
+            "epoch": "1566604800",
+            "expiration_date": "24-aug-2019",
+            "state": "future"
+        },
+        "bankfirsttennessee.biz": {
+            "epoch": "1540339200",
+            "expiration_date": "24-oct-2018",
+            "state": "past"
+        },
+        "bankfocus.com": {
+            "epoch": "1591142400",
+            "expiration_date": "03-jun-2020",
+            "state": "future"
+        },
+        "bankforeningen.se": {
+            "epoch": "1546214400",
+            "expiration_date": "31-dec-2018",
+            "state": "future"
+        },
+        "bankgallery.com": {
+            "epoch": "1553904000",
+            "expiration_date": "30-mar-2019",
+            "state": "future"
+        },
+        "bankground.com": {
+            "epoch": "1717200000",
+            "expiration_date": "01-jun-2024",
+            "state": "future"
+        },
+        "bankgrow.com": {
+            "epoch": "1563321600",
+            "expiration_date": "17-jul-2019",
+            "state": "future"
+        },
+        "bankhunmae.com": {
+            "epoch": "1560297600",
+            "expiration_date": "12-jun-2019",
+            "state": "future"
+        },
+        "banki.ru": {
+            "epoch": "1569974400",
+            "expiration_date": "02-oct-2019",
+            "state": "future"
+        },
+        "bankier.pl": {
+            "epoch": "1553126400",
+            "expiration_date": "21-mar-2019",
+            "state": "future"
+        },
+        "bankimia.com": {
+            "epoch": "1576800000",
+            "expiration_date": "20-dec-2019",
+            "state": "future"
+        },
+        "bankinfosecurity.com": {
+            "epoch": "1568851200",
+            "expiration_date": "19-sep-2019",
+            "state": "future"
+        },
+        "banking-finance.com": {
+            "epoch": "1551571200",
+            "expiration_date": "03-mar-2019",
+            "state": "future"
+        },
+        "bankingtech.com": {
+            "epoch": "1548201600",
+            "expiration_date": "23-jan-2019",
+            "state": "future"
+        },
+        "bankinsurance.com": {
+            "epoch": "1554163200",
+            "expiration_date": "02-apr-2019",
+            "state": "future"
+        },
+        "bankinvest.com": {
+            "epoch": "1541894400",
+            "expiration_date": "11-nov-2018",
+            "state": "future"
+        },
+        "bankinvest.dk": {
+            "epoch": "1569801600",
+            "expiration_date": "30-sep-2019",
+            "state": "future"
+        },
+        "bankir.ru": {
+            "epoch": "1548979200",
+            "expiration_date": "01-feb-2019",
+            "state": "future"
+        },
+        "bankkansas.com": {
+            "epoch": "1581379200",
+            "expiration_date": "11-feb-2020",
+            "state": "future"
+        },
+        "bankkaufmann.com": {
+            "epoch": "1563580800",
+            "expiration_date": "20-jul-2019",
+            "state": "future"
+        },
+        "banklamp.com": {
+            "epoch": "1542412800",
+            "expiration_date": "17-nov-2018",
+            "state": "future"
+        },
+        "bankloansurf.info": {
+            "epoch": "1544140800",
+            "expiration_date": "07-dec-2018",
+            "state": "future"
+        },
+        "bankmcb.com": {
+            "epoch": "1573171200",
+            "expiration_date": "08-nov-2019",
+            "state": "future"
+        },
+        "bankmega.com": {
+            "epoch": "1619481600",
+            "expiration_date": "27-apr-2021",
+            "state": "future"
+        },
+        "bankmercantile.com": {
+            "epoch": "1586217600",
+            "expiration_date": "07-apr-2020",
+            "state": "future"
+        },
+        "bankmergers.com": {
+            "epoch": "1567123200",
+            "expiration_date": "30-aug-2019",
+            "state": "future"
+        },
+        "bankmeridian.com": {
+            "epoch": "1567209600",
+            "expiration_date": "31-aug-2019",
+            "state": "future"
+        },
+        "bankmidamerica.com": {
+            "epoch": "1570752000",
+            "expiration_date": "11-oct-2019",
+            "state": "future"
+        },
+        "bankmnb.com": {
+            "epoch": "1560902400",
+            "expiration_date": "19-jun-2019",
+            "state": "future"
+        },
+        "bankmuscat.com": {
+            "epoch": "1564963200",
+            "expiration_date": "05-aug-2019",
+            "state": "future"
+        },
+        "bankmw.com": {
+            "epoch": "1594944000",
+            "expiration_date": "17-jul-2020",
+            "state": "future"
+        },
+        "banknbsb.com": {
+            "epoch": "1619395200",
+            "expiration_date": "26-apr-2021",
+            "state": "future"
+        },
+        "banknetindia.com": {
+            "epoch": "1569628800",
+            "expiration_date": "28-sep-2019",
+            "state": "future"
+        },
+        "banknewport.com": {
+            "epoch": "1571443200",
+            "expiration_date": "19-oct-2019",
+            "state": "future"
+        },
+        "bankniaga.com": {
+            "epoch": "1549411200",
+            "expiration_date": "06-feb-2019",
+            "state": "future"
+        },
+        "banknisp.com": {
+            "epoch": "1785974400",
+            "expiration_date": "06-aug-2026",
+            "state": "future"
+        },
+        "banknorthgeorgia.com": {
+            "epoch": "1559433600",
+            "expiration_date": "02-jun-2019",
+            "state": "future"
+        },
+        "banknorthma.com": {
+            "epoch": "1567641600",
+            "expiration_date": "05-sep-2019",
+            "state": "future"
+        },
+        "banknorthshore.com": {
+            "epoch": "1544918400",
+            "expiration_date": "16-dec-2018",
+            "state": "future"
+        },
+        "banknoteheaven.com": {
+            "epoch": "1561593600",
+            "expiration_date": "27-jun-2019",
+            "state": "future"
+        },
+        "banknotes.com": {
+            "epoch": "1559952000",
+            "expiration_date": "08-jun-2019",
+            "state": "future"
+        },
+        "banknotes.us": {
+            "epoch": "1543968000",
+            "expiration_date": "05-dec-2018",
+            "state": "future"
+        },
+        "banknotes4sale.com": {
+            "epoch": "1545955200",
+            "expiration_date": "28-dec-2018",
+            "state": "future"
+        },
+        "bankofalbania.org": {
+            "epoch": "1629676800",
+            "expiration_date": "23-aug-2021",
+            "state": "future"
+        },
+        "bankofamerica.com": {
+            "epoch": "1703721600",
+            "expiration_date": "28-dec-2023",
+            "state": "future"
+        },
+        "bankofannarbor.com": {
+            "epoch": "1550880000",
+            "expiration_date": "23-feb-2019",
+            "state": "future"
+        },
+        "bankofbaroda-fiji.com": {
+            "epoch": "1551744000",
+            "expiration_date": "05-mar-2019",
+            "state": "future"
+        },
+        "bankofbaroda-usa.com": {
+            "epoch": "1556841600",
+            "expiration_date": "03-may-2019",
+            "state": "future"
+        },
+        "bankofbaroda.com": {
+            "epoch": "1667865600",
+            "expiration_date": "08-nov-2022",
+            "state": "future"
+        },
+        "bankofbolivar.com": {
+            "epoch": "1572048000",
+            "expiration_date": "26-oct-2019",
+            "state": "future"
+        },
+        "bankofbotetourt.com": {
+            "epoch": "1552780800",
+            "expiration_date": "17-mar-2019",
+            "state": "future"
+        },
+        "bankofbotetourtonline.com": {
+            "epoch": "1566000000",
+            "expiration_date": "17-aug-2019",
+            "state": "future"
+        },
+        "bankofbotswana.bw": {
+            "epoch": "1542672000",
+            "expiration_date": "20-nov-2018",
+            "state": "future"
+        },
+        "bankofbrodhead.com": {
+            "epoch": "1561161600",
+            "expiration_date": "22-jun-2019",
+            "state": "future"
+        },
+        "bankofcanada.ca": {
+            "epoch": "1785024000",
+            "expiration_date": "26-jul-2026",
+            "state": "future"
+        },
+        "bankofcd.com": {
+            "epoch": "1563408000",
+            "expiration_date": "18-jul-2019",
+            "state": "future"
+        },
+        "bankofcharlotte.com": {
+            "epoch": "1561075200",
+            "expiration_date": "21-jun-2019",
+            "state": "future"
+        },
+        "bankofclarkcounty.com": {
+            "epoch": "1548460800",
+            "expiration_date": "26-jan-2019",
+            "state": "future"
+        },
+        "bankofclarke.com": {
+            "epoch": "1826064000",
+            "expiration_date": "13-nov-2027",
+            "state": "future"
+        },
+        "bankofcleveland.com": {
+            "epoch": "1550620800",
+            "expiration_date": "20-feb-2019",
+            "state": "future"
+        },
+        "bankofcyprus.com": {
+            "epoch": "1618012800",
+            "expiration_date": "10-apr-2021",
+            "state": "future"
+        },
+        "bankofdelmar.com": {
+            "epoch": "1566432000",
+            "expiration_date": "22-aug-2019",
+            "state": "future"
+        },
+        "bankofessex.com": {
+            "epoch": "1553212800",
+            "expiration_date": "22-mar-2019",
+            "state": "future"
+        },
+        "bankofestonia.info": {
+            "epoch": "1698537600",
+            "expiration_date": "29-oct-2023",
+            "state": "future"
+        },
+        "bankoffallriver.com": {
+            "epoch": "1558915200",
+            "expiration_date": "27-may-2019",
+            "state": "future"
+        },
+        "bankoffayettecounty.com": {
+            "epoch": "1609977600",
+            "expiration_date": "07-jan-2021",
+            "state": "future"
+        },
+        "bankoffrankewing.com": {
+            "epoch": "1779580800",
+            "expiration_date": "24-may-2026",
+            "state": "future"
+        },
+        "bankofgranite.com": {
+            "epoch": "1541116800",
+            "expiration_date": "02-nov-2018",
+            "state": "future"
+        },
+        "bankofhazlehurst.com": {
+            "epoch": "1776038400",
+            "expiration_date": "13-apr-2026",
+            "state": "future"
+        },
+        "bankofholland.com": {
+            "epoch": "1561680000",
+            "expiration_date": "28-jun-2019",
+            "state": "future"
+        },
+        "bankofhollysprings.com": {
+            "epoch": "1832544000",
+            "expiration_date": "27-jan-2028",
+            "state": "future"
+        },
+        "bankofhwfs.com": {
+            "epoch": "1591488000",
+            "expiration_date": "07-jun-2020",
+            "state": "future"
+        },
+        "bankofillinois.com": {
+            "epoch": "1586044800",
+            "expiration_date": "05-apr-2020",
+            "state": "future"
+        },
+        "bankofindia.com": {
+            "epoch": "1673308800",
+            "expiration_date": "10-jan-2023",
+            "state": "future"
+        },
+        "bankofireland.com": {
+            "epoch": "1563667200",
+            "expiration_date": "21-jul-2019",
+            "state": "future"
+        },
+        "bankoflenawee.com": {
+            "epoch": "1564012800",
+            "expiration_date": "25-jul-2019",
+            "state": "future"
+        },
+        "bankoflouisiana.com": {
+            "epoch": "1582588800",
+            "expiration_date": "25-feb-2020",
+            "state": "future"
+        },
+        "bankoflouisville.com": {
+            "epoch": "1567123200",
+            "expiration_date": "30-aug-2019",
+            "state": "future"
+        },
+        "bankofmapleplain.com": {
+            "epoch": "1573862400",
+            "expiration_date": "16-nov-2019",
+            "state": "future"
+        },
+        "bankofmarin.com": {
+            "epoch": "1563494400",
+            "expiration_date": "19-jul-2019",
+            "state": "future"
+        },
+        "bankofmonticello.com": {
+            "epoch": "1831939200",
+            "expiration_date": "20-jan-2028",
+            "state": "future"
+        },
+        "bankofnashville.com": {
+            "epoch": "1572134400",
+            "expiration_date": "27-oct-2019",
+            "state": "future"
+        },
+        "bankofneworleans.net": {
+            "epoch": "1564099200",
+            "expiration_date": "26-jul-2019",
+            "state": "future"
+        },
+        "bankofnm.com": {
+            "epoch": "1732492800",
+            "expiration_date": "25-nov-2024",
+            "state": "future"
+        },
+        "bankofnorthernmichigan.com": {
+            "epoch": "1565308800",
+            "expiration_date": "09-aug-2019",
+            "state": "future"
+        },
+        "bankofny.com": {
+            "epoch": "1604880000",
+            "expiration_date": "09-nov-2020",
+            "state": "future"
+        },
+        "bankofoklahoma.com": {
+            "epoch": "1543017600",
+            "expiration_date": "24-nov-2018",
+            "state": "future"
+        },
+        "bankoforangecounty.com": {
+            "epoch": "1587945600",
+            "expiration_date": "27-apr-2020",
+            "state": "future"
+        },
+        "bankofpalestine.com": {
+            "epoch": "1659225600",
+            "expiration_date": "31-jul-2022",
+            "state": "future"
+        },
+        "bankofparagould.com": {
+            "epoch": "1564272000",
+            "expiration_date": "28-jul-2019",
+            "state": "future"
+        },
+        "bankofpensacola.com": {
+            "epoch": "1555113600",
+            "expiration_date": "13-apr-2019",
+            "state": "future"
+        },
+        "bankofpetaluma.com": {
+            "epoch": "1571184000",
+            "expiration_date": "16-oct-2019",
+            "state": "future"
+        },
+        "bankofpoker.fr": {
+            "epoch": "1581811200",
+            "expiration_date": "16-feb-2020",
+            "state": "future"
+        },
+        "bankofporno.com": {
+            "epoch": "1569888000",
+            "expiration_date": "01-oct-2019",
+            "state": "future"
+        },
+        "bankofpunjab.com": {
+            "epoch": "1582156800",
+            "expiration_date": "20-feb-2020",
+            "state": "future"
+        },
+        "bankofrajasthan.com": {
+            "epoch": "1557532800",
+            "expiration_date": "11-may-2019",
+            "state": "future"
+        },
+        "bankofromney.net": {
+            "epoch": "1568592000",
+            "expiration_date": "16-sep-2019",
+            "state": "future"
+        },
+        "bankofsex.com": {
+            "epoch": "1562976000",
+            "expiration_date": "13-jul-2019",
+            "state": "future"
+        },
+        "bankofsierraleone-centralbank.org": {
+            "epoch": "1570665600",
+            "expiration_date": "10-oct-2019",
+            "state": "future"
+        },
+        "bankofsouthernmd.com": {
+            "epoch": "1560297600",
+            "expiration_date": "12-jun-2019",
+            "state": "future"
+        },
+        "bankofsudan.org": {
+            "epoch": "1554508800",
+            "expiration_date": "06-apr-2019",
+            "state": "future"
+        },
+        "bankoftampa.com": {
+            "epoch": "1572220800",
+            "expiration_date": "28-oct-2019",
+            "state": "future"
+        },
+        "bankofthelakes.com": {
+            "epoch": "1556150400",
+            "expiration_date": "25-apr-2019",
+            "state": "future"
+        },
+        "bankofthesierra.com": {
+            "epoch": "1776470400",
+            "expiration_date": "18-apr-2026",
+            "state": "future"
+        },
+        "bankofthesouthwest.com": {
+            "epoch": "1543104000",
+            "expiration_date": "25-nov-2018",
+            "state": "future"
+        },
+        "bankofthewest.com": {
+            "epoch": "1579824000",
+            "expiration_date": "24-jan-2020",
+            "state": "future"
+        },
+        "bankofthewestclassic.com": {
+            "epoch": "1557014400",
+            "expiration_date": "05-may-2019",
+            "state": "future"
+        },
+        "bankoftravelersrest.com": {
+            "epoch": "1619136000",
+            "expiration_date": "23-apr-2021",
+            "state": "future"
+        },
+        "bankofupson.com": {
+            "epoch": "1570752000",
+            "expiration_date": "11-oct-2019",
+            "state": "future"
+        },
+        "bankofwalterboro.com": {
+            "epoch": "1594598400",
+            "expiration_date": "13-jul-2020",
+            "state": "future"
+        },
+        "bankofwashington.com": {
+            "epoch": "1677888000",
+            "expiration_date": "04-mar-2023",
+            "state": "future"
+        },
+        "bankofwaukegan.com": {
+            "epoch": "1546819200",
+            "expiration_date": "07-jan-2019",
+            "state": "future"
+        },
+        "bankofwausau.com": {
+            "epoch": "1549324800",
+            "expiration_date": "05-feb-2019",
+            "state": "future"
+        },
+        "bankofwinona.com": {
+            "epoch": "1599868800",
+            "expiration_date": "12-sep-2020",
+            "state": "future"
+        },
+        "bankofzumbrota.com": {
+            "epoch": "1554508800",
+            "expiration_date": "06-apr-2019",
+            "state": "future"
+        },
+        "bankok.pl": {
+            "epoch": "1571443200",
+            "expiration_date": "19-oct-2019",
+            "state": "future"
+        },
+        "bankone.com": {
+            "epoch": "1606089600",
+            "expiration_date": "23-nov-2020",
+            "state": "future"
+        },
+        "bankonnet.com": {
+            "epoch": "1597622400",
+            "expiration_date": "17-aug-2020",
+            "state": "future"
+        },
+        "bankorient.com": {
+            "epoch": "1650240000",
+            "expiration_date": "18-apr-2022",
+            "state": "future"
+        },
+        "bankospil.dk": {
+            "epoch": "1559260800",
+            "expiration_date": "31-may-2019",
+            "state": "future"
+        },
+        "bankov.com": {
+            "epoch": "1541894400",
+            "expiration_date": "11-nov-2018",
+            "state": "future"
+        },
+        "bankowa.pl": {
+            "epoch": "1555632000",
+            "expiration_date": "19-apr-2019",
+            "state": "future"
+        },
+        "bankozarks.com": {
+            "epoch": "1555372800",
+            "expiration_date": "16-apr-2019",
+            "state": "future"
+        },
+        "bankpacific.com": {
+            "epoch": "1654646400",
+            "expiration_date": "08-jun-2022",
+            "state": "future"
+        },
+        "bankpnb.com": {
+            "epoch": "1565740800",
+            "expiration_date": "14-aug-2019",
+            "state": "future"
+        },
+        "bankporno.com": {
+            "epoch": "1567123200",
+            "expiration_date": "30-aug-2019",
+            "state": "future"
+        },
+        "bankprivat.com": {
+            "epoch": "1549065600",
+            "expiration_date": "02-feb-2019",
+            "state": "future"
+        },
+        "bankrate.com": {
+            "epoch": "1559433600",
+            "expiration_date": "02-jun-2019",
+            "state": "future"
+        },
+        "bankrcb.com": {
+            "epoch": "1571875200",
+            "expiration_date": "24-oct-2019",
+            "state": "future"
+        },
+        "bankrecordkeeping.com": {
+            "epoch": "1549324800",
+            "expiration_date": "05-feb-2019",
+            "state": "future"
+        },
+        "bankrepublic.com": {
+            "epoch": "1709078400",
+            "expiration_date": "28-feb-2024",
+            "state": "future"
+        },
+        "bankri.com": {
+            "epoch": "1570665600",
+            "expiration_date": "10-oct-2019",
+            "state": "future"
+        },
+        "banksandiego.com": {
+            "epoch": "1585785600",
+            "expiration_date": "02-apr-2020",
+            "state": "future"
+        },
+        "banksanjuans.com": {
+            "epoch": "1558828800",
+            "expiration_date": "26-may-2019",
+            "state": "future"
+        },
+        "banksaviation.com": {
+            "epoch": "1546128000",
+            "expiration_date": "30-dec-2018",
+            "state": "future"
+        },
+        "banksbc.com": {
+            "epoch": "1616198400",
+            "expiration_date": "20-mar-2021",
+            "state": "future"
+        },
+        "banksc.com": {
+            "epoch": "1679356800",
+            "expiration_date": "21-mar-2023",
+            "state": "future"
+        },
+        "banksdaily.com": {
+            "epoch": "1541462400",
+            "expiration_date": "06-nov-2018",
+            "state": "future"
+        },
+        "banksecurity.com": {
+            "epoch": "1846108800",
+            "expiration_date": "02-jul-2028",
+            "state": "future"
+        },
+        "banksex.com": {
+            "epoch": "1570060800",
+            "expiration_date": "03-oct-2019",
+            "state": "future"
+        },
+        "banksfarm.com": {
+            "epoch": "1558656000",
+            "expiration_date": "24-may-2019",
+            "state": "future"
+        },
+        "bankshot.com": {
+            "epoch": "1554854400",
+            "expiration_date": "10-apr-2019",
+            "state": "future"
+        },
+        "bankshotantiques.com": {
+            "epoch": "1610323200",
+            "expiration_date": "11-jan-2021",
+            "state": "future"
+        },
+        "banksidetackle.com": {
+            "epoch": "1587513600",
+            "expiration_date": "22-apr-2020",
+            "state": "future"
+        },
+        "banksite.com": {
+            "epoch": "1631059200",
+            "expiration_date": "08-sep-2021",
+            "state": "future"
+        },
+        "banksmortgage.com": {
+            "epoch": "1548979200",
+            "expiration_date": "01-feb-2019",
+            "state": "future"
+        },
+        "banksoftheeverglades.com": {
+            "epoch": "1566604800",
+            "expiration_date": "24-aug-2019",
+            "state": "future"
+        },
+        "banksouthwest.com": {
+            "epoch": "1544054400",
+            "expiration_date": "06-dec-2018",
+            "state": "future"
+        },
+        "bankspedia.com": {
+            "epoch": "1554681600",
+            "expiration_date": "08-apr-2019",
+            "state": "future"
+        },
+        "bankstaffers.com": {
+            "epoch": "1580083200",
+            "expiration_date": "27-jan-2020",
+            "state": "future"
+        },
+        "bankstars.com": {
+            "epoch": "1566777600",
+            "expiration_date": "26-aug-2019",
+            "state": "future"
+        },
+        "bankstreet.ca": {
+            "epoch": "1600560000",
+            "expiration_date": "20-sep-2020",
+            "state": "future"
+        },
+        "bankstreet.edu": {
+            "epoch": "1627689600",
+            "expiration_date": "31-jul-2021",
+            "state": "future"
+        },
+        "banktecgroup.com": {
+            "epoch": "1572134400",
+            "expiration_date": "27-oct-2019",
+            "state": "future"
+        },
+        "banktech.com": {
+            "epoch": "1571184000",
+            "expiration_date": "16-oct-2019",
+            "state": "future"
+        },
+        "bankucb.com": {
+            "epoch": "1605312000",
+            "expiration_date": "14-nov-2020",
+            "state": "future"
+        },
+        "bankultra.com": {
+            "epoch": "1549843200",
+            "expiration_date": "11-feb-2019",
+            "state": "future"
+        },
+        "bankunitedfla.com": {
+            "epoch": "1656374400",
+            "expiration_date": "28-jun-2022",
+            "state": "future"
+        },
+        "bankveles.com": {
+            "epoch": "1559260800",
+            "expiration_date": "31-may-2019",
+            "state": "future"
+        },
+        "bankvilla.com": {
+            "epoch": "1595203200",
+            "expiration_date": "20-jul-2020",
+            "state": "future"
+        },
+        "bankvista.com": {
+            "epoch": "1551916800",
+            "expiration_date": "07-mar-2019",
+            "state": "future"
+        },
+        "bankwbr.com": {
+            "epoch": "1556496000",
+            "expiration_date": "29-apr-2019",
+            "state": "future"
+        },
+        "bankwest-sd.com": {
+            "epoch": "1628035200",
+            "expiration_date": "04-aug-2021",
+            "state": "future"
+        },
+        "bankwestnevada.com": {
+            "epoch": "1575590400",
+            "expiration_date": "06-dec-2019",
+            "state": "future"
+        },
+        "bankwi.com": {
+            "epoch": "1605830400",
+            "expiration_date": "20-nov-2020",
+            "state": "future"
+        },
+        "bankwithpsb.com": {
+            "epoch": "1553990400",
+            "expiration_date": "31-mar-2019",
+            "state": "future"
+        },
+        "bankwoes.com": {
+            "epoch": "1561161600",
+            "expiration_date": "22-jun-2019",
+            "state": "future"
+        },
+        "bankyapalace.com": {
+            "epoch": "1549843200",
+            "expiration_date": "11-feb-2019",
+            "state": "future"
+        },
+        "banlieue-sexe.com": {
+            "epoch": "1572739200",
+            "expiration_date": "03-nov-2019",
+            "state": "future"
+        },
+        "banlieue13-lefilm.com": {
+            "epoch": "1571184000",
+            "expiration_date": "16-oct-2019",
+            "state": "future"
+        },
+        "banlieusardises.com": {
+            "epoch": "1572480000",
+            "expiration_date": "31-oct-2019",
+            "state": "future"
+        },
+        "banlifishfarm.com": {
+            "epoch": "1571788800",
+            "expiration_date": "23-oct-2019",
+            "state": "future"
+        },
+        "bannaporn.com": {
+            "epoch": "1586908800",
+            "expiration_date": "15-apr-2020",
+            "state": "future"
+        },
+        "banned-incest.com": {
+            "epoch": "1570492800",
+            "expiration_date": "08-oct-2019",
+            "state": "future"
+        },
+        "banned.com": {
+            "epoch": "1579996800",
+            "expiration_date": "26-jan-2020",
+            "state": "future"
+        },
+        "banned3dsex.com": {
+            "epoch": "1553558400",
+            "expiration_date": "26-mar-2019",
+            "state": "future"
+        },
+        "bannedbypass.com": {
+            "epoch": "1548460800",
+            "expiration_date": "26-jan-2019",
+            "state": "future"
+        },
+        "bannedcelebs.com": {
+            "epoch": "1555200000",
+            "expiration_date": "14-apr-2019",
+            "state": "future"
+        },
+        "bannedclips.com": {
+            "epoch": "1559260800",
+            "expiration_date": "31-may-2019",
+            "state": "future"
+        },
+        "bannedebooks.com": {
+            "epoch": "1564963200",
+            "expiration_date": "05-aug-2019",
+            "state": "future"
+        },
+        "bannedfamilyporn.com": {
+            "epoch": "1542412800",
+            "expiration_date": "17-nov-2018",
+            "state": "future"
+        },
+        "bannedfromlife.com": {
+            "epoch": "1544745600",
+            "expiration_date": "14-dec-2018",
+            "state": "future"
+        },
+        "bannedfromtv.com": {
+            "epoch": "1573603200",
+            "expiration_date": "13-nov-2019",
+            "state": "future"
+        },
+        "bannedfromyoutube.com": {
+            "epoch": "1579392000",
+            "expiration_date": "19-jan-2020",
+            "state": "future"
+        },
+        "bannedfuckers.com": {
+            "epoch": "1570579200",
+            "expiration_date": "09-oct-2019",
+            "state": "future"
+        },
+        "bannedgirls.com": {
+            "epoch": "1543708800",
+            "expiration_date": "02-dec-2018",
+            "state": "future"
+        },
+        "bannedhost.net": {
+            "epoch": "1567728000",
+            "expiration_date": "06-sep-2019",
+            "state": "future"
+        },
+        "bannedincest.com": {
+            "epoch": "1544313600",
+            "expiration_date": "09-dec-2018",
+            "state": "future"
+        },
+        "bannedinhollywood.com": {
+            "epoch": "1577664000",
+            "expiration_date": "30-dec-2019",
+            "state": "future"
+        },
+        "bannedintheus.com": {
+            "epoch": "1556582400",
+            "expiration_date": "30-apr-2019",
+            "state": "future"
+        },
+        "bannedmovies.com": {
+            "epoch": "1546473600",
+            "expiration_date": "03-jan-2019",
+            "state": "future"
+        },
+        "bannedpics.com": {
+            "epoch": "1568332800",
+            "expiration_date": "13-sep-2019",
+            "state": "future"
+        },
+        "bannedporn.com": {
+            "epoch": "1554336000",
+            "expiration_date": "04-apr-2019",
+            "state": "future"
+        },
+        "bannedpornvideos.com": {
+            "epoch": "1562544000",
+            "expiration_date": "08-jul-2019",
+            "state": "future"
+        },
+        "bannedvideos.com": {
+            "epoch": "1550102400",
+            "expiration_date": "14-feb-2019",
+            "state": "future"
+        },
+        "bannedxxx.com": {
+            "epoch": "1545523200",
+            "expiration_date": "23-dec-2018",
+            "state": "future"
+        },
+        "bannenawab.com": {
+            "epoch": "1570320000",
+            "expiration_date": "06-oct-2019",
+            "state": "future"
+        },
+        "banner2u.com": {
+            "epoch": "1557619200",
+            "expiration_date": "12-may-2019",
+            "state": "future"
         }
     }
 }
