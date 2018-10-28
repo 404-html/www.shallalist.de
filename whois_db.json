@@ -170,6 +170,31 @@
             "expiration_date": "09-oct-2019",
             "state": "future"
         },
+        "a-wz.com": {
+            "epoch": "1541548800",
+            "expiration_date": "07-nov-2018",
+            "state": "future"
+        },
+        "a-x.pl": {
+            "epoch": "1552694400",
+            "expiration_date": "16-mar-2019",
+            "state": "future"
+        },
+        "a-xxx-pics.com": {
+            "epoch": "1550534400",
+            "expiration_date": "19-feb-2019",
+            "state": "future"
+        },
+        "a-xxx.net": {
+            "epoch": "1571875200",
+            "expiration_date": "24-oct-2019",
+            "state": "future"
+        },
+        "a-yachtcharter.com": {
+            "epoch": "1558569600",
+            "expiration_date": "23-may-2019",
+            "state": "future"
+        },
         "ar-jay.com": {
             "epoch": "1837036800",
             "expiration_date": "19-mar-2028",
@@ -53005,6 +53030,11 @@
             "expiration_date": "05-feb-2019",
             "state": "future"
         },
+        "aw-travel.com": {
+            "epoch": "1560470400",
+            "expiration_date": "14-jun-2019",
+            "state": "future"
+        },
         "award-session.com": {
             "epoch": "1552348800",
             "expiration_date": "12-mar-2019",
@@ -54348,6 +54378,1136 @@
         "awms-network.com": {
             "epoch": "1544659200",
             "expiration_date": "13-dec-2018",
+            "state": "future"
+        },
+        "awsfa.org": {
+            "epoch": "1558396800",
+            "expiration_date": "21-may-2019",
+            "state": "future"
+        },
+        "awshop.net": {
+            "epoch": "1554508800",
+            "expiration_date": "06-apr-2019",
+            "state": "future"
+        },
+        "awsl.org": {
+            "epoch": "1551052800",
+            "expiration_date": "25-feb-2019",
+            "state": "future"
+        },
+        "awsm.ca": {
+            "epoch": "1685232000",
+            "expiration_date": "28-may-2023",
+            "state": "future"
+        },
+        "awsoft.net": {
+            "epoch": "1560297600",
+            "expiration_date": "12-jun-2019",
+            "state": "future"
+        },
+        "awsoftware.org": {
+            "epoch": "1554163200",
+            "expiration_date": "02-apr-2019",
+            "state": "future"
+        },
+        "awsome-grab-block-statuses.com": {
+            "epoch": "1571097600",
+            "expiration_date": "15-oct-2019",
+            "state": "future"
+        },
+        "awsomeasian.com": {
+            "epoch": "1543276800",
+            "expiration_date": "27-nov-2018",
+            "state": "future"
+        },
+        "awsomeasians.net": {
+            "epoch": "1544659200",
+            "expiration_date": "13-dec-2018",
+            "state": "future"
+        },
+        "awsomecelebs.com": {
+            "epoch": "1561766400",
+            "expiration_date": "29-jun-2019",
+            "state": "future"
+        },
+        "awsomepussy.com": {
+            "epoch": "1563580800",
+            "expiration_date": "20-jul-2019",
+            "state": "future"
+        },
+        "awsomesurf.info": {
+            "epoch": "1570752000",
+            "expiration_date": "11-oct-2019",
+            "state": "future"
+        },
+        "awsomewhores.com": {
+            "epoch": "1557360000",
+            "expiration_date": "09-may-2019",
+            "state": "future"
+        },
+        "awsomm.com": {
+            "epoch": "1557100800",
+            "expiration_date": "06-may-2019",
+            "state": "future"
+        },
+        "awsq.com": {
+            "epoch": "1561766400",
+            "expiration_date": "29-jun-2019",
+            "state": "future"
+        },
+        "awswireless.com": {
+            "epoch": "1563235200",
+            "expiration_date": "16-jul-2019",
+            "state": "future"
+        },
+        "awtalk.com": {
+            "epoch": "1549670400",
+            "expiration_date": "09-feb-2019",
+            "state": "future"
+        },
+        "awte.org": {
+            "epoch": "1557792000",
+            "expiration_date": "14-may-2019",
+            "state": "future"
+        },
+        "awtideci.com": {
+            "epoch": "1564185600",
+            "expiration_date": "27-jul-2019",
+            "state": "future"
+        },
+        "awtk.us": {
+            "epoch": "1566777600",
+            "expiration_date": "26-aug-2019",
+            "state": "future"
+        },
+        "awtms.com": {
+            "epoch": "1560211200",
+            "expiration_date": "11-jun-2019",
+            "state": "future"
+        },
+        "awtravel.com": {
+            "epoch": "1574121600",
+            "expiration_date": "19-nov-2019",
+            "state": "future"
+        },
+        "awug.dk": {
+            "epoch": "1546214400",
+            "expiration_date": "31-dec-2018",
+            "state": "future"
+        },
+        "awuw.com": {
+            "epoch": "1554336000",
+            "expiration_date": "04-apr-2019",
+            "state": "future"
+        },
+        "awvl.com": {
+            "epoch": "1559088000",
+            "expiration_date": "29-may-2019",
+            "state": "future"
+        },
+        "awwboard.com": {
+            "epoch": "1552608000",
+            "expiration_date": "15-mar-2019",
+            "state": "future"
+        },
+        "awwpix.com": {
+            "epoch": "1557792000",
+            "expiration_date": "14-may-2019",
+            "state": "future"
+        },
+        "awwwskeetskeet.com": {
+            "epoch": "1542844800",
+            "expiration_date": "22-nov-2018",
+            "state": "future"
+        },
+        "awz.biz": {
+            "epoch": "1539993600",
+            "expiration_date": "20-oct-2018",
+            "state": "past"
+        },
+        "awz.ru": {
+            "epoch": "1576454400",
+            "expiration_date": "16-dec-2019",
+            "state": "future"
+        },
+        "ax-rulez.com": {
+            "epoch": "1569369600",
+            "expiration_date": "25-sep-2019",
+            "state": "future"
+        },
+        "ax47mp-xp-21.com": {
+            "epoch": "1564531200",
+            "expiration_date": "31-jul-2019",
+            "state": "future"
+        },
+        "ax69.com": {
+            "epoch": "1562803200",
+            "expiration_date": "11-jul-2019",
+            "state": "future"
+        },
+        "ax88.com": {
+            "epoch": "1570579200",
+            "expiration_date": "09-oct-2019",
+            "state": "future"
+        },
+        "axa-villas.com": {
+            "epoch": "1688688000",
+            "expiration_date": "07-jul-2023",
+            "state": "future"
+        },
+        "axa.fr": {
+            "epoch": "1569283200",
+            "expiration_date": "24-sep-2019",
+            "state": "future"
+        },
+        "axainsurance.com": {
+            "epoch": "1558569600",
+            "expiration_date": "23-may-2019",
+            "state": "future"
+        },
+        "axalonunderground.com": {
+            "epoch": "1549238400",
+            "expiration_date": "04-feb-2019",
+            "state": "future"
+        },
+        "axami.pl": {
+            "epoch": "1652227200",
+            "expiration_date": "11-may-2022",
+            "state": "future"
+        },
+        "axarquia-rural.com": {
+            "epoch": "1557446400",
+            "expiration_date": "10-may-2019",
+            "state": "future"
+        },
+        "axarquiaonline.com": {
+            "epoch": "1548028800",
+            "expiration_date": "21-jan-2019",
+            "state": "future"
+        },
+        "axat.dk": {
+            "epoch": "1567209600",
+            "expiration_date": "31-aug-2019",
+            "state": "future"
+        },
+        "axatube.com": {
+            "epoch": "1561852800",
+            "expiration_date": "30-jun-2019",
+            "state": "future"
+        },
+        "axax.ru": {
+            "epoch": "1549584000",
+            "expiration_date": "08-feb-2019",
+            "state": "future"
+        },
+        "axaxru.com": {
+            "epoch": "1555977600",
+            "expiration_date": "23-apr-2019",
+            "state": "future"
+        },
+        "axcium.com": {
+            "epoch": "1543968000",
+            "expiration_date": "05-dec-2018",
+            "state": "future"
+        },
+        "axcp.org": {
+            "epoch": "1545091200",
+            "expiration_date": "18-dec-2018",
+            "state": "future"
+        },
+        "axe-valley.com": {
+            "epoch": "1541721600",
+            "expiration_date": "09-nov-2018",
+            "state": "future"
+        },
+        "axecapoeira.com": {
+            "epoch": "1803513600",
+            "expiration_date": "25-feb-2027",
+            "state": "future"
+        },
+        "axecapoeira.ru": {
+            "epoch": "1574035200",
+            "expiration_date": "18-nov-2019",
+            "state": "future"
+        },
+        "axechicago.com": {
+            "epoch": "1566691200",
+            "expiration_date": "25-aug-2019",
+            "state": "future"
+        },
+        "axeco.se": {
+            "epoch": "1546214400",
+            "expiration_date": "31-dec-2018",
+            "state": "future"
+        },
+        "axefil.com": {
+            "epoch": "1556150400",
+            "expiration_date": "25-apr-2019",
+            "state": "future"
+        },
+        "axegay.com": {
+            "epoch": "1544054400",
+            "expiration_date": "06-dec-2018",
+            "state": "future"
+        },
+        "axehandle.nu": {
+            "epoch": "1557878400",
+            "expiration_date": "15-may-2019",
+            "state": "future"
+        },
+        "axel-mees.com": {
+            "epoch": "1569110400",
+            "expiration_date": "22-sep-2019",
+            "state": "future"
+        },
+        "axelair.com": {
+            "epoch": "1552176000",
+            "expiration_date": "10-mar-2019",
+            "state": "future"
+        },
+        "axelbraun.net": {
+            "epoch": "1569283200",
+            "expiration_date": "24-sep-2019",
+            "state": "future"
+        },
+        "axelerator.net": {
+            "epoch": "1549843200",
+            "expiration_date": "11-feb-2019",
+            "state": "future"
+        },
+        "axelfoto.com": {
+            "epoch": "1551225600",
+            "expiration_date": "27-feb-2019",
+            "state": "future"
+        },
+        "axeljewelry.com": {
+            "epoch": "1541289600",
+            "expiration_date": "04-nov-2018",
+            "state": "future"
+        },
+        "axellavintage.com": {
+            "epoch": "1563667200",
+            "expiration_date": "21-jul-2019",
+            "state": "future"
+        },
+        "axelle.org": {
+            "epoch": "1560902400",
+            "expiration_date": "19-jun-2019",
+            "state": "future"
+        },
+        "axelleparker.com": {
+            "epoch": "1541462400",
+            "expiration_date": "06-nov-2018",
+            "state": "future"
+        },
+        "axelmerckx.com": {
+            "epoch": "1588982400",
+            "expiration_date": "09-may-2020",
+            "state": "future"
+        },
+        "axelporn.com": {
+            "epoch": "1544054400",
+            "expiration_date": "06-dec-2018",
+            "state": "future"
+        },
+        "axeltube.com": {
+            "epoch": "1545955200",
+            "expiration_date": "28-dec-2018",
+            "state": "future"
+        },
+        "axemail.com": {
+            "epoch": "1541808000",
+            "expiration_date": "10-nov-2018",
+            "state": "future"
+        },
+        "axemanshall.org": {
+            "epoch": "1567987200",
+            "expiration_date": "09-sep-2019",
+            "state": "future"
+        },
+        "axemediasoftware.com": {
+            "epoch": "1571184000",
+            "expiration_date": "16-oct-2019",
+            "state": "future"
+        },
+        "axencia.com": {
+            "epoch": "1555200000",
+            "expiration_date": "14-apr-2019",
+            "state": "future"
+        },
+        "axeoutleukemia.org": {
+            "epoch": "1556928000",
+            "expiration_date": "04-may-2019",
+            "state": "future"
+        },
+        "axero.com": {
+            "epoch": "1544400000",
+            "expiration_date": "10-dec-2018",
+            "state": "future"
+        },
+        "axes.ru": {
+            "epoch": "1569196800",
+            "expiration_date": "23-sep-2019",
+            "state": "future"
+        },
+        "axeseattle.com": {
+            "epoch": "1558569600",
+            "expiration_date": "23-may-2019",
+            "state": "future"
+        },
+        "axesex.ru": {
+            "epoch": "1561248000",
+            "expiration_date": "23-jun-2019",
+            "state": "future"
+        },
+        "axeso5.com": {
+            "epoch": "1562284800",
+            "expiration_date": "05-jul-2019",
+            "state": "future"
+        },
+        "axesrus.com": {
+            "epoch": "1555200000",
+            "expiration_date": "14-apr-2019",
+            "state": "future"
+        },
+        "axesse.com": {
+            "epoch": "1554595200",
+            "expiration_date": "07-apr-2019",
+            "state": "future"
+        },
+        "axestraps.com": {
+            "epoch": "1545091200",
+            "expiration_date": "18-dec-2018",
+            "state": "future"
+        },
+        "axeuk.com": {
+            "epoch": "1562112000",
+            "expiration_date": "03-jul-2019",
+            "state": "future"
+        },
+        "axevalla.se": {
+            "epoch": "1546214400",
+            "expiration_date": "31-dec-2018",
+            "state": "future"
+        },
+        "axeway.com": {
+            "epoch": "1550448000",
+            "expiration_date": "18-feb-2019",
+            "state": "future"
+        },
+        "axfords.com": {
+            "epoch": "1554940800",
+            "expiration_date": "11-apr-2019",
+            "state": "future"
+        },
+        "axho.com": {
+            "epoch": "1565913600",
+            "expiration_date": "16-aug-2019",
+            "state": "future"
+        },
+        "axiacitizenconnect.com": {
+            "epoch": "1544832000",
+            "expiration_date": "15-dec-2018",
+            "state": "future"
+        },
+        "axianmen.com": {
+            "epoch": "1557446400",
+            "expiration_date": "10-may-2019",
+            "state": "future"
+        },
+        "axifer.com": {
+            "epoch": "1546905600",
+            "expiration_date": "08-jan-2019",
+            "state": "future"
+        },
+        "axifile.com": {
+            "epoch": "1544054400",
+            "expiration_date": "06-dec-2018",
+            "state": "future"
+        },
+        "axigenmail.com": {
+            "epoch": "1598918400",
+            "expiration_date": "01-sep-2020",
+            "state": "future"
+        },
+        "axiom-games.com": {
+            "epoch": "1541548800",
+            "expiration_date": "07-nov-2018",
+            "state": "future"
+        },
+        "axiomatravel.com": {
+            "epoch": "1661644800",
+            "expiration_date": "28-aug-2022",
+            "state": "future"
+        },
+        "axiome.fr": {
+            "epoch": "1560643200",
+            "expiration_date": "16-jun-2019",
+            "state": "future"
+        },
+        "axiommotors.com": {
+            "epoch": "1557014400",
+            "expiration_date": "05-may-2019",
+            "state": "future"
+        },
+        "axis-allies.com": {
+            "epoch": "1551052800",
+            "expiration_date": "25-feb-2019",
+            "state": "future"
+        },
+        "axis-games.com": {
+            "epoch": "1567814400",
+            "expiration_date": "07-sep-2019",
+            "state": "future"
+        },
+        "axisadult.com": {
+            "epoch": "1555372800",
+            "expiration_date": "16-apr-2019",
+            "state": "future"
+        },
+        "axisandallies.net": {
+            "epoch": "1563321600",
+            "expiration_date": "17-jul-2019",
+            "state": "future"
+        },
+        "axisandallies.org": {
+            "epoch": "1563148800",
+            "expiration_date": "15-jul-2019",
+            "state": "future"
+        },
+        "axisbank.com": {
+            "epoch": "1831507200",
+            "expiration_date": "15-jan-2028",
+            "state": "future"
+        },
+        "axisdanceshoes.com": {
+            "epoch": "1570579200",
+            "expiration_date": "09-oct-2019",
+            "state": "future"
+        },
+        "axiseuropa.com": {
+            "epoch": "1560470400",
+            "expiration_date": "14-jun-2019",
+            "state": "future"
+        },
+        "axisgamers.com": {
+            "epoch": "1534550400",
+            "expiration_date": "18-aug-2018",
+            "state": "past"
+        },
+        "axisofeve.org": {
+            "epoch": "1549929600",
+            "expiration_date": "12-feb-2019",
+            "state": "future"
+        },
+        "axisofevilradio.com": {
+            "epoch": "1550275200",
+            "expiration_date": "16-feb-2019",
+            "state": "future"
+        },
+        "axisplay.com": {
+            "epoch": "1557878400",
+            "expiration_date": "15-may-2019",
+            "state": "future"
+        },
+        "axisshop.com": {
+            "epoch": "1573516800",
+            "expiration_date": "12-nov-2019",
+            "state": "future"
+        },
+        "axistek.com": {
+            "epoch": "1549584000",
+            "expiration_date": "08-feb-2019",
+            "state": "future"
+        },
+        "axkickboxing.com": {
+            "epoch": "1554681600",
+            "expiration_date": "08-apr-2019",
+            "state": "future"
+        },
+        "axled.com": {
+            "epoch": "1554249600",
+            "expiration_date": "03-apr-2019",
+            "state": "future"
+        },
+        "axletoys.com": {
+            "epoch": "1562976000",
+            "expiration_date": "13-jul-2019",
+            "state": "future"
+        },
+        "axljak.com": {
+            "epoch": "1547769600",
+            "expiration_date": "18-jan-2019",
+            "state": "future"
+        },
+        "axmovie.com": {
+            "epoch": "1569456000",
+            "expiration_date": "26-sep-2019",
+            "state": "future"
+        },
+        "axn-india.com": {
+            "epoch": "1565222400",
+            "expiration_date": "08-aug-2019",
+            "state": "future"
+        },
+        "axn.com": {
+            "epoch": "1563667200",
+            "expiration_date": "21-jul-2019",
+            "state": "future"
+        },
+        "axner.com": {
+            "epoch": "1567987200",
+            "expiration_date": "09-sep-2019",
+            "state": "future"
+        },
+        "axnet.it": {
+            "epoch": "1554249600",
+            "expiration_date": "03-apr-2019",
+            "state": "future"
+        },
+        "axo.com": {
+            "epoch": "1853971200",
+            "expiration_date": "01-oct-2028",
+            "state": "future"
+        },
+        "axo.it": {
+            "epoch": "1565308800",
+            "expiration_date": "09-aug-2019",
+            "state": "future"
+        },
+        "axoax.com": {
+            "epoch": "1551744000",
+            "expiration_date": "05-mar-2019",
+            "state": "future"
+        },
+        "axochem.com": {
+            "epoch": "1560297600",
+            "expiration_date": "12-jun-2019",
+            "state": "future"
+        },
+        "axodys.com": {
+            "epoch": "1546732800",
+            "expiration_date": "06-jan-2019",
+            "state": "future"
+        },
+        "axolote.com": {
+            "epoch": "1569888000",
+            "expiration_date": "01-oct-2019",
+            "state": "future"
+        },
+        "axolotlvillage.com": {
+            "epoch": "1570579200",
+            "expiration_date": "09-oct-2019",
+            "state": "future"
+        },
+        "axolotyl-studios.com": {
+            "epoch": "1557360000",
+            "expiration_date": "09-may-2019",
+            "state": "future"
+        },
+        "axonstore.com": {
+            "epoch": "1578441600",
+            "expiration_date": "08-jan-2020",
+            "state": "future"
+        },
+        "axoplasm.com": {
+            "epoch": "1555632000",
+            "expiration_date": "19-apr-2019",
+            "state": "future"
+        },
+        "axoskate.com": {
+            "epoch": "1572393600",
+            "expiration_date": "30-oct-2019",
+            "state": "future"
+        },
+        "axostudio.com": {
+            "epoch": "1540684800",
+            "expiration_date": "28-oct-2018",
+            "state": "past"
+        },
+        "axoxo.com": {
+            "epoch": "1566518400",
+            "expiration_date": "23-aug-2019",
+            "state": "future"
+        },
+        "axpre.com": {
+            "epoch": "1544140800",
+            "expiration_date": "07-dec-2018",
+            "state": "future"
+        },
+        "axsmar.com": {
+            "epoch": "1541289600",
+            "expiration_date": "04-nov-2018",
+            "state": "future"
+        },
+        "axtea.com": {
+            "epoch": "1554854400",
+            "expiration_date": "10-apr-2019",
+            "state": "future"
+        },
+        "axtell.com": {
+            "epoch": "1631145600",
+            "expiration_date": "09-sep-2021",
+            "state": "future"
+        },
+        "axtellsales.com": {
+            "epoch": "1612656000",
+            "expiration_date": "07-feb-2021",
+            "state": "future"
+        },
+        "axtionsystems.com": {
+            "epoch": "1594339200",
+            "expiration_date": "10-jul-2020",
+            "state": "future"
+        },
+        "axtonsbasscity.com": {
+            "epoch": "1557187200",
+            "expiration_date": "07-may-2019",
+            "state": "future"
+        },
+        "axwoodfarm.com": {
+            "epoch": "1557619200",
+            "expiration_date": "12-may-2019",
+            "state": "future"
+        },
+        "axxomovies.org": {
+            "epoch": "1542499200",
+            "expiration_date": "18-nov-2018",
+            "state": "future"
+        },
+        "axxu.com": {
+            "epoch": "1557273600",
+            "expiration_date": "08-may-2019",
+            "state": "future"
+        },
+        "axxw.com": {
+            "epoch": "1570320000",
+            "expiration_date": "06-oct-2019",
+            "state": "future"
+        },
+        "axxx.com": {
+            "epoch": "1544227200",
+            "expiration_date": "08-dec-2018",
+            "state": "future"
+        },
+        "axxxhome.com": {
+            "epoch": "1567814400",
+            "expiration_date": "07-sep-2019",
+            "state": "future"
+        },
+        "axxxis.com": {
+            "epoch": "1558742400",
+            "expiration_date": "25-may-2019",
+            "state": "future"
+        },
+        "axxxn.com": {
+            "epoch": "1551830400",
+            "expiration_date": "06-mar-2019",
+            "state": "future"
+        },
+        "axxxxis.com": {
+            "epoch": "1543795200",
+            "expiration_date": "03-dec-2018",
+            "state": "future"
+        },
+        "axy.us": {
+            "epoch": "1561680000",
+            "expiration_date": "28-jun-2019",
+            "state": "future"
+        },
+        "axytoom.com": {
+            "epoch": "1546560000",
+            "expiration_date": "04-jan-2019",
+            "state": "future"
+        },
+        "ay4web.com": {
+            "epoch": "1560384000",
+            "expiration_date": "13-jun-2019",
+            "state": "future"
+        },
+        "aya.nu": {
+            "epoch": "1560470400",
+            "expiration_date": "14-jun-2019",
+            "state": "future"
+        },
+        "ayaba-ridgeback.com": {
+            "epoch": "1650499200",
+            "expiration_date": "21-apr-2022",
+            "state": "future"
+        },
+        "ayaba.com": {
+            "epoch": "1554940800",
+            "expiration_date": "11-apr-2019",
+            "state": "future"
+        },
+        "ayachtquest.com": {
+            "epoch": "1548806400",
+            "expiration_date": "30-jan-2019",
+            "state": "future"
+        },
+        "ayafumi.net": {
+            "epoch": "1562112000",
+            "expiration_date": "03-jul-2019",
+            "state": "future"
+        },
+        "ayahuasca-wasi.com": {
+            "epoch": "1576454400",
+            "expiration_date": "16-dec-2019",
+            "state": "future"
+        },
+        "ayahuasca.com": {
+            "epoch": "1551916800",
+            "expiration_date": "07-mar-2019",
+            "state": "future"
+        },
+        "ayahuma.com": {
+            "epoch": "1553817600",
+            "expiration_date": "29-mar-2019",
+            "state": "future"
+        },
+        "ayakino.net": {
+            "epoch": "1549756800",
+            "expiration_date": "10-feb-2019",
+            "state": "future"
+        },
+        "ayakizi.com": {
+            "epoch": "1565481600",
+            "expiration_date": "11-aug-2019",
+            "state": "future"
+        },
+        "ayakizi.org": {
+            "epoch": "1571356800",
+            "expiration_date": "18-oct-2019",
+            "state": "future"
+        },
+        "ayakizleri.org": {
+            "epoch": "1546041600",
+            "expiration_date": "29-dec-2018",
+            "state": "future"
+        },
+        "ayakkabicini.com": {
+            "epoch": "1551484800",
+            "expiration_date": "02-mar-2019",
+            "state": "future"
+        },
+        "ayakligazete.com": {
+            "epoch": "1617062400",
+            "expiration_date": "30-mar-2021",
+            "state": "future"
+        },
+        "ayako.fr": {
+            "epoch": "1574380800",
+            "expiration_date": "22-nov-2019",
+            "state": "future"
+        },
+        "ayalafootball.com": {
+            "epoch": "1551312000",
+            "expiration_date": "28-feb-2019",
+            "state": "future"
+        },
+        "ayalatour.com": {
+            "epoch": "1575590400",
+            "expiration_date": "06-dec-2019",
+            "state": "future"
+        },
+        "ayalot.com": {
+            "epoch": "1543363200",
+            "expiration_date": "28-nov-2018",
+            "state": "future"
+        },
+        "ayamaras.se": {
+            "epoch": "1569628800",
+            "expiration_date": "28-sep-2019",
+            "state": "future"
+        },
+        "ayami.biz": {
+            "epoch": "1574294400",
+            "expiration_date": "21-nov-2019",
+            "state": "future"
+        },
+        "ayamimaru.com": {
+            "epoch": "1681948800",
+            "expiration_date": "20-apr-2023",
+            "state": "future"
+        },
+        "ayamkampung.com": {
+            "epoch": "1551916800",
+            "expiration_date": "07-mar-2019",
+            "state": "future"
+        },
+        "ayamkampus.biz": {
+            "epoch": "1567468800",
+            "expiration_date": "03-sep-2019",
+            "state": "future"
+        },
+        "ayan-travel.com": {
+            "epoch": "1554681600",
+            "expiration_date": "08-apr-2019",
+            "state": "future"
+        },
+        "ayana.com": {
+            "epoch": "1561680000",
+            "expiration_date": "28-jun-2019",
+            "state": "future"
+        },
+        "ayanaangel.com": {
+            "epoch": "1556064000",
+            "expiration_date": "24-apr-2019",
+            "state": "future"
+        },
+        "ayanaangelxxx.com": {
+            "epoch": "1552953600",
+            "expiration_date": "19-mar-2019",
+            "state": "future"
+        },
+        "ayanbanan.com": {
+            "epoch": "1558569600",
+            "expiration_date": "23-may-2019",
+            "state": "future"
+        },
+        "ayannafloyd.com": {
+            "epoch": "1564358400",
+            "expiration_date": "29-jul-2019",
+            "state": "future"
+        },
+        "ayanneriomodels.com": {
+            "epoch": "1563148800",
+            "expiration_date": "15-jul-2019",
+            "state": "future"
+        },
+        "ayant-gout.com": {
+            "epoch": "1558396800",
+            "expiration_date": "21-may-2019",
+            "state": "future"
+        },
+        "ayari.com": {
+            "epoch": "1547942400",
+            "expiration_date": "20-jan-2019",
+            "state": "future"
+        },
+        "ayasilk.com": {
+            "epoch": "1572998400",
+            "expiration_date": "06-nov-2019",
+            "state": "future"
+        },
+        "ayaso.com": {
+            "epoch": "1553472000",
+            "expiration_date": "25-mar-2019",
+            "state": "future"
+        },
+        "ayasofyahotel.com": {
+            "epoch": "1601856000",
+            "expiration_date": "05-oct-2020",
+            "state": "future"
+        },
+        "ayasyard.com": {
+            "epoch": "1543276800",
+            "expiration_date": "27-nov-2018",
+            "state": "future"
+        },
+        "ayaxonline.com": {
+            "epoch": "1780704000",
+            "expiration_date": "06-jun-2026",
+            "state": "future"
+        },
+        "ayazshop.com": {
+            "epoch": "1562630400",
+            "expiration_date": "09-jul-2019",
+            "state": "future"
+        },
+        "aybarshotel.com": {
+            "epoch": "1549238400",
+            "expiration_date": "04-feb-2019",
+            "state": "future"
+        },
+        "aybloc.com": {
+            "epoch": "1545782400",
+            "expiration_date": "26-dec-2018",
+            "state": "future"
+        },
+        "aybook.cn": {
+            "epoch": "1568073600",
+            "expiration_date": "10-sep-2019",
+            "state": "future"
+        },
+        "aybtour.com": {
+            "epoch": "1559088000",
+            "expiration_date": "29-may-2019",
+            "state": "future"
+        },
+        "aycustoms.com": {
+            "epoch": "1554076800",
+            "expiration_date": "01-apr-2019",
+            "state": "future"
+        },
+        "ayda.ru": {
+            "epoch": "1474934400",
+            "expiration_date": "27-sep-2016",
+            "state": "past"
+        },
+        "aydbasketball.com": {
+            "epoch": "1541548800",
+            "expiration_date": "07-nov-2018",
+            "state": "future"
+        },
+        "aydin.fr": {
+            "epoch": "1573430400",
+            "expiration_date": "11-nov-2019",
+            "state": "future"
+        },
+        "aydinbeyresorts.com": {
+            "epoch": "1561161600",
+            "expiration_date": "22-jun-2019",
+            "state": "future"
+        },
+        "aydingun.com": {
+            "epoch": "1562371200",
+            "expiration_date": "06-jul-2019",
+            "state": "future"
+        },
+        "aydinhaber.com": {
+            "epoch": "1552262400",
+            "expiration_date": "11-mar-2019",
+            "state": "future"
+        },
+        "aydinilkhaber.com": {
+            "epoch": "1543881600",
+            "expiration_date": "04-dec-2018",
+            "state": "future"
+        },
+        "aydinlarfoto.com": {
+            "epoch": "1546041600",
+            "expiration_date": "29-dec-2018",
+            "state": "future"
+        },
+        "aydinlikgazete.com": {
+            "epoch": "1542931200",
+            "expiration_date": "23-nov-2018",
+            "state": "future"
+        },
+        "aydn.com": {
+            "epoch": "1554940800",
+            "expiration_date": "11-apr-2019",
+            "state": "future"
+        },
+        "aydoggy.com": {
+            "epoch": "1585353600",
+            "expiration_date": "28-mar-2020",
+            "state": "future"
+        },
+        "aydyn.com": {
+            "epoch": "1763078400",
+            "expiration_date": "14-nov-2025",
+            "state": "future"
+        },
+        "ayelenlove.com": {
+            "epoch": "1548288000",
+            "expiration_date": "24-jan-2019",
+            "state": "future"
+        },
+        "ayellowrose.com": {
+            "epoch": "1568592000",
+            "expiration_date": "16-sep-2019",
+            "state": "future"
+        },
+        "ayene.com": {
+            "epoch": "1561248000",
+            "expiration_date": "23-jun-2019",
+            "state": "future"
+        },
+        "ayenee.org": {
+            "epoch": "1545264000",
+            "expiration_date": "20-dec-2018",
+            "state": "future"
+        },
+        "ayerchurchofgod.com": {
+            "epoch": "1613606400",
+            "expiration_date": "18-feb-2021",
+            "state": "future"
+        },
+        "ayeready.com": {
+            "epoch": "1548028800",
+            "expiration_date": "21-jan-2019",
+            "state": "future"
+        },
+        "ayerpuzzles.com": {
+            "epoch": "1552176000",
+            "expiration_date": "10-mar-2019",
+            "state": "future"
+        },
+        "ayerscreekranch.com": {
+            "epoch": "1583020800",
+            "expiration_date": "01-mar-2020",
+            "state": "future"
+        },
+        "ayersleather.com": {
+            "epoch": "1568592000",
+            "expiration_date": "16-sep-2019",
+            "state": "future"
+        },
+        "ayersrockguide.com": {
+            "epoch": "1567036800",
+            "expiration_date": "29-aug-2019",
+            "state": "future"
+        },
+        "ayetharyargolfresort.com": {
+            "epoch": "1613952000",
+            "expiration_date": "22-feb-2021",
+            "state": "future"
+        },
+        "ayf-hunting.com": {
+            "epoch": "1568332800",
+            "expiration_date": "13-sep-2019",
+            "state": "future"
+        },
+        "ayfl.org": {
+            "epoch": "1808697600",
+            "expiration_date": "26-apr-2027",
+            "state": "future"
+        },
+        "aygazete.com": {
+            "epoch": "1565740800",
+            "expiration_date": "14-aug-2019",
+            "state": "future"
+        },
+        "ayha.org": {
+            "epoch": "1567382400",
+            "expiration_date": "02-sep-2019",
+            "state": "future"
+        },
+        "ayhan-music.com": {
+            "epoch": "1560816000",
+            "expiration_date": "18-jun-2019",
+            "state": "future"
+        },
+        "ayhotsex.com": {
+            "epoch": "1543104000",
+            "expiration_date": "25-nov-2018",
+            "state": "future"
+        },
+        "ayiazoni.com": {
+            "epoch": "1560816000",
+            "expiration_date": "18-jun-2019",
+            "state": "future"
+        },
+        "ayik.org": {
+            "epoch": "1570752000",
+            "expiration_date": "11-oct-2019",
+            "state": "future"
+        },
+        "ayisigidiving.com": {
+            "epoch": "1692403200",
+            "expiration_date": "19-aug-2023",
+            "state": "future"
+        },
+        "aylah.com": {
+            "epoch": "1728259200",
+            "expiration_date": "07-oct-2024",
+            "state": "future"
+        },
+        "aylak.com": {
+            "epoch": "1566950400",
+            "expiration_date": "28-aug-2019",
             "state": "future"
         }
     }
