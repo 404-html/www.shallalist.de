@@ -195,6 +195,36 @@
             "expiration_date": "23-may-2019",
             "state": "future"
         },
+        "a-zacho.dk": {
+            "epoch": "1551312000",
+            "expiration_date": "28-feb-2019",
+            "state": "future"
+        },
+        "a-zara.com": {
+            "epoch": "1543276800",
+            "expiration_date": "27-nov-2018",
+            "state": "future"
+        },
+        "a-zdarts.com": {
+            "epoch": "1851724800",
+            "expiration_date": "05-sep-2028",
+            "state": "future"
+        },
+        "a-zegez.dk": {
+            "epoch": "1553990400",
+            "expiration_date": "31-mar-2019",
+            "state": "future"
+        },
+        "a-zequipment.com": {
+            "epoch": "1673049600",
+            "expiration_date": "07-jan-2023",
+            "state": "future"
+        },
+        "a-zhotels.net": {
+            "epoch": "1544486400",
+            "expiration_date": "11-dec-2018",
+            "state": "future"
+        },
         "ar-jay.com": {
             "epoch": "1837036800",
             "expiration_date": "19-mar-2028",
@@ -55508,6 +55538,1381 @@
         "aylak.com": {
             "epoch": "1566950400",
             "expiration_date": "28-aug-2019",
+            "state": "future"
+        },
+        "aysa1.com": {
+            "epoch": "1559692800",
+            "expiration_date": "05-jun-2019",
+            "state": "future"
+        },
+        "aysc.com": {
+            "epoch": "1566691200",
+            "expiration_date": "25-aug-2019",
+            "state": "future"
+        },
+        "ayselectronics.com": {
+            "epoch": "1571788800",
+            "expiration_date": "23-oct-2019",
+            "state": "future"
+        },
+        "aysex.com": {
+            "epoch": "1543881600",
+            "expiration_date": "04-dec-2018",
+            "state": "future"
+        },
+        "aysl.org": {
+            "epoch": "1565827200",
+            "expiration_date": "15-aug-2019",
+            "state": "future"
+        },
+        "aysmusic.org": {
+            "epoch": "1544918400",
+            "expiration_date": "16-dec-2018",
+            "state": "future"
+        },
+        "ayso-l.org": {
+            "epoch": "1551312000",
+            "expiration_date": "28-feb-2019",
+            "state": "future"
+        },
+        "ayso-region94.com": {
+            "epoch": "1557878400",
+            "expiration_date": "15-may-2019",
+            "state": "future"
+        },
+        "ayso104.org": {
+            "epoch": "1553904000",
+            "expiration_date": "30-mar-2019",
+            "state": "future"
+        },
+        "ayso114.org": {
+            "epoch": "1629936000",
+            "expiration_date": "26-aug-2021",
+            "state": "future"
+        },
+        "ayso11k.org": {
+            "epoch": "1694563200",
+            "expiration_date": "13-sep-2023",
+            "state": "future"
+        },
+        "ayso11l.org": {
+            "epoch": "1615161600",
+            "expiration_date": "08-mar-2021",
+            "state": "future"
+        },
+        "ayso1225.org": {
+            "epoch": "1548547200",
+            "expiration_date": "27-jan-2019",
+            "state": "future"
+        },
+        "ayso1278.org": {
+            "epoch": "1548028800",
+            "expiration_date": "21-jan-2019",
+            "state": "future"
+        },
+        "ayso157.org": {
+            "epoch": "1556409600",
+            "expiration_date": "28-apr-2019",
+            "state": "future"
+        },
+        "ayso159.net": {
+            "epoch": "1553212800",
+            "expiration_date": "22-mar-2019",
+            "state": "future"
+        },
+        "ayso159.org": {
+            "epoch": "1616544000",
+            "expiration_date": "24-mar-2021",
+            "state": "future"
+        },
+        "ayso177.org": {
+            "epoch": "1566518400",
+            "expiration_date": "23-aug-2019",
+            "state": "future"
+        },
+        "ayso1p.org": {
+            "epoch": "1546732800",
+            "expiration_date": "06-jan-2019",
+            "state": "future"
+        },
+        "ayso214.org": {
+            "epoch": "1573430400",
+            "expiration_date": "11-nov-2019",
+            "state": "future"
+        },
+        "ayso26.org": {
+            "epoch": "1585612800",
+            "expiration_date": "31-mar-2020",
+            "state": "future"
+        },
+        "ayso290.org": {
+            "epoch": "1589241600",
+            "expiration_date": "12-may-2020",
+            "state": "future"
+        },
+        "ayso2c.org": {
+            "epoch": "1612569600",
+            "expiration_date": "06-feb-2021",
+            "state": "future"
+        },
+        "ayso324.org": {
+            "epoch": "1575504000",
+            "expiration_date": "05-dec-2019",
+            "state": "future"
+        },
+        "ayso341.org": {
+            "epoch": "1568764800",
+            "expiration_date": "18-sep-2019",
+            "state": "future"
+        },
+        "ayso35.org": {
+            "epoch": "1624579200",
+            "expiration_date": "25-jun-2021",
+            "state": "future"
+        },
+        "ayso37.org": {
+            "epoch": "1554508800",
+            "expiration_date": "06-apr-2019",
+            "state": "future"
+        },
+        "ayso372.org": {
+            "epoch": "1585785600",
+            "expiration_date": "02-apr-2020",
+            "state": "future"
+        },
+        "ayso417.org": {
+            "epoch": "1549497600",
+            "expiration_date": "07-feb-2019",
+            "state": "future"
+        },
+        "ayso418.org": {
+            "epoch": "1578441600",
+            "expiration_date": "08-jan-2020",
+            "state": "future"
+        },
+        "ayso43.org": {
+            "epoch": "1630108800",
+            "expiration_date": "28-aug-2021",
+            "state": "future"
+        },
+        "ayso44.org": {
+            "epoch": "1619049600",
+            "expiration_date": "22-apr-2021",
+            "state": "future"
+        },
+        "ayso45.org": {
+            "epoch": "1584921600",
+            "expiration_date": "23-mar-2020",
+            "state": "future"
+        },
+        "ayso47.org": {
+            "epoch": "1570838400",
+            "expiration_date": "12-oct-2019",
+            "state": "future"
+        },
+        "ayso5.org": {
+            "epoch": "1598140800",
+            "expiration_date": "23-aug-2020",
+            "state": "future"
+        },
+        "ayso605.com": {
+            "epoch": "1547856000",
+            "expiration_date": "19-jan-2019",
+            "state": "future"
+        },
+        "ayso630.org": {
+            "epoch": "1581206400",
+            "expiration_date": "09-feb-2020",
+            "state": "future"
+        },
+        "ayso76.org": {
+            "epoch": "1566604800",
+            "expiration_date": "24-aug-2019",
+            "state": "future"
+        },
+        "ayso779.com": {
+            "epoch": "1611187200",
+            "expiration_date": "21-jan-2021",
+            "state": "future"
+        },
+        "ayso816.org": {
+            "epoch": "1553644800",
+            "expiration_date": "27-mar-2019",
+            "state": "future"
+        },
+        "ayso84.org": {
+            "epoch": "1553472000",
+            "expiration_date": "25-mar-2019",
+            "state": "future"
+        },
+        "ayso92.org": {
+            "epoch": "1685232000",
+            "expiration_date": "28-may-2023",
+            "state": "future"
+        },
+        "ayso980.org": {
+            "epoch": "1638403200",
+            "expiration_date": "02-dec-2021",
+            "state": "future"
+        },
+        "aysoarea5f.org": {
+            "epoch": "1564617600",
+            "expiration_date": "01-aug-2019",
+            "state": "future"
+        },
+        "aysohbet.net": {
+            "epoch": "1544400000",
+            "expiration_date": "10-dec-2018",
+            "state": "future"
+        },
+        "aysoregion121.org": {
+            "epoch": "1552348800",
+            "expiration_date": "12-mar-2019",
+            "state": "future"
+        },
+        "aysos.com": {
+            "epoch": "1621555200",
+            "expiration_date": "21-may-2021",
+            "state": "future"
+        },
+        "aysosection3.org": {
+            "epoch": "1798761600",
+            "expiration_date": "01-jan-2027",
+            "state": "future"
+        },
+        "aysosection7.org": {
+            "epoch": "1548028800",
+            "expiration_date": "21-jan-2019",
+            "state": "future"
+        },
+        "aysostore.com": {
+            "epoch": "1638662400",
+            "expiration_date": "05-dec-2021",
+            "state": "future"
+        },
+        "aysotarrytown.com": {
+            "epoch": "1806537600",
+            "expiration_date": "01-apr-2027",
+            "state": "future"
+        },
+        "ayspa.com": {
+            "epoch": "1545350400",
+            "expiration_date": "21-dec-2018",
+            "state": "future"
+        },
+        "aysum.com": {
+            "epoch": "1549065600",
+            "expiration_date": "02-feb-2019",
+            "state": "future"
+        },
+        "aytocristobal.com": {
+            "epoch": "1564963200",
+            "expiration_date": "05-aug-2019",
+            "state": "future"
+        },
+        "ayuda-internet.net": {
+            "epoch": "1564876800",
+            "expiration_date": "04-aug-2019",
+            "state": "future"
+        },
+        "ayudasexo.com": {
+            "epoch": "1558569600",
+            "expiration_date": "23-may-2019",
+            "state": "future"
+        },
+        "ayumihorie.com": {
+            "epoch": "1557964800",
+            "expiration_date": "16-may-2019",
+            "state": "future"
+        },
+        "ayur-neem.com": {
+            "epoch": "1552521600",
+            "expiration_date": "14-mar-2019",
+            "state": "future"
+        },
+        "ayurbalance.com": {
+            "epoch": "1541894400",
+            "expiration_date": "11-nov-2018",
+            "state": "future"
+        },
+        "ayurveda-herbs.com": {
+            "epoch": "1632700800",
+            "expiration_date": "27-sep-2021",
+            "state": "future"
+        },
+        "ayurveda.fr": {
+            "epoch": "1554508800",
+            "expiration_date": "06-apr-2019",
+            "state": "future"
+        },
+        "ayurvedafilm.com": {
+            "epoch": "1547683200",
+            "expiration_date": "17-jan-2019",
+            "state": "future"
+        },
+        "ayurvedamassage.dk": {
+            "epoch": "1559260800",
+            "expiration_date": "31-may-2019",
+            "state": "future"
+        },
+        "ayurvedanta.com": {
+            "epoch": "1559606400",
+            "expiration_date": "04-jun-2019",
+            "state": "future"
+        },
+        "ayurvedaonline.com": {
+            "epoch": "1545609600",
+            "expiration_date": "24-dec-2018",
+            "state": "future"
+        },
+        "ayurvedatoday.org": {
+            "epoch": "1560988800",
+            "expiration_date": "20-jun-2019",
+            "state": "future"
+        },
+        "ayurvedatravel.net": {
+            "epoch": "1542326400",
+            "expiration_date": "16-nov-2018",
+            "state": "future"
+        },
+        "ayurvediccure.com": {
+            "epoch": "1564012800",
+            "expiration_date": "25-jul-2019",
+            "state": "future"
+        },
+        "ayurvedicherbsforhealth.com": {
+            "epoch": "1575936000",
+            "expiration_date": "10-dec-2019",
+            "state": "future"
+        },
+        "ayurvedichospital.com": {
+            "epoch": "1555804800",
+            "expiration_date": "21-apr-2019",
+            "state": "future"
+        },
+        "ayurvedicremedies.com": {
+            "epoch": "1554336000",
+            "expiration_date": "04-apr-2019",
+            "state": "future"
+        },
+        "ayurvedique.com": {
+            "epoch": "1580428800",
+            "expiration_date": "31-jan-2020",
+            "state": "future"
+        },
+        "ayurveduniversity.com": {
+            "epoch": "1633046400",
+            "expiration_date": "01-oct-2021",
+            "state": "future"
+        },
+        "ayuvedaherbs.com": {
+            "epoch": "1556755200",
+            "expiration_date": "02-may-2019",
+            "state": "future"
+        },
+        "ayvalik-music.com": {
+            "epoch": "1551052800",
+            "expiration_date": "25-feb-2019",
+            "state": "future"
+        },
+        "ayya.org": {
+            "epoch": "1573603200",
+            "expiration_date": "13-nov-2019",
+            "state": "future"
+        },
+        "ayyappatemple.com": {
+            "epoch": "1556928000",
+            "expiration_date": "04-may-2019",
+            "state": "future"
+        },
+        "az-coquine.com": {
+            "epoch": "1559779200",
+            "expiration_date": "06-jun-2019",
+            "state": "future"
+        },
+        "az-fitness.fr": {
+            "epoch": "1572134400",
+            "expiration_date": "27-oct-2019",
+            "state": "future"
+        },
+        "az-hotties.com": {
+            "epoch": "1560124800",
+            "expiration_date": "10-jun-2019",
+            "state": "future"
+        },
+        "az4golf.com": {
+            "epoch": "1573948800",
+            "expiration_date": "17-nov-2019",
+            "state": "future"
+        },
+        "az4ne.com": {
+            "epoch": "1560729600",
+            "expiration_date": "17-jun-2019",
+            "state": "future"
+        },
+        "az7t1.com": {
+            "epoch": "1545782400",
+            "expiration_date": "26-dec-2018",
+            "state": "future"
+        },
+        "az7t2.com": {
+            "epoch": "1547337600",
+            "expiration_date": "13-jan-2019",
+            "state": "future"
+        },
+        "az7t3.com": {
+            "epoch": "1573776000",
+            "expiration_date": "15-nov-2019",
+            "state": "future"
+        },
+        "aza-movies.com": {
+            "epoch": "1564185600",
+            "expiration_date": "27-jul-2019",
+            "state": "future"
+        },
+        "aza.dk": {
+            "epoch": "1551312000",
+            "expiration_date": "28-feb-2019",
+            "state": "future"
+        },
+        "azaart.com": {
+            "epoch": "1563753600",
+            "expiration_date": "22-jul-2019",
+            "state": "future"
+        },
+        "azabat-arabians.com": {
+            "epoch": "1541203200",
+            "expiration_date": "03-nov-2018",
+            "state": "future"
+        },
+        "azabu-aono.com": {
+            "epoch": "1565481600",
+            "expiration_date": "11-aug-2019",
+            "state": "future"
+        },
+        "azabucourt.com": {
+            "epoch": "1635638400",
+            "expiration_date": "31-oct-2021",
+            "state": "future"
+        },
+        "azadeh7.com": {
+            "epoch": "1557532800",
+            "expiration_date": "11-may-2019",
+            "state": "future"
+        },
+        "azadihospital.com": {
+            "epoch": "1560556800",
+            "expiration_date": "15-jun-2019",
+            "state": "future"
+        },
+        "azadiradio.org": {
+            "epoch": "1557964800",
+            "expiration_date": "16-may-2019",
+            "state": "future"
+        },
+        "azadiyawelat.com": {
+            "epoch": "1550448000",
+            "expiration_date": "18-feb-2019",
+            "state": "future"
+        },
+        "azadses.org": {
+            "epoch": "1647216000",
+            "expiration_date": "14-mar-2022",
+            "state": "future"
+        },
+        "azadsmartialarts.com": {
+            "epoch": "1559088000",
+            "expiration_date": "29-may-2019",
+            "state": "future"
+        },
+        "azafatasymodelos.com": {
+            "epoch": "1556236800",
+            "expiration_date": "26-apr-2019",
+            "state": "future"
+        },
+        "azafatasymodelos.net": {
+            "epoch": "1557446400",
+            "expiration_date": "10-may-2019",
+            "state": "future"
+        },
+        "azafatasymodelos.org": {
+            "epoch": "1555804800",
+            "expiration_date": "21-apr-2019",
+            "state": "future"
+        },
+        "azaftigwoman.com": {
+            "epoch": "1551744000",
+            "expiration_date": "05-mar-2019",
+            "state": "future"
+        },
+        "azaharsub.com": {
+            "epoch": "1560124800",
+            "expiration_date": "10-jun-2019",
+            "state": "future"
+        },
+        "azalatina.com": {
+            "epoch": "1572739200",
+            "expiration_date": "03-nov-2019",
+            "state": "future"
+        },
+        "azalea-inn.com": {
+            "epoch": "1648857600",
+            "expiration_date": "02-apr-2022",
+            "state": "future"
+        },
+        "azaleachambermusic.com": {
+            "epoch": "1548115200",
+            "expiration_date": "22-jan-2019",
+            "state": "future"
+        },
+        "azaleafalls.com": {
+            "epoch": "1627344000",
+            "expiration_date": "27-jul-2021",
+            "state": "future"
+        },
+        "azaleainn.com": {
+            "epoch": "1556323200",
+            "expiration_date": "27-apr-2019",
+            "state": "future"
+        },
+        "azalealodge.com": {
+            "epoch": "1552435200",
+            "expiration_date": "13-mar-2019",
+            "state": "future"
+        },
+        "azaleaplantation.com": {
+            "epoch": "1567728000",
+            "expiration_date": "06-sep-2019",
+            "state": "future"
+        },
+        "azaleasandsgolfclub.com": {
+            "epoch": "1571270400",
+            "expiration_date": "17-oct-2019",
+            "state": "future"
+        },
+        "azaleasnyc.com": {
+            "epoch": "1541116800",
+            "expiration_date": "02-nov-2018",
+            "state": "future"
+        },
+        "azaleastables.com": {
+            "epoch": "1570406400",
+            "expiration_date": "07-oct-2019",
+            "state": "future"
+        },
+        "azallstars.com": {
+            "epoch": "1568160000",
+            "expiration_date": "11-sep-2019",
+            "state": "future"
+        },
+        "azamalimusic.com": {
+            "epoch": "1554336000",
+            "expiration_date": "04-apr-2019",
+            "state": "future"
+        },
+        "azania-costarica.com": {
+            "epoch": "1554508800",
+            "expiration_date": "06-apr-2019",
+            "state": "future"
+        },
+        "azaq.net": {
+            "epoch": "1543708800",
+            "expiration_date": "02-dec-2018",
+            "state": "future"
+        },
+        "azarbani.com": {
+            "epoch": "1541548800",
+            "expiration_date": "07-nov-2018",
+            "state": "future"
+        },
+        "azargambling.com": {
+            "epoch": "1559952000",
+            "expiration_date": "08-jun-2019",
+            "state": "future"
+        },
+        "azarius.com": {
+            "epoch": "1581552000",
+            "expiration_date": "13-feb-2020",
+            "state": "future"
+        },
+        "azarmwrestling.com": {
+            "epoch": "1586995200",
+            "expiration_date": "16-apr-2020",
+            "state": "future"
+        },
+        "azartbets.com": {
+            "epoch": "1554940800",
+            "expiration_date": "11-apr-2019",
+            "state": "future"
+        },
+        "azartgames.ru": {
+            "epoch": "1556755200",
+            "expiration_date": "02-may-2019",
+            "state": "future"
+        },
+        "azasa.org": {
+            "epoch": "1554249600",
+            "expiration_date": "03-apr-2019",
+            "state": "future"
+        },
+        "azasian.com": {
+            "epoch": "1557964800",
+            "expiration_date": "16-may-2019",
+            "state": "future"
+        },
+        "azastronomy.com": {
+            "epoch": "1627862400",
+            "expiration_date": "02-aug-2021",
+            "state": "future"
+        },
+        "azattyq.org": {
+            "epoch": "1613952000",
+            "expiration_date": "22-feb-2021",
+            "state": "future"
+        },
+        "azautoinst.com": {
+            "epoch": "1544918400",
+            "expiration_date": "16-dec-2018",
+            "state": "future"
+        },
+        "azavianbreeders.org": {
+            "epoch": "1555286400",
+            "expiration_date": "15-apr-2019",
+            "state": "future"
+        },
+        "azavisociety.org": {
+            "epoch": "1547769600",
+            "expiration_date": "18-jan-2019",
+            "state": "future"
+        },
+        "azawakh-ellendil.com": {
+            "epoch": "1576108800",
+            "expiration_date": "12-dec-2019",
+            "state": "future"
+        },
+        "azawakh-galgo.com": {
+            "epoch": "1558828800",
+            "expiration_date": "26-may-2019",
+            "state": "future"
+        },
+        "azawakh.com": {
+            "epoch": "1559520000",
+            "expiration_date": "03-jun-2019",
+            "state": "future"
+        },
+        "azbabes.com": {
+            "epoch": "1559174400",
+            "expiration_date": "30-may-2019",
+            "state": "future"
+        },
+        "azballoon.com": {
+            "epoch": "1553644800",
+            "expiration_date": "27-mar-2019",
+            "state": "future"
+        },
+        "azbankers.org": {
+            "epoch": "1580688000",
+            "expiration_date": "03-feb-2020",
+            "state": "future"
+        },
+        "azbassetrescue.com": {
+            "epoch": "1558569600",
+            "expiration_date": "23-may-2019",
+            "state": "future"
+        },
+        "azbasspro.com": {
+            "epoch": "1556841600",
+            "expiration_date": "03-may-2019",
+            "state": "future"
+        },
+        "azbc.com": {
+            "epoch": "1557964800",
+            "expiration_date": "16-may-2019",
+            "state": "future"
+        },
+        "azbeaglerescue.com": {
+            "epoch": "1553817600",
+            "expiration_date": "29-mar-2019",
+            "state": "future"
+        },
+        "azbet.com": {
+            "epoch": "1566432000",
+            "expiration_date": "22-aug-2019",
+            "state": "future"
+        },
+        "azbikes.com": {
+            "epoch": "1549238400",
+            "expiration_date": "04-feb-2019",
+            "state": "future"
+        },
+        "azbilliards.com": {
+            "epoch": "1560556800",
+            "expiration_date": "15-jun-2019",
+            "state": "future"
+        },
+        "azbiz.com": {
+            "epoch": "1574294400",
+            "expiration_date": "21-nov-2019",
+            "state": "future"
+        },
+        "azbmd.com": {
+            "epoch": "1622419200",
+            "expiration_date": "31-may-2021",
+            "state": "future"
+        },
+        "azbnk.com": {
+            "epoch": "1540944000",
+            "expiration_date": "31-oct-2018",
+            "state": "future"
+        },
+        "azbobcats.com": {
+            "epoch": "1553558400",
+            "expiration_date": "26-mar-2019",
+            "state": "future"
+        },
+        "azbodyart.com": {
+            "epoch": "1558224000",
+            "expiration_date": "19-may-2019",
+            "state": "future"
+        },
+        "azbordercollierescue.com": {
+            "epoch": "1554076800",
+            "expiration_date": "01-apr-2019",
+            "state": "future"
+        },
+        "azboy.com": {
+            "epoch": "1565568000",
+            "expiration_date": "12-aug-2019",
+            "state": "future"
+        },
+        "azbrscca.org": {
+            "epoch": "1546992000",
+            "expiration_date": "09-jan-2019",
+            "state": "future"
+        },
+        "azbuddhisttemple.org": {
+            "epoch": "1560470400",
+            "expiration_date": "14-jun-2019",
+            "state": "future"
+        },
+        "azbudokan.com": {
+            "epoch": "1547942400",
+            "expiration_date": "20-jan-2019",
+            "state": "future"
+        },
+        "azbukasexa.ru": {
+            "epoch": "1577145600",
+            "expiration_date": "24-dec-2019",
+            "state": "future"
+        },
+        "azbusinessmagazine.com": {
+            "epoch": "1627516800",
+            "expiration_date": "29-jul-2021",
+            "state": "future"
+        },
+        "azcabins.com": {
+            "epoch": "1613347200",
+            "expiration_date": "15-feb-2021",
+            "state": "future"
+        },
+        "azcampsunrise.org": {
+            "epoch": "1548633600",
+            "expiration_date": "28-jan-2019",
+            "state": "future"
+        },
+        "azcardinal.com": {
+            "epoch": "1554768000",
+            "expiration_date": "09-apr-2019",
+            "state": "future"
+        },
+        "azcardinals.com": {
+            "epoch": "1552262400",
+            "expiration_date": "11-mar-2019",
+            "state": "future"
+        },
+        "azcarlazio.com": {
+            "epoch": "1643760000",
+            "expiration_date": "02-feb-2022",
+            "state": "future"
+        },
+        "azcarriage.org": {
+            "epoch": "1548806400",
+            "expiration_date": "30-jan-2019",
+            "state": "future"
+        },
+        "azcats.org": {
+            "epoch": "1641772800",
+            "expiration_date": "10-jan-2022",
+            "state": "future"
+        },
+        "azcelebrities.com": {
+            "epoch": "1561248000",
+            "expiration_date": "23-jun-2019",
+            "state": "future"
+        },
+        "azcelebritytube.com": {
+            "epoch": "1548806400",
+            "expiration_date": "30-jan-2019",
+            "state": "future"
+        },
+        "azcelebs.com": {
+            "epoch": "1570233600",
+            "expiration_date": "05-oct-2019",
+            "state": "future"
+        },
+        "azcentral.com": {
+            "epoch": "1564099200",
+            "expiration_date": "26-jul-2019",
+            "state": "future"
+        },
+        "azcha.com": {
+            "epoch": "1557619200",
+            "expiration_date": "12-may-2019",
+            "state": "future"
+        },
+        "azcharme.com": {
+            "epoch": "1567900800",
+            "expiration_date": "08-sep-2019",
+            "state": "future"
+        },
+        "azcra.org": {
+            "epoch": "1542153600",
+            "expiration_date": "14-nov-2018",
+            "state": "future"
+        },
+        "azcrazy.com": {
+            "epoch": "1557360000",
+            "expiration_date": "09-may-2019",
+            "state": "future"
+        },
+        "azcricket.com": {
+            "epoch": "1605398400",
+            "expiration_date": "15-nov-2020",
+            "state": "future"
+        },
+        "azcwheels.com": {
+            "epoch": "1558915200",
+            "expiration_date": "27-may-2019",
+            "state": "future"
+        },
+        "azdailysun.com": {
+            "epoch": "1569974400",
+            "expiration_date": "02-oct-2019",
+            "state": "future"
+        },
+        "azdba.com": {
+            "epoch": "1555286400",
+            "expiration_date": "15-apr-2019",
+            "state": "future"
+        },
+        "azdejavu.com": {
+            "epoch": "1544572800",
+            "expiration_date": "12-dec-2018",
+            "state": "future"
+        },
+        "azdem.org": {
+            "epoch": "1683158400",
+            "expiration_date": "04-may-2023",
+            "state": "future"
+        },
+        "azderbydames.com": {
+            "epoch": "1565481600",
+            "expiration_date": "11-aug-2019",
+            "state": "future"
+        },
+        "azdesertgems.org": {
+            "epoch": "1578700800",
+            "expiration_date": "11-jan-2020",
+            "state": "future"
+        },
+        "azdesertmountain.com": {
+            "epoch": "1593388800",
+            "expiration_date": "29-jun-2020",
+            "state": "future"
+        },
+        "azdevtech.com": {
+            "epoch": "1552435200",
+            "expiration_date": "13-mar-2019",
+            "state": "future"
+        },
+        "azdex.com": {
+            "epoch": "1571961600",
+            "expiration_date": "25-oct-2019",
+            "state": "future"
+        },
+        "azdirantube.com": {
+            "epoch": "1562716800",
+            "expiration_date": "10-jul-2019",
+            "state": "future"
+        },
+        "azdirantube.info": {
+            "epoch": "1544054400",
+            "expiration_date": "06-dec-2018",
+            "state": "future"
+        },
+        "azdiriciburada.com": {
+            "epoch": "1554940800",
+            "expiration_date": "11-apr-2019",
+            "state": "future"
+        },
+        "azdollhouse.com": {
+            "epoch": "1571184000",
+            "expiration_date": "16-oct-2019",
+            "state": "future"
+        },
+        "azdr.com": {
+            "epoch": "1549843200",
+            "expiration_date": "11-feb-2019",
+            "state": "future"
+        },
+        "azdra.com": {
+            "epoch": "1655424000",
+            "expiration_date": "17-jun-2022",
+            "state": "future"
+        },
+        "azdressage.org": {
+            "epoch": "1570752000",
+            "expiration_date": "11-oct-2019",
+            "state": "future"
+        },
+        "azds.net": {
+            "epoch": "1557273600",
+            "expiration_date": "08-may-2019",
+            "state": "future"
+        },
+        "azebar.com": {
+            "epoch": "1566864000",
+            "expiration_date": "27-aug-2019",
+            "state": "future"
+        },
+        "azelite.net": {
+            "epoch": "1576540800",
+            "expiration_date": "17-dec-2019",
+            "state": "future"
+        },
+        "azemar-gites.com": {
+            "epoch": "1550448000",
+            "expiration_date": "18-feb-2019",
+            "state": "future"
+        },
+        "azemporium.com": {
+            "epoch": "1665014400",
+            "expiration_date": "06-oct-2022",
+            "state": "future"
+        },
+        "azer.com": {
+            "epoch": "1581897600",
+            "expiration_date": "17-feb-2020",
+            "state": "future"
+        },
+        "azerbaijannews.net": {
+            "epoch": "1754092800",
+            "expiration_date": "02-aug-2025",
+            "state": "future"
+        },
+        "azerbaijanrug.com": {
+            "epoch": "1570492800",
+            "expiration_date": "08-oct-2019",
+            "state": "future"
+        },
+        "azerbaijanrugs.com": {
+            "epoch": "1542758400",
+            "expiration_date": "21-nov-2018",
+            "state": "future"
+        },
+        "azeri.ru": {
+            "epoch": "1560211200",
+            "expiration_date": "11-jun-2019",
+            "state": "future"
+        },
+        "azerifootball.com": {
+            "epoch": "1571356800",
+            "expiration_date": "18-oct-2019",
+            "state": "future"
+        },
+        "azerimusic.net": {
+            "epoch": "1564704000",
+            "expiration_date": "02-aug-2019",
+            "state": "future"
+        },
+        "azerinet.com": {
+            "epoch": "1553299200",
+            "expiration_date": "23-mar-2019",
+            "state": "future"
+        },
+        "azeriseks.ru": {
+            "epoch": "1570406400",
+            "expiration_date": "07-oct-2019",
+            "state": "future"
+        },
+        "azerisex.com": {
+            "epoch": "1570147200",
+            "expiration_date": "04-oct-2019",
+            "state": "future"
+        },
+        "azermilf.com": {
+            "epoch": "1552694400",
+            "expiration_date": "16-mar-2019",
+            "state": "future"
+        },
+        "azermilfblog.com": {
+            "epoch": "1533859200",
+            "expiration_date": "10-aug-2018",
+            "state": "past"
+        },
+        "azermilfmovies.com": {
+            "epoch": "1553472000",
+            "expiration_date": "25-mar-2019",
+            "state": "future"
+        },
+        "azernews.net": {
+            "epoch": "1566000000",
+            "expiration_date": "17-aug-2019",
+            "state": "future"
+        },
+        "azeronline.com": {
+            "epoch": "1624492800",
+            "expiration_date": "24-jun-2021",
+            "state": "future"
+        },
+        "azerothcookbook.com": {
+            "epoch": "1575331200",
+            "expiration_date": "03-dec-2019",
+            "state": "future"
+        },
+        "azerothnow.com": {
+            "epoch": "1556150400",
+            "expiration_date": "25-apr-2019",
+            "state": "future"
+        },
+        "azerporn.com": {
+            "epoch": "1535673600",
+            "expiration_date": "31-aug-2018",
+            "state": "past"
+        },
+        "azertag.com": {
+            "epoch": "1554508800",
+            "expiration_date": "06-apr-2019",
+            "state": "future"
+        },
+        "azesearch.com": {
+            "epoch": "1571097600",
+            "expiration_date": "15-oct-2019",
+            "state": "future"
+        },
+        "azetem.com": {
+            "epoch": "1559001600",
+            "expiration_date": "28-may-2019",
+            "state": "future"
+        },
+        "azfamily.com": {
+            "epoch": "1574294400",
+            "expiration_date": "21-nov-2019",
+            "state": "future"
+        },
+        "azfamilylawblog.com": {
+            "epoch": "1548201600",
+            "expiration_date": "23-jan-2019",
+            "state": "future"
+        },
+        "azfastfix.com": {
+            "epoch": "1621209600",
+            "expiration_date": "17-may-2021",
+            "state": "future"
+        },
+        "azfelines.org": {
+            "epoch": "1561075200",
+            "expiration_date": "21-jun-2019",
+            "state": "future"
+        },
+        "azfencing.com": {
+            "epoch": "1630022400",
+            "expiration_date": "27-aug-2021",
+            "state": "future"
+        },
+        "azfencingdivision.net": {
+            "epoch": "1566864000",
+            "expiration_date": "27-aug-2019",
+            "state": "future"
+        },
+        "azfetishball.com": {
+            "epoch": "1602460800",
+            "expiration_date": "12-oct-2020",
+            "state": "future"
+        },
+        "azfisherman.com": {
+            "epoch": "1642204800",
+            "expiration_date": "15-jan-2022",
+            "state": "future"
+        },
+        "azfius.it": {
+            "epoch": "1556064000",
+            "expiration_date": "24-apr-2019",
+            "state": "future"
+        },
+        "azfl.com": {
+            "epoch": "1571011200",
+            "expiration_date": "14-oct-2019",
+            "state": "future"
+        },
+        "azflowershop.com": {
+            "epoch": "1606435200",
+            "expiration_date": "27-nov-2020",
+            "state": "future"
+        },
+        "azfm.com": {
+            "epoch": "1562976000",
+            "expiration_date": "13-jul-2019",
+            "state": "future"
+        },
+        "azfoxtrotter.com": {
+            "epoch": "1690156800",
+            "expiration_date": "24-jul-2023",
+            "state": "future"
+        },
+        "azfunnypictures.com": {
+            "epoch": "1554422400",
+            "expiration_date": "05-apr-2019",
+            "state": "future"
+        },
+        "azg.am": {
+            "epoch": "1566691200",
+            "expiration_date": "25-aug-2019",
+            "state": "future"
+        },
+        "azgaitedhorses.com": {
+            "epoch": "1556928000",
+            "expiration_date": "04-may-2019",
+            "state": "future"
+        },
+        "azgals.com": {
+            "epoch": "1550188800",
+            "expiration_date": "15-feb-2019",
+            "state": "future"
+        },
+        "azgames.org": {
+            "epoch": "1570147200",
+            "expiration_date": "04-oct-2019",
+            "state": "future"
+        },
+        "azgardens.com": {
+            "epoch": "1568592000",
+            "expiration_date": "16-sep-2019",
+            "state": "future"
+        },
+        "azgardfarm.com": {
+            "epoch": "1562198400",
+            "expiration_date": "04-jul-2019",
+            "state": "future"
+        },
+        "azgays.com": {
+            "epoch": "1545350400",
+            "expiration_date": "21-dec-2018",
+            "state": "future"
+        },
+        "azgem.com": {
+            "epoch": "1544832000",
+            "expiration_date": "15-dec-2018",
+            "state": "future"
+        },
+        "azgems.com": {
+            "epoch": "1827187200",
+            "expiration_date": "26-nov-2027",
+            "state": "future"
+        },
+        "azginizle.info": {
+            "epoch": "1562630400",
+            "expiration_date": "09-jul-2019",
+            "state": "future"
+        },
+        "azginpornoizle.com": {
+            "epoch": "1548806400",
+            "expiration_date": "30-jan-2019",
+            "state": "future"
+        },
+        "azginsikis.com": {
+            "epoch": "1561680000",
+            "expiration_date": "28-jun-2019",
+            "state": "future"
+        },
+        "azginvideo.net": {
+            "epoch": "1564531200",
+            "expiration_date": "31-jul-2019",
+            "state": "future"
+        },
+        "azginvideox.net": {
+            "epoch": "1555718400",
+            "expiration_date": "20-apr-2019",
+            "state": "future"
+        },
+        "azgnvideo.com": {
+            "epoch": "1569628800",
+            "expiration_date": "28-sep-2019",
+            "state": "future"
+        },
+        "azgolf.org": {
+            "epoch": "1698624000",
+            "expiration_date": "30-oct-2023",
+            "state": "future"
+        },
+        "azgolfcollege.com": {
+            "epoch": "1569283200",
+            "expiration_date": "24-sep-2019",
+            "state": "future"
+        },
+        "azgolfforum.com": {
+            "epoch": "1556668800",
+            "expiration_date": "01-may-2019",
+            "state": "future"
+        },
+        "azgolfresort.com": {
+            "epoch": "1591747200",
+            "expiration_date": "10-jun-2020",
+            "state": "future"
+        },
+        "azgolfschool.com": {
+            "epoch": "1551830400",
+            "expiration_date": "06-mar-2019",
+            "state": "future"
+        },
+        "azgop.org": {
+            "epoch": "1673654400",
+            "expiration_date": "14-jan-2023",
+            "state": "future"
+        },
+        "azgp.org": {
+            "epoch": "1564531200",
+            "expiration_date": "31-jul-2019",
+            "state": "future"
+        },
+        "azgreyhoundrescue.org": {
+            "epoch": "1632009600",
+            "expiration_date": "19-sep-2021",
+            "state": "future"
+        },
+        "azgreyhounds.com": {
+            "epoch": "1579737600",
+            "expiration_date": "23-jan-2020",
+            "state": "future"
+        },
+        "azgunsetc.net": {
+            "epoch": "1570320000",
+            "expiration_date": "06-oct-2019",
+            "state": "future"
+        },
+        "azgunslinger.com": {
+            "epoch": "1668124800",
+            "expiration_date": "11-nov-2022",
+            "state": "future"
+        },
+        "azgymnastics.com": {
+            "epoch": "1693872000",
+            "expiration_date": "05-sep-2023",
+            "state": "future"
+        },
+        "azhearing.com": {
+            "epoch": "1580601600",
+            "expiration_date": "02-feb-2020",
+            "state": "future"
+        },
+        "azheli.com": {
+            "epoch": "1550361600",
+            "expiration_date": "17-feb-2019",
+            "state": "future"
+        },
+        "azhentai.com": {
+            "epoch": "1569715200",
+            "expiration_date": "29-sep-2019",
+            "state": "future"
+        },
+        "azherbals.com": {
+            "epoch": "1542153600",
+            "expiration_date": "14-nov-2018",
+            "state": "future"
+        },
+        "azhighschoolsports.com": {
+            "epoch": "1561766400",
+            "expiration_date": "29-jun-2019",
+            "state": "future"
+        },
+        "azhma.com": {
+            "epoch": "1563148800",
+            "expiration_date": "15-jul-2019",
+            "state": "future"
+        },
+        "azhockey.com": {
+            "epoch": "1574467200",
+            "expiration_date": "23-nov-2019",
+            "state": "future"
+        },
+        "azhorseconnection.com": {
+            "epoch": "1575244800",
+            "expiration_date": "02-dec-2019",
+            "state": "future"
+        },
+        "azhorseracing.com": {
+            "epoch": "1569283200",
+            "expiration_date": "24-sep-2019",
+            "state": "future"
+        },
+        "azhosting.ws": {
+            "epoch": "1541721600",
+            "expiration_date": "09-nov-2018",
+            "state": "future"
+        },
+        "aziahotel.com": {
+            "epoch": "1547769600",
+            "expiration_date": "18-jan-2019",
+            "state": "future"
+        },
+        "aziani.com": {
+            "epoch": "1563926400",
+            "expiration_date": "24-jul-2019",
+            "state": "future"
+        },
+        "azianibabes.com": {
+            "epoch": "1555027200",
+            "expiration_date": "12-apr-2019",
+            "state": "future"
+        },
+        "azianiiron.com": {
+            "epoch": "1548288000",
+            "expiration_date": "24-jan-2019",
+            "state": "future"
+        },
+        "azianimembers.com": {
+            "epoch": "1574035200",
+            "expiration_date": "18-nov-2019",
+            "state": "future"
+        },
+        "azianimodels.com": {
+            "epoch": "1560556800",
+            "expiration_date": "15-jun-2019",
+            "state": "future"
+        },
+        "azianixposed.com": {
+            "epoch": "1550620800",
+            "expiration_date": "20-feb-2019",
+            "state": "future"
+        },
+        "azians.com": {
+            "epoch": "1582502400",
+            "expiration_date": "24-feb-2020",
+            "state": "future"
+        },
+        "azianvidz.com": {
+            "epoch": "1547078400",
+            "expiration_date": "10-jan-2019",
+            "state": "future"
+        },
+        "aziaresort.com": {
+            "epoch": "1744070400",
+            "expiration_date": "08-apr-2025",
+            "state": "future"
+        },
+        "aziaten.com": {
+            "epoch": "1556236800",
+            "expiration_date": "26-apr-2019",
             "state": "future"
         }
     }
