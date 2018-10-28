@@ -74215,6 +74215,11 @@
             "expiration_date": "17-may-2019",
             "state": "future"
         },
+        "ban-sabai.com": {
+            "epoch": "1562112000",
+            "expiration_date": "03-jul-2019",
+            "state": "future"
+        },
         "bana-na.net": {
             "epoch": "1548633600",
             "expiration_date": "28-jan-2019",
@@ -78275,6 +78280,11 @@
             "expiration_date": "31-aug-2019",
             "state": "future"
         },
+        "banner-tribune.com": {
+            "epoch": "1552780800",
+            "expiration_date": "17-mar-2019",
+            "state": "future"
+        },
         "banner.net": {
             "epoch": "1565740800",
             "expiration_date": "14-aug-2019",
@@ -78433,6 +78443,901 @@
         "bannersgomlm.com": {
             "epoch": "1549324800",
             "expiration_date": "05-feb-2019",
+            "state": "future"
+        },
+        "bannertown.com": {
+            "epoch": "1763251200",
+            "expiration_date": "16-nov-2025",
+            "state": "future"
+        },
+        "bannertown.net": {
+            "epoch": "1569110400",
+            "expiration_date": "22-sep-2019",
+            "state": "future"
+        },
+        "bannerwerbung.net": {
+            "epoch": "1552435200",
+            "expiration_date": "13-mar-2019",
+            "state": "future"
+        },
+        "bannerwomen.com": {
+            "epoch": "1545523200",
+            "expiration_date": "23-dec-2018",
+            "state": "future"
+        },
+        "bannerx.com": {
+            "epoch": "1550102400",
+            "expiration_date": "14-feb-2019",
+            "state": "future"
+        },
+        "banniere.fr": {
+            "epoch": "1574726400",
+            "expiration_date": "26-nov-2019",
+            "state": "future"
+        },
+        "banningeyre.com": {
+            "epoch": "1587168000",
+            "expiration_date": "18-apr-2020",
+            "state": "future"
+        },
+        "bannisterswharf.net": {
+            "epoch": "1558828800",
+            "expiration_date": "26-may-2019",
+            "state": "future"
+        },
+        "bannockburnfarmllc.com": {
+            "epoch": "1583798400",
+            "expiration_date": "10-mar-2020",
+            "state": "future"
+        },
+        "bannonbrig.com": {
+            "epoch": "1545868800",
+            "expiration_date": "27-dec-2018",
+            "state": "future"
+        },
+        "bannuncio.com": {
+            "epoch": "1570579200",
+            "expiration_date": "09-oct-2019",
+            "state": "future"
+        },
+        "banoantiguo.com": {
+            "epoch": "1559001600",
+            "expiration_date": "28-may-2019",
+            "state": "future"
+        },
+        "banonresortsmanali.com": {
+            "epoch": "1557619200",
+            "expiration_date": "12-may-2019",
+            "state": "future"
+        },
+        "banookcanoeclub.com": {
+            "epoch": "1567296000",
+            "expiration_date": "01-sep-2019",
+            "state": "future"
+        },
+        "banorte.com": {
+            "epoch": "1823299200",
+            "expiration_date": "12-oct-2027",
+            "state": "future"
+        },
+        "banorte.mx": {
+            "epoch": "1557705600",
+            "expiration_date": "13-may-2019",
+            "state": "future"
+        },
+        "banpais.hn": {
+            "epoch": "1546300800",
+            "expiration_date": "01-jan-2019",
+            "state": "future"
+        },
+        "banpeiyu.com": {
+            "epoch": "1552608000",
+            "expiration_date": "15-mar-2019",
+            "state": "future"
+        },
+        "banplus.com": {
+            "epoch": "1598140800",
+            "expiration_date": "23-aug-2020",
+            "state": "future"
+        },
+        "banplusonline.com": {
+            "epoch": "1599177600",
+            "expiration_date": "04-sep-2020",
+            "state": "future"
+        },
+        "banque-centrale.mg": {
+            "epoch": "1573862400",
+            "expiration_date": "16-nov-2019",
+            "state": "future"
+        },
+        "banque-courtois.fr": {
+            "epoch": "1549411200",
+            "expiration_date": "06-feb-2019",
+            "state": "future"
+        },
+        "banque-de-luxembourg.com": {
+            "epoch": "1562284800",
+            "expiration_date": "05-jul-2019",
+            "state": "future"
+        },
+        "banque-du-louvre.com": {
+            "epoch": "1562457600",
+            "expiration_date": "07-jul-2019",
+            "state": "future"
+        },
+        "banque-france.fr": {
+            "epoch": "1569456000",
+            "expiration_date": "26-sep-2019",
+            "state": "future"
+        },
+        "banque-kolb.fr": {
+            "epoch": "1549411200",
+            "expiration_date": "06-feb-2019",
+            "state": "future"
+        },
+        "banque-laydernier.fr": {
+            "epoch": "1550448000",
+            "expiration_date": "18-feb-2019",
+            "state": "future"
+        },
+        "banque-nuger.fr": {
+            "epoch": "1549411200",
+            "expiration_date": "06-feb-2019",
+            "state": "future"
+        },
+        "banque-rhone-alpes.fr": {
+            "epoch": "1549411200",
+            "expiration_date": "06-feb-2019",
+            "state": "future"
+        },
+        "banque-robeco.fr": {
+            "epoch": "1555718400",
+            "expiration_date": "20-apr-2019",
+            "state": "future"
+        },
+        "banque-sbe.fr": {
+            "epoch": "1543017600",
+            "expiration_date": "24-nov-2018",
+            "state": "future"
+        },
+        "banque-solidarites.com": {
+            "epoch": "1568160000",
+            "expiration_date": "11-sep-2019",
+            "state": "future"
+        },
+        "banqueagf.fr": {
+            "epoch": "1553472000",
+            "expiration_date": "25-mar-2019",
+            "state": "future"
+        },
+        "banquebipop.fr": {
+            "epoch": "1547596800",
+            "expiration_date": "16-jan-2019",
+            "state": "future"
+        },
+        "banquedebaecquebeau.fr": {
+            "epoch": "1561075200",
+            "expiration_date": "21-jun-2019",
+            "state": "future"
+        },
+        "banquedeluxembourg.com": {
+            "epoch": "1562284800",
+            "expiration_date": "05-jul-2019",
+            "state": "future"
+        },
+        "banquedevizille.fr": {
+            "epoch": "1571097600",
+            "expiration_date": "15-oct-2019",
+            "state": "future"
+        },
+        "banquedirecte.fr": {
+            "epoch": "1559088000",
+            "expiration_date": "29-may-2019",
+            "state": "future"
+        },
+        "banquedorsay.fr": {
+            "epoch": "1563494400",
+            "expiration_date": "19-jul-2019",
+            "state": "future"
+        },
+        "banquefinama.fr": {
+            "epoch": "1543190400",
+            "expiration_date": "26-nov-2018",
+            "state": "future"
+        },
+        "banquepopulaire.fr": {
+            "epoch": "1543795200",
+            "expiration_date": "03-dec-2018",
+            "state": "future"
+        },
+        "banqueroyale.com": {
+            "epoch": "1576108800",
+            "expiration_date": "12-dec-2019",
+            "state": "future"
+        },
+        "banquescotia.com": {
+            "epoch": "1614729600",
+            "expiration_date": "03-mar-2021",
+            "state": "future"
+        },
+        "banquetspeaker.com": {
+            "epoch": "1547251200",
+            "expiration_date": "12-jan-2019",
+            "state": "future"
+        },
+        "banquisekennels.com": {
+            "epoch": "1565481600",
+            "expiration_date": "11-aug-2019",
+            "state": "future"
+        },
+        "banregio.com": {
+            "epoch": "1604966400",
+            "expiration_date": "10-nov-2020",
+            "state": "future"
+        },
+        "banreservas.com": {
+            "epoch": "1612656000",
+            "expiration_date": "07-feb-2021",
+            "state": "future"
+        },
+        "banrimkwae.com": {
+            "epoch": "1568851200",
+            "expiration_date": "19-sep-2019",
+            "state": "future"
+        },
+        "banrx.com": {
+            "epoch": "1549584000",
+            "expiration_date": "08-feb-2019",
+            "state": "future"
+        },
+        "banseikou.com": {
+            "epoch": "1550016000",
+            "expiration_date": "13-feb-2019",
+            "state": "future"
+        },
+        "bansenjuku.org": {
+            "epoch": "1558915200",
+            "expiration_date": "27-may-2019",
+            "state": "future"
+        },
+        "banshaku.net": {
+            "epoch": "1547769600",
+            "expiration_date": "18-jan-2019",
+            "state": "future"
+        },
+        "bansheecharters.com": {
+            "epoch": "1548374400",
+            "expiration_date": "25-jan-2019",
+            "state": "future"
+        },
+        "bansko.ru": {
+            "epoch": "1551484800",
+            "expiration_date": "02-mar-2019",
+            "state": "future"
+        },
+        "banskoski.com": {
+            "epoch": "1581811200",
+            "expiration_date": "16-feb-2020",
+            "state": "future"
+        },
+        "banskoskischool.info": {
+            "epoch": "1542412800",
+            "expiration_date": "17-nov-2018",
+            "state": "future"
+        },
+        "banskotravel.com": {
+            "epoch": "1566172800",
+            "expiration_date": "19-aug-2019",
+            "state": "future"
+        },
+        "banso.com": {
+            "epoch": "1574208000",
+            "expiration_date": "20-nov-2019",
+            "state": "future"
+        },
+        "bant-shirts.com": {
+            "epoch": "1608422400",
+            "expiration_date": "20-dec-2020",
+            "state": "future"
+        },
+        "banta.dk": {
+            "epoch": "1546214400",
+            "expiration_date": "31-dec-2018",
+            "state": "future"
+        },
+        "bantamcinema.com": {
+            "epoch": "1685836800",
+            "expiration_date": "04-jun-2023",
+            "state": "future"
+        },
+        "bantamfinearts.com": {
+            "epoch": "1568851200",
+            "expiration_date": "19-sep-2019",
+            "state": "future"
+        },
+        "bantaworld.com": {
+            "epoch": "1650844800",
+            "expiration_date": "25-apr-2022",
+            "state": "future"
+        },
+        "bantayan.dk": {
+            "epoch": "1561852800",
+            "expiration_date": "30-jun-2019",
+            "state": "future"
+        },
+        "banterist.com": {
+            "epoch": "1600560000",
+            "expiration_date": "20-sep-2020",
+            "state": "future"
+        },
+        "bantex.ru": {
+            "epoch": "1556496000",
+            "expiration_date": "29-apr-2019",
+            "state": "future"
+        },
+        "banthai.com": {
+            "epoch": "1630713600",
+            "expiration_date": "04-sep-2021",
+            "state": "future"
+        },
+        "banthaiphuket.com": {
+            "epoch": "1544054400",
+            "expiration_date": "06-dec-2018",
+            "state": "future"
+        },
+        "bantheboot.com": {
+            "epoch": "1550793600",
+            "expiration_date": "22-feb-2019",
+            "state": "future"
+        },
+        "banthis.com": {
+            "epoch": "1543968000",
+            "expiration_date": "05-dec-2018",
+            "state": "future"
+        },
+        "bantinghouse.com": {
+            "epoch": "1541808000",
+            "expiration_date": "10-nov-2018",
+            "state": "future"
+        },
+        "bantrim.net": {
+            "epoch": "1571616000",
+            "expiration_date": "21-oct-2019",
+            "state": "future"
+        },
+        "bantrybedandbreakfasts.com": {
+            "epoch": "1568073600",
+            "expiration_date": "10-sep-2019",
+            "state": "future"
+        },
+        "bantryholidayhomes.com": {
+            "epoch": "1572307200",
+            "expiration_date": "29-oct-2019",
+            "state": "future"
+        },
+        "bantu.com": {
+            "epoch": "1542585600",
+            "expiration_date": "19-nov-2018",
+            "state": "future"
+        },
+        "banus-lettings.net": {
+            "epoch": "1565049600",
+            "expiration_date": "06-aug-2019",
+            "state": "future"
+        },
+        "banusi.com": {
+            "epoch": "1560902400",
+            "expiration_date": "19-jun-2019",
+            "state": "future"
+        },
+        "banvalor.ws": {
+            "epoch": "1555977600",
+            "expiration_date": "23-apr-2019",
+            "state": "future"
+        },
+        "banvenez.com": {
+            "epoch": "1562112000",
+            "expiration_date": "03-jul-2019",
+            "state": "future"
+        },
+        "banvilleandjones.com": {
+            "epoch": "1615334400",
+            "expiration_date": "10-mar-2021",
+            "state": "future"
+        },
+        "banwari.com": {
+            "epoch": "1570752000",
+            "expiration_date": "11-oct-2019",
+            "state": "future"
+        },
+        "banyanbeach.com": {
+            "epoch": "1550707200",
+            "expiration_date": "21-feb-2019",
+            "state": "future"
+        },
+        "banyanbotanicals.com": {
+            "epoch": "1546646400",
+            "expiration_date": "05-jan-2019",
+            "state": "future"
+        },
+        "banyanhouse.com": {
+            "epoch": "1546905600",
+            "expiration_date": "08-jan-2019",
+            "state": "future"
+        },
+        "banyanmarina.com": {
+            "epoch": "1551484800",
+            "expiration_date": "02-mar-2019",
+            "state": "future"
+        },
+        "banyantrading.com": {
+            "epoch": "1575936000",
+            "expiration_date": "10-dec-2019",
+            "state": "future"
+        },
+        "banyantree.com": {
+            "epoch": "1560211200",
+            "expiration_date": "11-jun-2019",
+            "state": "future"
+        },
+        "banyantreebandb.com": {
+            "epoch": "1541548800",
+            "expiration_date": "07-nov-2018",
+            "state": "future"
+        },
+        "banyen.com": {
+            "epoch": "1786665600",
+            "expiration_date": "14-aug-2026",
+            "state": "future"
+        },
+        "banyoda.com": {
+            "epoch": "1561161600",
+            "expiration_date": "22-jun-2019",
+            "state": "future"
+        },
+        "banyoles-agenda.com": {
+            "epoch": "1545868800",
+            "expiration_date": "27-dec-2018",
+            "state": "future"
+        },
+        "banyone.com": {
+            "epoch": "1535241600",
+            "expiration_date": "26-aug-2018",
+            "state": "past"
+        },
+        "banyualit.com": {
+            "epoch": "1772496000",
+            "expiration_date": "03-mar-2026",
+            "state": "future"
+        },
+        "banzai-institute.com": {
+            "epoch": "1606435200",
+            "expiration_date": "27-nov-2020",
+            "state": "future"
+        },
+        "banzai.se": {
+            "epoch": "1555286400",
+            "expiration_date": "15-apr-2019",
+            "state": "future"
+        },
+        "banzaiattack.com": {
+            "epoch": "1541894400",
+            "expiration_date": "11-nov-2018",
+            "state": "future"
+        },
+        "banzaibabes.com": {
+            "epoch": "1561593600",
+            "expiration_date": "27-jun-2019",
+            "state": "future"
+        },
+        "banzaiboards.com": {
+            "epoch": "1566864000",
+            "expiration_date": "27-aug-2019",
+            "state": "future"
+        },
+        "banzaihentai.com": {
+            "epoch": "1573603200",
+            "expiration_date": "13-nov-2019",
+            "state": "future"
+        },
+        "banzaihentai.net": {
+            "epoch": "1554940800",
+            "expiration_date": "11-apr-2019",
+            "state": "future"
+        },
+        "banzaihosting.com": {
+            "epoch": "1557360000",
+            "expiration_date": "09-may-2019",
+            "state": "future"
+        },
+        "banzaiporn.com": {
+            "epoch": "1535155200",
+            "expiration_date": "25-aug-2018",
+            "state": "past"
+        },
+        "banzaitour.net": {
+            "epoch": "1549584000",
+            "expiration_date": "08-feb-2019",
+            "state": "future"
+        },
+        "banzaj.pl": {
+            "epoch": "1573344000",
+            "expiration_date": "10-nov-2019",
+            "state": "future"
+        },
+        "bao01.com": {
+            "epoch": "1536278400",
+            "expiration_date": "07-sep-2018",
+            "state": "past"
+        },
+        "baobabs.com": {
+            "epoch": "1548201600",
+            "expiration_date": "23-jan-2019",
+            "state": "future"
+        },
+        "baobabtravel.com": {
+            "epoch": "1549324800",
+            "expiration_date": "05-feb-2019",
+            "state": "future"
+        },
+        "baobabvillage.com": {
+            "epoch": "1564272000",
+            "expiration_date": "28-jul-2019",
+            "state": "future"
+        },
+        "baobinhclub.com": {
+            "epoch": "1540857600",
+            "expiration_date": "30-oct-2018",
+            "state": "future"
+        },
+        "baofeng.com": {
+            "epoch": "1624492800",
+            "expiration_date": "24-jun-2021",
+            "state": "future"
+        },
+        "baohay.com": {
+            "epoch": "1553472000",
+            "expiration_date": "25-mar-2019",
+            "state": "future"
+        },
+        "baomihua.com": {
+            "epoch": "1584576000",
+            "expiration_date": "19-mar-2020",
+            "state": "future"
+        },
+        "baomm.net": {
+            "epoch": "1569801600",
+            "expiration_date": "30-sep-2019",
+            "state": "future"
+        },
+        "baomoi.com": {
+            "epoch": "1837814400",
+            "expiration_date": "28-mar-2028",
+            "state": "future"
+        },
+        "baoom.com": {
+            "epoch": "1554940800",
+            "expiration_date": "11-apr-2019",
+            "state": "future"
+        },
+        "baopen.com": {
+            "epoch": "1695600000",
+            "expiration_date": "25-sep-2023",
+            "state": "future"
+        },
+        "baoshicheng.com": {
+            "epoch": "1574121600",
+            "expiration_date": "19-nov-2019",
+            "state": "future"
+        },
+        "baotoo.com": {
+            "epoch": "1567123200",
+            "expiration_date": "30-aug-2019",
+            "state": "future"
+        },
+        "baotrieu.com": {
+            "epoch": "1703116800",
+            "expiration_date": "21-dec-2023",
+            "state": "future"
+        },
+        "baoxian-insurance.com": {
+            "epoch": "1546646400",
+            "expiration_date": "05-jan-2019",
+            "state": "future"
+        },
+        "bapalal.com": {
+            "epoch": "1558569600",
+            "expiration_date": "23-may-2019",
+            "state": "future"
+        },
+        "bapalaljewellers.com": {
+            "epoch": "1566950400",
+            "expiration_date": "28-aug-2019",
+            "state": "future"
+        },
+        "bapornstars.com": {
+            "epoch": "1548115200",
+            "expiration_date": "22-jan-2019",
+            "state": "future"
+        },
+        "bappress.org": {
+            "epoch": "1547856000",
+            "expiration_date": "19-jan-2019",
+            "state": "future"
+        },
+        "baptism.org": {
+            "epoch": "1558137600",
+            "expiration_date": "18-may-2019",
+            "state": "future"
+        },
+        "baptismalcross.com": {
+            "epoch": "1786492800",
+            "expiration_date": "12-aug-2026",
+            "state": "future"
+        },
+        "baptist-atlantic.ca": {
+            "epoch": "1580342400",
+            "expiration_date": "30-jan-2020",
+            "state": "future"
+        },
+        "baptist-church.net": {
+            "epoch": "1558224000",
+            "expiration_date": "19-may-2019",
+            "state": "future"
+        },
+        "baptist-churches.org": {
+            "epoch": "1570492800",
+            "expiration_date": "08-oct-2019",
+            "state": "future"
+        },
+        "baptist-health.com": {
+            "epoch": "1614124800",
+            "expiration_date": "24-feb-2021",
+            "state": "future"
+        },
+        "baptist-heartofengland.org": {
+            "epoch": "1564704000",
+            "expiration_date": "02-aug-2019",
+            "state": "future"
+        },
+        "baptist.ca": {
+            "epoch": "1557792000",
+            "expiration_date": "14-may-2019",
+            "state": "future"
+        },
+        "baptist.cz": {
+            "epoch": "1571875200",
+            "expiration_date": "24-oct-2019",
+            "state": "future"
+        },
+        "baptist.fi": {
+            "epoch": "1661904000",
+            "expiration_date": "31-aug-2022",
+            "state": "future"
+        },
+        "baptist.hr": {
+            "epoch": "1557964800",
+            "expiration_date": "16-may-2019",
+            "state": "future"
+        },
+        "baptist.lt": {
+            "epoch": "1550448000",
+            "expiration_date": "18-feb-2019",
+            "state": "future"
+        },
+        "baptist.org": {
+            "epoch": "1557792000",
+            "expiration_date": "14-may-2019",
+            "state": "future"
+        },
+        "baptist.se": {
+            "epoch": "1640908800",
+            "expiration_date": "31-dec-2021",
+            "state": "future"
+        },
+        "baptistbeacon.com": {
+            "epoch": "1550448000",
+            "expiration_date": "18-feb-2019",
+            "state": "future"
+        },
+        "baptistbiblehour.org": {
+            "epoch": "1612569600",
+            "expiration_date": "06-feb-2021",
+            "state": "future"
+        },
+        "baptistboard.com": {
+            "epoch": "1560643200",
+            "expiration_date": "16-jun-2019",
+            "state": "future"
+        },
+        "baptistchildrensservices.org": {
+            "epoch": "1708646400",
+            "expiration_date": "23-feb-2024",
+            "state": "future"
+        },
+        "baptistchurch.org": {
+            "epoch": "1724371200",
+            "expiration_date": "23-aug-2024",
+            "state": "future"
+        },
+        "baptistchurchplanting.com": {
+            "epoch": "1560556800",
+            "expiration_date": "15-jun-2019",
+            "state": "future"
+        },
+        "baptistcollege.edu": {
+            "epoch": "1564531200",
+            "expiration_date": "31-jul-2019",
+            "state": "future"
+        },
+        "baptistcourier.com": {
+            "epoch": "1580169600",
+            "expiration_date": "28-jan-2020",
+            "state": "future"
+        },
+        "baptistemple.org": {
+            "epoch": "1568419200",
+            "expiration_date": "14-sep-2019",
+            "state": "future"
+        },
+        "baptisten.org": {
+            "epoch": "1552003200",
+            "expiration_date": "08-mar-2019",
+            "state": "future"
+        },
+        "baptistene.info": {
+            "epoch": "1554595200",
+            "expiration_date": "07-apr-2019",
+            "state": "future"
+        },
+        "baptistfaithmissions.org": {
+            "epoch": "1564704000",
+            "expiration_date": "02-aug-2019",
+            "state": "future"
+        },
+        "baptistfire.com": {
+            "epoch": "1548547200",
+            "expiration_date": "27-jan-2019",
+            "state": "future"
+        },
+        "baptistfirst.org": {
+            "epoch": "1559174400",
+            "expiration_date": "30-may-2019",
+            "state": "future"
+        },
+        "baptisthistory.org": {
+            "epoch": "1556582400",
+            "expiration_date": "30-apr-2019",
+            "state": "future"
+        },
+        "baptisthouse.com": {
+            "epoch": "1562284800",
+            "expiration_date": "05-jul-2019",
+            "state": "future"
+        },
+        "baptistinfo.com": {
+            "epoch": "1550275200",
+            "expiration_date": "16-feb-2019",
+            "state": "future"
+        },
+        "baptistkilisesi.com": {
+            "epoch": "1569196800",
+            "expiration_date": "23-sep-2019",
+            "state": "future"
+        },
+        "baptistkirke.dk": {
+            "epoch": "1561852800",
+            "expiration_date": "30-jun-2019",
+            "state": "future"
+        },
+        "baptistkirken-odense.dk": {
+            "epoch": "1553990400",
+            "expiration_date": "31-mar-2019",
+            "state": "future"
+        },
+        "baptistkirken.dk": {
+            "epoch": "1546214400",
+            "expiration_date": "31-dec-2018",
+            "state": "future"
+        },
+        "baptistkirken.net": {
+            "epoch": "1549929600",
+            "expiration_date": "12-feb-2019",
+            "state": "future"
+        },
+        "baptistlibraryonline.com": {
+            "epoch": "1553040000",
+            "expiration_date": "20-mar-2019",
+            "state": "future"
+        },
+        "baptistlife.com": {
+            "epoch": "1556582400",
+            "expiration_date": "30-apr-2019",
+            "state": "future"
+        },
+        "baptistlist.org": {
+            "epoch": "1551657600",
+            "expiration_date": "04-mar-2019",
+            "state": "future"
+        },
+        "baptistmedical.org": {
+            "epoch": "1559433600",
+            "expiration_date": "02-jun-2019",
+            "state": "future"
+        },
+        "baptistmessenger.com": {
+            "epoch": "1778716800",
+            "expiration_date": "14-may-2026",
+            "state": "future"
+        },
+        "baptistnsb.dk": {
+            "epoch": "1546214400",
+            "expiration_date": "31-dec-2018",
+            "state": "future"
+        },
+        "baptistonline.org": {
+            "epoch": "1555632000",
+            "expiration_date": "19-apr-2019",
+            "state": "future"
+        },
+        "baptistpage.org": {
+            "epoch": "1567555200",
+            "expiration_date": "04-sep-2019",
+            "state": "future"
+        },
+        "baptistpress.org": {
+            "epoch": "1682208000",
+            "expiration_date": "23-apr-2023",
+            "state": "future"
+        },
+        "baptists4ethics.com": {
+            "epoch": "1568073600",
+            "expiration_date": "10-sep-2019",
+            "state": "future"
+        },
+        "baptiststandard.com": {
+            "epoch": "1619913600",
+            "expiration_date": "02-may-2021",
+            "state": "future"
+        },
+        "baptiststart.com": {
+            "epoch": "1552435200",
+            "expiration_date": "13-mar-2019",
+            "state": "future"
+        },
+        "baptiststoday.org": {
+            "epoch": "1562976000",
+            "expiration_date": "13-jul-2019",
+            "state": "future"
+        },
+        "baptisttemple.com": {
+            "epoch": "1565136000",
+            "expiration_date": "07-aug-2019",
+            "state": "future"
+        },
+        "baptisttemple.org": {
+            "epoch": "1551744000",
+            "expiration_date": "05-mar-2019",
+            "state": "future"
+        },
+        "baptisttop1000.com": {
+            "epoch": "1566691200",
+            "expiration_date": "25-aug-2019",
+            "state": "future"
+        },
+        "baptisttrumpet.com": {
+            "epoch": "1556841600",
+            "expiration_date": "03-may-2019",
+            "state": "future"
+        },
+        "baptistwholesalers.com": {
+            "epoch": "1553817600",
+            "expiration_date": "29-mar-2019",
+            "state": "future"
+        },
+        "baptistwomen.com": {
+            "epoch": "1567209600",
+            "expiration_date": "31-aug-2019",
             "state": "future"
         }
     }
