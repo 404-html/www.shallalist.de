@@ -11095,6 +11095,11 @@
             "expiration_date": "13-oct-2019",
             "state": "future"
         },
+        "as-travel.net": {
+            "epoch": "1546473600",
+            "expiration_date": "03-jan-2019",
+            "state": "future"
+        },
         "as.com": {
             "epoch": "1543795200",
             "expiration_date": "03-dec-2018",
@@ -29138,6 +29143,996 @@
         "astorhotels.com": {
             "epoch": "1552608000",
             "expiration_date": "15-mar-2019",
+            "state": "future"
+        },
+        "astra-video.ru": {
+            "epoch": "1566432000",
+            "expiration_date": "22-aug-2019",
+            "state": "future"
+        },
+        "astra.su": {
+            "epoch": "1564531200",
+            "expiration_date": "31-jul-2019",
+            "state": "future"
+        },
+        "astralnymphets.com": {
+            "epoch": "1563753600",
+            "expiration_date": "22-jul-2019",
+            "state": "future"
+        },
+        "astralocean.com": {
+            "epoch": "1590105600",
+            "expiration_date": "22-may-2020",
+            "state": "future"
+        },
+        "astraloceanvod.com": {
+            "epoch": "1561420800",
+            "expiration_date": "25-jun-2019",
+            "state": "future"
+        },
+        "astralspace.com": {
+            "epoch": "1569801600",
+            "expiration_date": "30-sep-2019",
+            "state": "future"
+        },
+        "astraltournament.com": {
+            "epoch": "1568160000",
+            "expiration_date": "11-sep-2019",
+            "state": "future"
+        },
+        "astraltowerdefense.com": {
+            "epoch": "1547942400",
+            "expiration_date": "20-jan-2019",
+            "state": "future"
+        },
+        "astralvoyance.com": {
+            "epoch": "1557187200",
+            "expiration_date": "07-may-2019",
+            "state": "future"
+        },
+        "astralware.com": {
+            "epoch": "1557187200",
+            "expiration_date": "07-may-2019",
+            "state": "future"
+        },
+        "astramate.com": {
+            "epoch": "1594425600",
+            "expiration_date": "11-jul-2020",
+            "state": "future"
+        },
+        "astramusic.net": {
+            "epoch": "1616803200",
+            "expiration_date": "27-mar-2021",
+            "state": "future"
+        },
+        "astraopera.com": {
+            "epoch": "1547942400",
+            "expiration_date": "20-jan-2019",
+            "state": "future"
+        },
+        "astraporn.com": {
+            "epoch": "1568678400",
+            "expiration_date": "17-sep-2019",
+            "state": "future"
+        },
+        "astraserver.com": {
+            "epoch": "1542499200",
+            "expiration_date": "18-nov-2018",
+            "state": "future"
+        },
+        "astratool.net": {
+            "epoch": "1607817600",
+            "expiration_date": "13-dec-2020",
+            "state": "future"
+        },
+        "astravelcenter.com": {
+            "epoch": "1627603200",
+            "expiration_date": "30-jul-2021",
+            "state": "future"
+        },
+        "astraveloffl.com": {
+            "epoch": "1562544000",
+            "expiration_date": "08-jul-2019",
+            "state": "future"
+        },
+        "astrax.com": {
+            "epoch": "1601510400",
+            "expiration_date": "01-oct-2020",
+            "state": "future"
+        },
+        "astreet.com": {
+            "epoch": "1559865600",
+            "expiration_date": "07-jun-2019",
+            "state": "future"
+        },
+        "astrela.com": {
+            "epoch": "1544400000",
+            "expiration_date": "10-dec-2018",
+            "state": "future"
+        },
+        "astreo.it": {
+            "epoch": "1555632000",
+            "expiration_date": "19-apr-2019",
+            "state": "future"
+        },
+        "astrida.lt": {
+            "epoch": "1550620800",
+            "expiration_date": "20-feb-2019",
+            "state": "future"
+        },
+        "astridcharter.fi": {
+            "epoch": "1661904000",
+            "expiration_date": "31-aug-2022",
+            "state": "future"
+        },
+        "astridhotelrome.it": {
+            "epoch": "1551052800",
+            "expiration_date": "25-feb-2019",
+            "state": "future"
+        },
+        "astridmusic.com": {
+            "epoch": "1572048000",
+            "expiration_date": "26-oct-2019",
+            "state": "future"
+        },
+        "astridsangelcash.com": {
+            "epoch": "1563062400",
+            "expiration_date": "14-jul-2019",
+            "state": "future"
+        },
+        "astridsangels.com": {
+            "epoch": "1566000000",
+            "expiration_date": "17-aug-2019",
+            "state": "future"
+        },
+        "astridsexylingerie.fr": {
+            "epoch": "1566864000",
+            "expiration_date": "27-aug-2019",
+            "state": "future"
+        },
+        "astrionline.com": {
+            "epoch": "1559692800",
+            "expiration_date": "05-jun-2019",
+            "state": "future"
+        },
+        "astrium.com": {
+            "epoch": "1550102400",
+            "expiration_date": "14-feb-2019",
+            "state": "future"
+        },
+        "astro-auction.com": {
+            "epoch": "1560124800",
+            "expiration_date": "10-jun-2019",
+            "state": "future"
+        },
+        "astro-azbuka.info": {
+            "epoch": "1546041600",
+            "expiration_date": "29-dec-2018",
+            "state": "future"
+        },
+        "astro-bitch.com": {
+            "epoch": "1554422400",
+            "expiration_date": "05-apr-2019",
+            "state": "future"
+        },
+        "astro-carl.com": {
+            "epoch": "1608249600",
+            "expiration_date": "18-dec-2020",
+            "state": "future"
+        },
+        "astro-digital.com": {
+            "epoch": "1546905600",
+            "expiration_date": "08-jan-2019",
+            "state": "future"
+        },
+        "astro-engineering.com": {
+            "epoch": "1572998400",
+            "expiration_date": "06-nov-2019",
+            "state": "future"
+        },
+        "astro-forum.net": {
+            "epoch": "1615161600",
+            "expiration_date": "08-mar-2021",
+            "state": "future"
+        },
+        "astro-fr.com": {
+            "epoch": "1571702400",
+            "expiration_date": "22-oct-2019",
+            "state": "future"
+        },
+        "astro-holidays.com": {
+            "epoch": "1566259200",
+            "expiration_date": "20-aug-2019",
+            "state": "future"
+        },
+        "astro-hotel.com": {
+            "epoch": "1574035200",
+            "expiration_date": "18-nov-2019",
+            "state": "future"
+        },
+        "astro-insurance.com": {
+            "epoch": "1569024000",
+            "expiration_date": "21-sep-2019",
+            "state": "future"
+        },
+        "astro-logix.com": {
+            "epoch": "1556928000",
+            "expiration_date": "04-may-2019",
+            "state": "future"
+        },
+        "astro.com": {
+            "epoch": "1708387200",
+            "expiration_date": "20-feb-2024",
+            "state": "future"
+        },
+        "astro.hr": {
+            "epoch": "1549497600",
+            "expiration_date": "07-feb-2019",
+            "state": "future"
+        },
+        "astro25.com": {
+            "epoch": "1568073600",
+            "expiration_date": "10-sep-2019",
+            "state": "future"
+        },
+        "astro365.com": {
+            "epoch": "1560038400",
+            "expiration_date": "09-jun-2019",
+            "state": "future"
+        },
+        "astro5000.com": {
+            "epoch": "1608681600",
+            "expiration_date": "23-dec-2020",
+            "state": "future"
+        },
+        "astro7.info": {
+            "epoch": "1542672000",
+            "expiration_date": "20-nov-2018",
+            "state": "future"
+        },
+        "astro9.com": {
+            "epoch": "1562457600",
+            "expiration_date": "07-jul-2019",
+            "state": "future"
+        },
+        "astroadvice.com": {
+            "epoch": "1573344000",
+            "expiration_date": "10-nov-2019",
+            "state": "future"
+        },
+        "astroadvisor.com": {
+            "epoch": "1583366400",
+            "expiration_date": "05-mar-2020",
+            "state": "future"
+        },
+        "astroalella.org": {
+            "epoch": "1569715200",
+            "expiration_date": "29-sep-2019",
+            "state": "future"
+        },
+        "astroamerica.com": {
+            "epoch": "1553817600",
+            "expiration_date": "29-mar-2019",
+            "state": "future"
+        },
+        "astroarts.com": {
+            "epoch": "1560211200",
+            "expiration_date": "11-jun-2019",
+            "state": "future"
+        },
+        "astroasheville.org": {
+            "epoch": "1549756800",
+            "expiration_date": "10-feb-2019",
+            "state": "future"
+        },
+        "astroautosalvage.com": {
+            "epoch": "1592438400",
+            "expiration_date": "18-jun-2020",
+            "state": "future"
+        },
+        "astroava.org": {
+            "epoch": "1554336000",
+            "expiration_date": "04-apr-2019",
+            "state": "future"
+        },
+        "astroayurveda.com": {
+            "epoch": "1547424000",
+            "expiration_date": "14-jan-2019",
+            "state": "future"
+        },
+        "astrobabes.com": {
+            "epoch": "1576800000",
+            "expiration_date": "20-dec-2019",
+            "state": "future"
+        },
+        "astrobale.com": {
+            "epoch": "1540944000",
+            "expiration_date": "31-oct-2018",
+            "state": "future"
+        },
+        "astrobasket.net": {
+            "epoch": "1547769600",
+            "expiration_date": "18-jan-2019",
+            "state": "future"
+        },
+        "astrobattle.com": {
+            "epoch": "1599436800",
+            "expiration_date": "07-sep-2020",
+            "state": "future"
+        },
+        "astrobiology.com": {
+            "epoch": "1635206400",
+            "expiration_date": "26-oct-2021",
+            "state": "future"
+        },
+        "astrobook.org": {
+            "epoch": "1554940800",
+            "expiration_date": "11-apr-2019",
+            "state": "future"
+        },
+        "astrobooks.ru": {
+            "epoch": "1545955200",
+            "expiration_date": "28-dec-2018",
+            "state": "future"
+        },
+        "astrobox.net": {
+            "epoch": "1551398400",
+            "expiration_date": "01-mar-2019",
+            "state": "future"
+        },
+        "astrocaal.org": {
+            "epoch": "1550188800",
+            "expiration_date": "15-feb-2019",
+            "state": "future"
+        },
+        "astrocaat.it": {
+            "epoch": "1559088000",
+            "expiration_date": "29-may-2019",
+            "state": "future"
+        },
+        "astrocam.org": {
+            "epoch": "1570665600",
+            "expiration_date": "10-oct-2019",
+            "state": "future"
+        },
+        "astrocampania.org": {
+            "epoch": "1563408000",
+            "expiration_date": "18-jul-2019",
+            "state": "future"
+        },
+        "astrocenter.com": {
+            "epoch": "1670371200",
+            "expiration_date": "07-dec-2022",
+            "state": "future"
+        },
+        "astrocentro.com": {
+            "epoch": "1590537600",
+            "expiration_date": "27-may-2020",
+            "state": "future"
+        },
+        "astrochemistry.org": {
+            "epoch": "1666224000",
+            "expiration_date": "20-oct-2022",
+            "state": "future"
+        },
+        "astrochris.net": {
+            "epoch": "1584403200",
+            "expiration_date": "17-mar-2020",
+            "state": "future"
+        },
+        "astrocity.net": {
+            "epoch": "1555804800",
+            "expiration_date": "21-apr-2019",
+            "state": "future"
+        },
+        "astroclub.ru": {
+            "epoch": "1569283200",
+            "expiration_date": "24-sep-2019",
+            "state": "future"
+        },
+        "astroclubul.org": {
+            "epoch": "1564963200",
+            "expiration_date": "05-aug-2019",
+            "state": "future"
+        },
+        "astrocn.net": {
+            "epoch": "1559433600",
+            "expiration_date": "02-jun-2019",
+            "state": "future"
+        },
+        "astrocom.com": {
+            "epoch": "1596672000",
+            "expiration_date": "06-aug-2020",
+            "state": "future"
+        },
+        "astroconsulting.com": {
+            "epoch": "1583020800",
+            "expiration_date": "01-mar-2020",
+            "state": "future"
+        },
+        "astrocosmos.net": {
+            "epoch": "1601856000",
+            "expiration_date": "05-oct-2020",
+            "state": "future"
+        },
+        "astrocruise.com": {
+            "epoch": "1561248000",
+            "expiration_date": "23-jun-2019",
+            "state": "future"
+        },
+        "astroday.net": {
+            "epoch": "1554768000",
+            "expiration_date": "09-apr-2019",
+            "state": "future"
+        },
+        "astrodepot.com": {
+            "epoch": "1546560000",
+            "expiration_date": "04-jan-2019",
+            "state": "future"
+        },
+        "astrodidactico.com": {
+            "epoch": "1558569600",
+            "expiration_date": "23-may-2019",
+            "state": "future"
+        },
+        "astrodigital.net": {
+            "epoch": "1552003200",
+            "expiration_date": "08-mar-2019",
+            "state": "future"
+        },
+        "astrodom.org": {
+            "epoch": "1570406400",
+            "expiration_date": "07-oct-2019",
+            "state": "future"
+        },
+        "astrodomes.com": {
+            "epoch": "1605052800",
+            "expiration_date": "11-nov-2020",
+            "state": "future"
+        },
+        "astrodomus.com": {
+            "epoch": "1570665600",
+            "expiration_date": "10-oct-2019",
+            "state": "future"
+        },
+        "astrodragon.com": {
+            "epoch": "1553990400",
+            "expiration_date": "31-mar-2019",
+            "state": "future"
+        },
+        "astrodyssee.com": {
+            "epoch": "1560556800",
+            "expiration_date": "15-jun-2019",
+            "state": "future"
+        },
+        "astroempires.com": {
+            "epoch": "1629676800",
+            "expiration_date": "23-aug-2021",
+            "state": "future"
+        },
+        "astroenergetics.com": {
+            "epoch": "1559088000",
+            "expiration_date": "29-may-2019",
+            "state": "future"
+        },
+        "astroenlazador.com": {
+            "epoch": "1566086400",
+            "expiration_date": "18-aug-2019",
+            "state": "future"
+        },
+        "astroeros.com": {
+            "epoch": "1534809600",
+            "expiration_date": "21-aug-2018",
+            "state": "past"
+        },
+        "astroex.org": {
+            "epoch": "1542240000",
+            "expiration_date": "15-nov-2018",
+            "state": "future"
+        },
+        "astrofegia.com": {
+            "epoch": "1576627200",
+            "expiration_date": "18-dec-2019",
+            "state": "future"
+        },
+        "astrofieds.com": {
+            "epoch": "1601856000",
+            "expiration_date": "05-oct-2020",
+            "state": "future"
+        },
+        "astrofiles.net": {
+            "epoch": "1546473600",
+            "expiration_date": "03-jan-2019",
+            "state": "future"
+        },
+        "astrofili.info": {
+            "epoch": "1549929600",
+            "expiration_date": "12-feb-2019",
+            "state": "future"
+        },
+        "astrofili.org": {
+            "epoch": "1562803200",
+            "expiration_date": "11-jul-2019",
+            "state": "future"
+        },
+        "astrofiliaurunca.com": {
+            "epoch": "1564012800",
+            "expiration_date": "25-jul-2019",
+            "state": "future"
+        },
+        "astrofilicesena.it": {
+            "epoch": "1542758400",
+            "expiration_date": "21-nov-2018",
+            "state": "future"
+        },
+        "astrofilimestre.it": {
+            "epoch": "1547164800",
+            "expiration_date": "11-jan-2019",
+            "state": "future"
+        },
+        "astrofilipleiadi.it": {
+            "epoch": "1557964800",
+            "expiration_date": "16-may-2019",
+            "state": "future"
+        },
+        "astrofilirozzano.it": {
+            "epoch": "1548633600",
+            "expiration_date": "28-jan-2019",
+            "state": "future"
+        },
+        "astrofilisardi.it": {
+            "epoch": "1539993600",
+            "expiration_date": "20-oct-2018",
+            "state": "past"
+        },
+        "astrofilisenesi.it": {
+            "epoch": "1540425600",
+            "expiration_date": "25-oct-2018",
+            "state": "past"
+        },
+        "astrofilitorinesi.com": {
+            "epoch": "1557273600",
+            "expiration_date": "08-may-2019",
+            "state": "future"
+        },
+        "astrofilitrentini.it": {
+            "epoch": "1549324800",
+            "expiration_date": "05-feb-2019",
+            "state": "future"
+        },
+        "astrofiliveronesi.it": {
+            "epoch": "1554163200",
+            "expiration_date": "02-apr-2019",
+            "state": "future"
+        },
+        "astroflag.com": {
+            "epoch": "1569628800",
+            "expiration_date": "28-sep-2019",
+            "state": "future"
+        },
+        "astrofoto.it": {
+            "epoch": "1558396800",
+            "expiration_date": "21-may-2019",
+            "state": "future"
+        },
+        "astrofoto.net": {
+            "epoch": "1552867200",
+            "expiration_date": "18-mar-2019",
+            "state": "future"
+        },
+        "astrofotografia.org": {
+            "epoch": "1569542400",
+            "expiration_date": "27-sep-2019",
+            "state": "future"
+        },
+        "astrofotografija.com": {
+            "epoch": "1545868800",
+            "expiration_date": "27-dec-2018",
+            "state": "future"
+        },
+        "astrofreunde.com": {
+            "epoch": "1542758400",
+            "expiration_date": "21-nov-2018",
+            "state": "future"
+        },
+        "astrofuck.com": {
+            "epoch": "1556668800",
+            "expiration_date": "01-may-2019",
+            "state": "future"
+        },
+        "astrofurniture.com": {
+            "epoch": "1544918400",
+            "expiration_date": "16-dec-2018",
+            "state": "future"
+        },
+        "astrofuturo.com": {
+            "epoch": "1559520000",
+            "expiration_date": "03-jun-2019",
+            "state": "future"
+        },
+        "astrogalaxy.ru": {
+            "epoch": "1555459200",
+            "expiration_date": "17-apr-2019",
+            "state": "future"
+        },
+        "astrogalleries.com": {
+            "epoch": "1636761600",
+            "expiration_date": "13-nov-2021",
+            "state": "future"
+        },
+        "astrogea.org": {
+            "epoch": "1560729600",
+            "expiration_date": "17-jun-2019",
+            "state": "future"
+        },
+        "astrogirona.com": {
+            "epoch": "1552262400",
+            "expiration_date": "11-mar-2019",
+            "state": "future"
+        },
+        "astroglide.com": {
+            "epoch": "1615248000",
+            "expiration_date": "09-mar-2021",
+            "state": "future"
+        },
+        "astrogorizont.com": {
+            "epoch": "1567900800",
+            "expiration_date": "08-sep-2019",
+            "state": "future"
+        },
+        "astrogranada.org": {
+            "epoch": "1558396800",
+            "expiration_date": "21-may-2019",
+            "state": "future"
+        },
+        "astrographics.com": {
+            "epoch": "1569542400",
+            "expiration_date": "27-sep-2019",
+            "state": "future"
+        },
+        "astroguard.com": {
+            "epoch": "1605916800",
+            "expiration_date": "21-nov-2020",
+            "state": "future"
+        },
+        "astroguia.org": {
+            "epoch": "1545091200",
+            "expiration_date": "18-dec-2018",
+            "state": "future"
+        },
+        "astroguindaine.com": {
+            "epoch": "1548374400",
+            "expiration_date": "25-jan-2019",
+            "state": "future"
+        },
+        "astroguru.com": {
+            "epoch": "1564099200",
+            "expiration_date": "26-jul-2019",
+            "state": "future"
+        },
+        "astrogyan.com": {
+            "epoch": "1574380800",
+            "expiration_date": "22-nov-2019",
+            "state": "future"
+        },
+        "astrohaven.com": {
+            "epoch": "1578096000",
+            "expiration_date": "04-jan-2020",
+            "state": "future"
+        },
+        "astrohbg.org": {
+            "epoch": "1689033600",
+            "expiration_date": "11-jul-2023",
+            "state": "future"
+        },
+        "astrohit.com": {
+            "epoch": "1573776000",
+            "expiration_date": "15-nov-2019",
+            "state": "future"
+        },
+        "astrohoroscope.info": {
+            "epoch": "1646092800",
+            "expiration_date": "01-mar-2022",
+            "state": "future"
+        },
+        "astrohoroscopes.com": {
+            "epoch": "1562630400",
+            "expiration_date": "09-jul-2019",
+            "state": "future"
+        },
+        "astrohotel.it": {
+            "epoch": "1552089600",
+            "expiration_date": "09-mar-2019",
+            "state": "future"
+        },
+        "astroimager.com": {
+            "epoch": "1545350400",
+            "expiration_date": "21-dec-2018",
+            "state": "future"
+        },
+        "astroimages.com": {
+            "epoch": "1610496000",
+            "expiration_date": "13-jan-2021",
+            "state": "future"
+        },
+        "astroimages.org": {
+            "epoch": "1558742400",
+            "expiration_date": "25-may-2019",
+            "state": "future"
+        },
+        "astroimaging.com": {
+            "epoch": "1552694400",
+            "expiration_date": "16-mar-2019",
+            "state": "future"
+        },
+        "astroinfo.org": {
+            "epoch": "1554595200",
+            "expiration_date": "07-apr-2019",
+            "state": "future"
+        },
+        "astroinn.com": {
+            "epoch": "1569888000",
+            "expiration_date": "01-oct-2019",
+            "state": "future"
+        },
+        "astroinsights.com": {
+            "epoch": "1549324800",
+            "expiration_date": "05-feb-2019",
+            "state": "future"
+        },
+        "astroinstrument.com": {
+            "epoch": "1586217600",
+            "expiration_date": "07-apr-2020",
+            "state": "future"
+        },
+        "astrojewelry.com": {
+            "epoch": "1560470400",
+            "expiration_date": "14-jun-2019",
+            "state": "future"
+        },
+        "astroji.com": {
+            "epoch": "1567123200",
+            "expiration_date": "30-aug-2019",
+            "state": "future"
+        },
+        "astrokorea.com": {
+            "epoch": "1546819200",
+            "expiration_date": "07-jan-2019",
+            "state": "future"
+        },
+        "astrokundali.com": {
+            "epoch": "1559692800",
+            "expiration_date": "05-jun-2019",
+            "state": "future"
+        },
+        "astrola-optics.com": {
+            "epoch": "1584230400",
+            "expiration_date": "15-mar-2020",
+            "state": "future"
+        },
+        "astrolab-parc-national-mont-megantic.org": {
+            "epoch": "1561161600",
+            "expiration_date": "22-jun-2019",
+            "state": "future"
+        },
+        "astrolab.ru": {
+            "epoch": "1559692800",
+            "expiration_date": "05-jun-2019",
+            "state": "future"
+        },
+        "astrolabe.com": {
+            "epoch": "1580860800",
+            "expiration_date": "05-feb-2020",
+            "state": "future"
+        },
+        "astrolabes.org": {
+            "epoch": "1660003200",
+            "expiration_date": "09-aug-2022",
+            "state": "future"
+        },
+        "astrolabio-ubaldini.com": {
+            "epoch": "1655510400",
+            "expiration_date": "18-jun-2022",
+            "state": "future"
+        },
+        "astrolabio.net": {
+            "epoch": "1574467200",
+            "expiration_date": "23-nov-2019",
+            "state": "future"
+        },
+        "astroland.com": {
+            "epoch": "1554508800",
+            "expiration_date": "06-apr-2019",
+            "state": "future"
+        },
+        "astroleague.org": {
+            "epoch": "1601596800",
+            "expiration_date": "02-oct-2020",
+            "state": "future"
+        },
+        "astroleaguephils.org": {
+            "epoch": "1571616000",
+            "expiration_date": "21-oct-2019",
+            "state": "future"
+        },
+        "astroleb.com": {
+            "epoch": "1564531200",
+            "expiration_date": "31-jul-2019",
+            "state": "future"
+        },
+        "astrolib.ru": {
+            "epoch": "1573862400",
+            "expiration_date": "16-nov-2019",
+            "state": "future"
+        },
+        "astrolife.com": {
+            "epoch": "1568851200",
+            "expiration_date": "19-sep-2019",
+            "state": "future"
+        },
+        "astrolim.com": {
+            "epoch": "1546473600",
+            "expiration_date": "03-jan-2019",
+            "state": "future"
+        },
+        "astrolis.com": {
+            "epoch": "1850169600",
+            "expiration_date": "18-aug-2028",
+            "state": "future"
+        },
+        "astrolisto.net": {
+            "epoch": "1552003200",
+            "expiration_date": "08-mar-2019",
+            "state": "future"
+        },
+        "astrolog.org": {
+            "epoch": "1832803200",
+            "expiration_date": "30-jan-2028",
+            "state": "future"
+        },
+        "astrolog.pl": {
+            "epoch": "1567987200",
+            "expiration_date": "09-sep-2019",
+            "state": "future"
+        },
+        "astrologee.com": {
+            "epoch": "1549756800",
+            "expiration_date": "10-feb-2019",
+            "state": "future"
+        },
+        "astrologer-astrology.com": {
+            "epoch": "1568592000",
+            "expiration_date": "16-sep-2019",
+            "state": "future"
+        },
+        "astrologer-drsudhirshah.com": {
+            "epoch": "1552435200",
+            "expiration_date": "13-mar-2019",
+            "state": "future"
+        },
+        "astrologerlive.com": {
+            "epoch": "1546041600",
+            "expiration_date": "29-dec-2018",
+            "state": "future"
+        },
+        "astrologers-online.com": {
+            "epoch": "1575072000",
+            "expiration_date": "30-nov-2019",
+            "state": "future"
+        },
+        "astrologers.com": {
+            "epoch": "1686009600",
+            "expiration_date": "06-jun-2023",
+            "state": "future"
+        },
+        "astrologi-og-horoskoper.dk": {
+            "epoch": "1569801600",
+            "expiration_date": "30-sep-2019",
+            "state": "future"
+        },
+        "astrologia24.com": {
+            "epoch": "1548028800",
+            "expiration_date": "21-jan-2019",
+            "state": "future"
+        },
+        "astrologiahoroscopo.com": {
+            "epoch": "1549152000",
+            "expiration_date": "03-feb-2019",
+            "state": "future"
+        },
+        "astrologiainlinea.it": {
+            "epoch": "1548979200",
+            "expiration_date": "01-feb-2019",
+            "state": "future"
+        },
+        "astrologiaparaserfeliz.com": {
+            "epoch": "1559088000",
+            "expiration_date": "29-may-2019",
+            "state": "future"
+        },
+        "astrologicalassociation.com": {
+            "epoch": "1585872000",
+            "expiration_date": "03-apr-2020",
+            "state": "future"
+        },
+        "astrologicalcompatibility.com": {
+            "epoch": "1570838400",
+            "expiration_date": "12-oct-2019",
+            "state": "future"
+        },
+        "astrologicalhealth.com": {
+            "epoch": "1549152000",
+            "expiration_date": "03-feb-2019",
+            "state": "future"
+        },
+        "astrologicalmagazine.com": {
+            "epoch": "1575676800",
+            "expiration_date": "07-dec-2019",
+            "state": "future"
+        },
+        "astrologicinsights.com": {
+            "epoch": "1546473600",
+            "expiration_date": "03-jan-2019",
+            "state": "future"
+        },
+        "astrologie-esoterik.com": {
+            "epoch": "1557878400",
+            "expiration_date": "15-may-2019",
+            "state": "future"
+        },
+        "astrologie.com": {
+            "epoch": "1546214400",
+            "expiration_date": "31-dec-2018",
+            "state": "future"
+        },
+        "astrologielehrer.com": {
+            "epoch": "1567987200",
+            "expiration_date": "09-sep-2019",
+            "state": "future"
+        },
+        "astrologos.org": {
+            "epoch": "1560729600",
+            "expiration_date": "17-jun-2019",
+            "state": "future"
+        },
+        "astrology-books.com": {
+            "epoch": "1555718400",
+            "expiration_date": "20-apr-2019",
+            "state": "future"
+        },
+        "astrology-cafe.net": {
+            "epoch": "1548460800",
+            "expiration_date": "26-jan-2019",
+            "state": "future"
+        },
+        "astrology.ca": {
+            "epoch": "1560038400",
+            "expiration_date": "09-jun-2019",
+            "state": "future"
+        },
+        "astrology.com": {
+            "epoch": "1766361600",
+            "expiration_date": "22-dec-2025",
+            "state": "future"
+        },
+        "astrologyalive.com": {
+            "epoch": "1554768000",
+            "expiration_date": "09-apr-2019",
+            "state": "future"
+        },
+        "astrologycom.com": {
+            "epoch": "1583798400",
+            "expiration_date": "10-mar-2020",
+            "state": "future"
+        },
+        "astrologyetal.com": {
+            "epoch": "1634688000",
+            "expiration_date": "20-oct-2021",
+            "state": "future"
+        },
+        "astrologyfashion.com": {
+            "epoch": "1564272000",
+            "expiration_date": "28-jul-2019",
             "state": "future"
         }
     }
