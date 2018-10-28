@@ -15,6 +15,11 @@
             "expiration_date": "19-mar-2028",
             "state": "future"
         },
+        "ar-revista.com": {
+            "epoch": "1568937600",
+            "expiration_date": "20-sep-2019",
+            "state": "future"
+        },
         "ari-panama.com": {
             "epoch": "1544486400",
             "expiration_date": "11-dec-2018",
@@ -3823,6 +3828,1106 @@
         "arosahotel.com": {
             "epoch": "1557187200",
             "expiration_date": "07-may-2019",
+            "state": "future"
+        },
+        "around-you.com": {
+            "epoch": "1568678400",
+            "expiration_date": "17-sep-2019",
+            "state": "future"
+        },
+        "aroundyou.info": {
+            "epoch": "1620864000",
+            "expiration_date": "13-may-2021",
+            "state": "future"
+        },
+        "arousafutbol7.com": {
+            "epoch": "1620604800",
+            "expiration_date": "10-may-2021",
+            "state": "future"
+        },
+        "arousal.com": {
+            "epoch": "1546819200",
+            "expiration_date": "07-jan-2019",
+            "state": "future"
+        },
+        "arousal.net": {
+            "epoch": "1542672000",
+            "expiration_date": "20-nov-2018",
+            "state": "future"
+        },
+        "arousalart.com": {
+            "epoch": "1567296000",
+            "expiration_date": "01-sep-2019",
+            "state": "future"
+        },
+        "arousalnet.com": {
+            "epoch": "1570752000",
+            "expiration_date": "11-oct-2019",
+            "state": "future"
+        },
+        "arousalzone.com": {
+            "epoch": "1566172800",
+            "expiration_date": "19-aug-2019",
+            "state": "future"
+        },
+        "arousedgirl.com": {
+            "epoch": "1540684800",
+            "expiration_date": "28-oct-2018",
+            "state": "past"
+        },
+        "arousedgirls.com": {
+            "epoch": "1548115200",
+            "expiration_date": "22-jan-2019",
+            "state": "future"
+        },
+        "arouseme.com": {
+            "epoch": "1546819200",
+            "expiration_date": "07-jan-2019",
+            "state": "future"
+        },
+        "arouseonline.com": {
+            "epoch": "1557014400",
+            "expiration_date": "05-may-2019",
+            "state": "future"
+        },
+        "arousingautum.com": {
+            "epoch": "1562716800",
+            "expiration_date": "10-jul-2019",
+            "state": "future"
+        },
+        "arousingpics.com": {
+            "epoch": "1572048000",
+            "expiration_date": "26-oct-2019",
+            "state": "future"
+        },
+        "arouzed.com": {
+            "epoch": "1552435200",
+            "expiration_date": "13-mar-2019",
+            "state": "future"
+        },
+        "aroversrest.com": {
+            "epoch": "1542240000",
+            "expiration_date": "15-nov-2018",
+            "state": "future"
+        },
+        "arowana.us": {
+            "epoch": "1543363200",
+            "expiration_date": "28-nov-2018",
+            "state": "future"
+        },
+        "arowanaclub.com": {
+            "epoch": "1595376000",
+            "expiration_date": "22-jul-2020",
+            "state": "future"
+        },
+        "arowanaking.com": {
+            "epoch": "1548460800",
+            "expiration_date": "26-jan-2019",
+            "state": "future"
+        },
+        "arowanas.com": {
+            "epoch": "1567036800",
+            "expiration_date": "29-aug-2019",
+            "state": "future"
+        },
+        "arowhonpines.ca": {
+            "epoch": "1672531200",
+            "expiration_date": "01-jan-2023",
+            "state": "future"
+        },
+        "aroxe.com": {
+            "epoch": "1550361600",
+            "expiration_date": "17-feb-2019",
+            "state": "future"
+        },
+        "aroxy.info": {
+            "epoch": "1549843200",
+            "expiration_date": "11-feb-2019",
+            "state": "future"
+        },
+        "aroyo.fr": {
+            "epoch": "1572480000",
+            "expiration_date": "31-oct-2019",
+            "state": "future"
+        },
+        "aroz.net": {
+            "epoch": "1559520000",
+            "expiration_date": "03-jun-2019",
+            "state": "future"
+        },
+        "arp-hansen.com": {
+            "epoch": "1568246400",
+            "expiration_date": "12-sep-2019",
+            "state": "future"
+        },
+        "arp-hansen.dk": {
+            "epoch": "1546214400",
+            "expiration_date": "31-dec-2018",
+            "state": "future"
+        },
+        "arpabook.com": {
+            "epoch": "1572307200",
+            "expiration_date": "29-oct-2019",
+            "state": "future"
+        },
+        "arpacats.com": {
+            "epoch": "1559692800",
+            "expiration_date": "05-jun-2019",
+            "state": "future"
+        },
+        "arpacayhostel.com": {
+            "epoch": "1549324800",
+            "expiration_date": "05-feb-2019",
+            "state": "future"
+        },
+        "arpagames.com": {
+            "epoch": "1545004800",
+            "expiration_date": "17-dec-2018",
+            "state": "future"
+        },
+        "arpaonline.ca": {
+            "epoch": "1592352000",
+            "expiration_date": "17-jun-2020",
+            "state": "future"
+        },
+        "arpav.pl": {
+            "epoch": "1553299200",
+            "expiration_date": "23-mar-2019",
+            "state": "future"
+        },
+        "arpclock.com": {
+            "epoch": "1585353600",
+            "expiration_date": "28-mar-2020",
+            "state": "future"
+        },
+        "arpeegy.com": {
+            "epoch": "1599523200",
+            "expiration_date": "08-sep-2020",
+            "state": "future"
+        },
+        "arpege.it": {
+            "epoch": "1568073600",
+            "expiration_date": "10-sep-2019",
+            "state": "future"
+        },
+        "arpegemusic.com": {
+            "epoch": "1573430400",
+            "expiration_date": "11-nov-2019",
+            "state": "future"
+        },
+        "arpegemusique.com": {
+            "epoch": "1557964800",
+            "expiration_date": "16-may-2019",
+            "state": "future"
+        },
+        "arpeges-armand-meyer.fr": {
+            "epoch": "1560038400",
+            "expiration_date": "09-jun-2019",
+            "state": "future"
+        },
+        "arpem.com": {
+            "epoch": "1569283200",
+            "expiration_date": "24-sep-2019",
+            "state": "future"
+        },
+        "arpielcolombia.com": {
+            "epoch": "1562544000",
+            "expiration_date": "08-jul-2019",
+            "state": "future"
+        },
+        "arpinphilately.com": {
+            "epoch": "1585785600",
+            "expiration_date": "02-apr-2020",
+            "state": "future"
+        },
+        "arpipattinatori.it": {
+            "epoch": "1550361600",
+            "expiration_date": "17-feb-2019",
+            "state": "future"
+        },
+        "arplus.com": {
+            "epoch": "1580169600",
+            "expiration_date": "28-jan-2020",
+            "state": "future"
+        },
+        "arpmusic.com": {
+            "epoch": "1553558400",
+            "expiration_date": "26-mar-2019",
+            "state": "future"
+        },
+        "arpo.net": {
+            "epoch": "1544745600",
+            "expiration_date": "14-dec-2018",
+            "state": "future"
+        },
+        "arqangel.com": {
+            "epoch": "1549843200",
+            "expiration_date": "11-feb-2019",
+            "state": "future"
+        },
+        "arqbcn.org": {
+            "epoch": "1554336000",
+            "expiration_date": "04-apr-2019",
+            "state": "future"
+        },
+        "arqdeco.com": {
+            "epoch": "1550275200",
+            "expiration_date": "16-feb-2019",
+            "state": "future"
+        },
+        "arqueoastronomia.org": {
+            "epoch": "1554681600",
+            "expiration_date": "08-apr-2019",
+            "state": "future"
+        },
+        "arqueomex.com": {
+            "epoch": "1594080000",
+            "expiration_date": "07-jul-2020",
+            "state": "future"
+        },
+        "arqui.com": {
+            "epoch": "1546646400",
+            "expiration_date": "05-jan-2019",
+            "state": "future"
+        },
+        "arquinauta.com": {
+            "epoch": "1559520000",
+            "expiration_date": "03-jun-2019",
+            "state": "future"
+        },
+        "arquine.com": {
+            "epoch": "1583625600",
+            "expiration_date": "08-mar-2020",
+            "state": "future"
+        },
+        "arquitecturaviva.com": {
+            "epoch": "1585958400",
+            "expiration_date": "04-apr-2020",
+            "state": "future"
+        },
+        "arquivoamador.com": {
+            "epoch": "1559520000",
+            "expiration_date": "03-jun-2019",
+            "state": "future"
+        },
+        "arquivonet.com": {
+            "epoch": "1557187200",
+            "expiration_date": "07-may-2019",
+            "state": "future"
+        },
+        "arquivoporno.com": {
+            "epoch": "1602460800",
+            "expiration_date": "12-oct-2020",
+            "state": "future"
+        },
+        "arquivosex.com": {
+            "epoch": "1550016000",
+            "expiration_date": "13-feb-2019",
+            "state": "future"
+        },
+        "arquivoxxx.com": {
+            "epoch": "1545955200",
+            "expiration_date": "28-dec-2018",
+            "state": "future"
+        },
+        "arrabys.com": {
+            "epoch": "1603152000",
+            "expiration_date": "20-oct-2020",
+            "state": "future"
+        },
+        "arradio.am": {
+            "epoch": "1552953600",
+            "expiration_date": "19-mar-2019",
+            "state": "future"
+        },
+        "arradon.com": {
+            "epoch": "1550793600",
+            "expiration_date": "22-feb-2019",
+            "state": "future"
+        },
+        "arrafting.com": {
+            "epoch": "1610496000",
+            "expiration_date": "13-jan-2021",
+            "state": "future"
+        },
+        "arrahmah.com": {
+            "epoch": "1565740800",
+            "expiration_date": "14-aug-2019",
+            "state": "future"
+        },
+        "arrakis-oostende.com": {
+            "epoch": "1564876800",
+            "expiration_date": "04-aug-2019",
+            "state": "future"
+        },
+        "arrampicareneltorinese.com": {
+            "epoch": "1565481600",
+            "expiration_date": "11-aug-2019",
+            "state": "future"
+        },
+        "arrampicata.com": {
+            "epoch": "1542844800",
+            "expiration_date": "22-nov-2018",
+            "state": "future"
+        },
+        "arrampicata.net": {
+            "epoch": "1569888000",
+            "expiration_date": "01-oct-2019",
+            "state": "future"
+        },
+        "arranaromatics.com": {
+            "epoch": "1554940800",
+            "expiration_date": "11-apr-2019",
+            "state": "future"
+        },
+        "arranca.com": {
+            "epoch": "1550448000",
+            "expiration_date": "18-feb-2019",
+            "state": "future"
+        },
+        "arrangeabreak.com": {
+            "epoch": "1561766400",
+            "expiration_date": "29-jun-2019",
+            "state": "future"
+        },
+        "arrangementfinders.com": {
+            "epoch": "1553472000",
+            "expiration_date": "25-mar-2019",
+            "state": "future"
+        },
+        "arrangementsabroad.com": {
+            "epoch": "1606953600",
+            "expiration_date": "03-dec-2020",
+            "state": "future"
+        },
+        "arrangeyourvacation.com": {
+            "epoch": "1564358400",
+            "expiration_date": "29-jul-2019",
+            "state": "future"
+        },
+        "arranlamb.com": {
+            "epoch": "1662508800",
+            "expiration_date": "07-sep-2022",
+            "state": "future"
+        },
+        "arrantea.com": {
+            "epoch": "1550707200",
+            "expiration_date": "21-feb-2019",
+            "state": "future"
+        },
+        "arrantourism.com": {
+            "epoch": "1565913600",
+            "expiration_date": "16-aug-2019",
+            "state": "future"
+        },
+        "arranwhisky.com": {
+            "epoch": "1679788800",
+            "expiration_date": "26-mar-2023",
+            "state": "future"
+        },
+        "arrapante.com": {
+            "epoch": "1547856000",
+            "expiration_date": "19-jan-2019",
+            "state": "future"
+        },
+        "arrapato.com": {
+            "epoch": "1567814400",
+            "expiration_date": "07-sep-2019",
+            "state": "future"
+        },
+        "arras-golfclub.com": {
+            "epoch": "1564358400",
+            "expiration_date": "29-jul-2019",
+            "state": "future"
+        },
+        "arras-hotel-diamant.com": {
+            "epoch": "1565654400",
+            "expiration_date": "13-aug-2019",
+            "state": "future"
+        },
+        "arras-rencontre.com": {
+            "epoch": "1560470400",
+            "expiration_date": "14-jun-2019",
+            "state": "future"
+        },
+        "arratti.it": {
+            "epoch": "1558310400",
+            "expiration_date": "20-may-2019",
+            "state": "future"
+        },
+        "arraveninc.com": {
+            "epoch": "1554595200",
+            "expiration_date": "07-apr-2019",
+            "state": "future"
+        },
+        "arrayade.com": {
+            "epoch": "1594425600",
+            "expiration_date": "11-jul-2020",
+            "state": "future"
+        },
+        "arraymusic.com": {
+            "epoch": "1595462400",
+            "expiration_date": "23-jul-2020",
+            "state": "future"
+        },
+        "arrayny.com": {
+            "epoch": "1562716800",
+            "expiration_date": "10-jul-2019",
+            "state": "future"
+        },
+        "arrayofflowers.com": {
+            "epoch": "1555545600",
+            "expiration_date": "18-apr-2019",
+            "state": "future"
+        },
+        "arre.dk": {
+            "epoch": "1546214400",
+            "expiration_date": "31-dec-2018",
+            "state": "future"
+        },
+        "arredamento.com": {
+            "epoch": "1653264000",
+            "expiration_date": "23-may-2022",
+            "state": "future"
+        },
+        "arredamento.it": {
+            "epoch": "1541548800",
+            "expiration_date": "07-nov-2018",
+            "state": "future"
+        },
+        "arredisacrigallo.it": {
+            "epoch": "1557187200",
+            "expiration_date": "07-may-2019",
+            "state": "future"
+        },
+        "arreditalia.it": {
+            "epoch": "1563753600",
+            "expiration_date": "22-jul-2019",
+            "state": "future"
+        },
+        "arredocontract.it": {
+            "epoch": "1564531200",
+            "expiration_date": "31-jul-2019",
+            "state": "future"
+        },
+        "arredondoaccessories.com": {
+            "epoch": "1572048000",
+            "expiration_date": "26-oct-2019",
+            "state": "future"
+        },
+        "arredoufficio.com": {
+            "epoch": "1565049600",
+            "expiration_date": "06-aug-2019",
+            "state": "future"
+        },
+        "arrels.net": {
+            "epoch": "1613520000",
+            "expiration_date": "17-feb-2021",
+            "state": "future"
+        },
+        "arres.com": {
+            "epoch": "1562284800",
+            "expiration_date": "05-jul-2019",
+            "state": "future"
+        },
+        "arrest-sm.com": {
+            "epoch": "1566777600",
+            "expiration_date": "26-aug-2019",
+            "state": "future"
+        },
+        "arrestation.com": {
+            "epoch": "1548028800",
+            "expiration_date": "21-jan-2019",
+            "state": "future"
+        },
+        "arrfnc.com": {
+            "epoch": "1578787200",
+            "expiration_date": "12-jan-2020",
+            "state": "future"
+        },
+        "arrg.org": {
+            "epoch": "1614297600",
+            "expiration_date": "26-feb-2021",
+            "state": "future"
+        },
+        "arrhythmiaassociates.com": {
+            "epoch": "1562025600",
+            "expiration_date": "02-jul-2019",
+            "state": "future"
+        },
+        "arribacaribe.com": {
+            "epoch": "1553299200",
+            "expiration_date": "23-mar-2019",
+            "state": "future"
+        },
+        "arribasbrothers.com": {
+            "epoch": "1615334400",
+            "expiration_date": "10-mar-2021",
+            "state": "future"
+        },
+        "arribascenter.com": {
+            "epoch": "1558569600",
+            "expiration_date": "23-may-2019",
+            "state": "future"
+        },
+        "arribasexo.com": {
+            "epoch": "1577145600",
+            "expiration_date": "24-dec-2019",
+            "state": "future"
+        },
+        "arribatali.com": {
+            "epoch": "1651449600",
+            "expiration_date": "02-may-2022",
+            "state": "future"
+        },
+        "arricambi.com": {
+            "epoch": "1551571200",
+            "expiration_date": "03-mar-2019",
+            "state": "future"
+        },
+        "arricchirsi.com": {
+            "epoch": "1556582400",
+            "expiration_date": "30-apr-2019",
+            "state": "future"
+        },
+        "arrierorugs.com": {
+            "epoch": "1841875200",
+            "expiration_date": "14-may-2028",
+            "state": "future"
+        },
+        "arrigapark.com": {
+            "epoch": "1573862400",
+            "expiration_date": "16-nov-2019",
+            "state": "future"
+        },
+        "arringtonranch.com": {
+            "epoch": "1567209600",
+            "expiration_date": "31-aug-2019",
+            "state": "future"
+        },
+        "arrister.com": {
+            "epoch": "1564272000",
+            "expiration_date": "28-jul-2019",
+            "state": "future"
+        },
+        "arrivage.com": {
+            "epoch": "1581638400",
+            "expiration_date": "14-feb-2020",
+            "state": "future"
+        },
+        "arrivaseychelles.com": {
+            "epoch": "1564358400",
+            "expiration_date": "29-jul-2019",
+            "state": "future"
+        },
+        "arrixaca.net": {
+            "epoch": "1552089600",
+            "expiration_date": "09-mar-2019",
+            "state": "future"
+        },
+        "arrl.org": {
+            "epoch": "1590019200",
+            "expiration_date": "21-may-2020",
+            "state": "future"
+        },
+        "arrobafamosas.com": {
+            "epoch": "1551225600",
+            "expiration_date": "27-feb-2019",
+            "state": "future"
+        },
+        "arroccoclub.it": {
+            "epoch": "1568160000",
+            "expiration_date": "11-sep-2019",
+            "state": "future"
+        },
+        "arrogantbastard.com": {
+            "epoch": "1588032000",
+            "expiration_date": "28-apr-2020",
+            "state": "future"
+        },
+        "arrone.net": {
+            "epoch": "1546473600",
+            "expiration_date": "03-jan-2019",
+            "state": "future"
+        },
+        "arrooz.com": {
+            "epoch": "1579305600",
+            "expiration_date": "18-jan-2020",
+            "state": "future"
+        },
+        "arroutadanoticias.com": {
+            "epoch": "1569456000",
+            "expiration_date": "26-sep-2019",
+            "state": "future"
+        },
+        "arrow-alliance.com": {
+            "epoch": "1591228800",
+            "expiration_date": "04-jun-2020",
+            "state": "future"
+        },
+        "arrow-care.com": {
+            "epoch": "1575936000",
+            "expiration_date": "10-dec-2019",
+            "state": "future"
+        },
+        "arrow1035.com": {
+            "epoch": "1568073600",
+            "expiration_date": "10-sep-2019",
+            "state": "future"
+        },
+        "arrowaction.com": {
+            "epoch": "1565827200",
+            "expiration_date": "15-aug-2019",
+            "state": "future"
+        },
+        "arrowaranch.com": {
+            "epoch": "1565568000",
+            "expiration_date": "12-aug-2019",
+            "state": "future"
+        },
+        "arrowcreekcc.com": {
+            "epoch": "1552089600",
+            "expiration_date": "09-mar-2019",
+            "state": "future"
+        },
+        "arrowcycle.com": {
+            "epoch": "1543190400",
+            "expiration_date": "26-nov-2018",
+            "state": "future"
+        },
+        "arrowdalegolf.ca": {
+            "epoch": "1551657600",
+            "expiration_date": "04-mar-2019",
+            "state": "future"
+        },
+        "arrowdive.com": {
+            "epoch": "1552089600",
+            "expiration_date": "09-mar-2019",
+            "state": "future"
+        },
+        "arrowfm.com": {
+            "epoch": "1553299200",
+            "expiration_date": "23-mar-2019",
+            "state": "future"
+        },
+        "arrowfurniture.com": {
+            "epoch": "1563926400",
+            "expiration_date": "24-jul-2019",
+            "state": "future"
+        },
+        "arrowgem.com": {
+            "epoch": "1552694400",
+            "expiration_date": "16-mar-2019",
+            "state": "future"
+        },
+        "arrowgiftshop.com": {
+            "epoch": "1690934400",
+            "expiration_date": "02-aug-2023",
+            "state": "future"
+        },
+        "arrowhead-alpines.com": {
+            "epoch": "1543449600",
+            "expiration_date": "29-nov-2018",
+            "state": "future"
+        },
+        "arrowhead-thunderbird.com": {
+            "epoch": "1562803200",
+            "expiration_date": "11-jul-2019",
+            "state": "future"
+        },
+        "arrowheadaddict.com": {
+            "epoch": "1616112000",
+            "expiration_date": "19-mar-2021",
+            "state": "future"
+        },
+        "arrowheadadventures.com": {
+            "epoch": "1578614400",
+            "expiration_date": "10-jan-2020",
+            "state": "future"
+        },
+        "arrowheadbb.com": {
+            "epoch": "1568246400",
+            "expiration_date": "12-sep-2019",
+            "state": "future"
+        },
+        "arrowheadcabinandcanoe.com": {
+            "epoch": "1562889600",
+            "expiration_date": "12-jul-2019",
+            "state": "future"
+        },
+        "arrowheadcamping.com": {
+            "epoch": "1645920000",
+            "expiration_date": "27-feb-2022",
+            "state": "future"
+        },
+        "arrowheadcarpet.com": {
+            "epoch": "1564617600",
+            "expiration_date": "01-aug-2019",
+            "state": "future"
+        },
+        "arrowheadcc.com": {
+            "epoch": "1565568000",
+            "expiration_date": "12-aug-2019",
+            "state": "future"
+        },
+        "arrowheadgolf.com": {
+            "epoch": "1572480000",
+            "expiration_date": "31-oct-2019",
+            "state": "future"
+        },
+        "arrowheadhospital.com": {
+            "epoch": "1575244800",
+            "expiration_date": "02-dec-2019",
+            "state": "future"
+        },
+        "arrowheadia.com": {
+            "epoch": "1594684800",
+            "expiration_date": "14-jul-2020",
+            "state": "future"
+        },
+        "arrowheadinn.ca": {
+            "epoch": "1558310400",
+            "expiration_date": "20-may-2019",
+            "state": "future"
+        },
+        "arrowheadinn.com": {
+            "epoch": "1620604800",
+            "expiration_date": "10-may-2021",
+            "state": "future"
+        },
+        "arrowheadjgt.com": {
+            "epoch": "1600214400",
+            "expiration_date": "16-sep-2020",
+            "state": "future"
+        },
+        "arrowheadkenpo.com": {
+            "epoch": "1556236800",
+            "expiration_date": "26-apr-2019",
+            "state": "future"
+        },
+        "arrowheadlakesgolf.com": {
+            "epoch": "1552003200",
+            "expiration_date": "08-mar-2019",
+            "state": "future"
+        },
+        "arrowheadmortgage.com": {
+            "epoch": "1553040000",
+            "expiration_date": "20-mar-2019",
+            "state": "future"
+        },
+        "arrowheadnh.com": {
+            "epoch": "1596844800",
+            "expiration_date": "08-aug-2020",
+            "state": "future"
+        },
+        "arrowheadnordic.ca": {
+            "epoch": "1574208000",
+            "expiration_date": "20-nov-2019",
+            "state": "future"
+        },
+        "arrowheadpond.com": {
+            "epoch": "1587945600",
+            "expiration_date": "27-apr-2020",
+            "state": "future"
+        },
+        "arrowheadradiator.com": {
+            "epoch": "1557619200",
+            "expiration_date": "12-may-2019",
+            "state": "future"
+        },
+        "arrowheadrent.com": {
+            "epoch": "1617408000",
+            "expiration_date": "03-apr-2021",
+            "state": "future"
+        },
+        "arrowheadreptilerescue.org": {
+            "epoch": "1606780800",
+            "expiration_date": "01-dec-2020",
+            "state": "future"
+        },
+        "arrowheadresort.com": {
+            "epoch": "1565136000",
+            "expiration_date": "07-aug-2019",
+            "state": "future"
+        },
+        "arrowheads-relics.com": {
+            "epoch": "1568851200",
+            "expiration_date": "19-sep-2019",
+            "state": "future"
+        },
+        "arrowheads.com": {
+            "epoch": "1710115200",
+            "expiration_date": "11-mar-2024",
+            "state": "future"
+        },
+        "arrowheads.us": {
+            "epoch": "1544659200",
+            "expiration_date": "13-dec-2018",
+            "state": "future"
+        },
+        "arrowheadscc.org": {
+            "epoch": "1562889600",
+            "expiration_date": "12-jul-2019",
+            "state": "future"
+        },
+        "arrowheadsforsale.com": {
+            "epoch": "1562803200",
+            "expiration_date": "11-jul-2019",
+            "state": "future"
+        },
+        "arrowheadsoccer.com": {
+            "epoch": "1558051200",
+            "expiration_date": "17-may-2019",
+            "state": "future"
+        },
+        "arrowheadtradingpost.com": {
+            "epoch": "1560384000",
+            "expiration_date": "13-jun-2019",
+            "state": "future"
+        },
+        "arrowheadtreetop.com": {
+            "epoch": "1563494400",
+            "expiration_date": "19-jul-2019",
+            "state": "future"
+        },
+        "arrowheadultra.com": {
+            "epoch": "1577232000",
+            "expiration_date": "25-dec-2019",
+            "state": "future"
+        },
+        "arrowinn.com": {
+            "epoch": "1557100800",
+            "expiration_date": "06-may-2019",
+            "state": "future"
+        },
+        "arrowlodge.com": {
+            "epoch": "1549843200",
+            "expiration_date": "11-feb-2019",
+            "state": "future"
+        },
+        "arrowmen.com": {
+            "epoch": "1610928000",
+            "expiration_date": "18-jan-2021",
+            "state": "future"
+        },
+        "arrowmfg.net": {
+            "epoch": "1576886400",
+            "expiration_date": "21-dec-2019",
+            "state": "future"
+        },
+        "arrowmovies.com": {
+            "epoch": "1558483200",
+            "expiration_date": "22-may-2019",
+            "state": "future"
+        },
+        "arrowoffice.com": {
+            "epoch": "1680220800",
+            "expiration_date": "31-mar-2023",
+            "state": "future"
+        },
+        "arrowpattern.com": {
+            "epoch": "1559001600",
+            "expiration_date": "28-may-2019",
+            "state": "future"
+        },
+        "arrowpointresort.com": {
+            "epoch": "1549065600",
+            "expiration_date": "02-feb-2019",
+            "state": "future"
+        },
+        "arrowproxy.com": {
+            "epoch": "1605744000",
+            "expiration_date": "19-nov-2020",
+            "state": "future"
+        },
+        "arrowridge.com": {
+            "epoch": "1566950400",
+            "expiration_date": "28-aug-2019",
+            "state": "future"
+        },
+        "arrowroot.com": {
+            "epoch": "1586044800",
+            "expiration_date": "05-apr-2020",
+            "state": "future"
+        },
+        "arrows-sails.com": {
+            "epoch": "1571961600",
+            "expiration_date": "25-oct-2019",
+            "state": "future"
+        },
+        "arrowscripts.com": {
+            "epoch": "1551312000",
+            "expiration_date": "28-feb-2019",
+            "state": "future"
+        },
+        "arrowsheds.com": {
+            "epoch": "1622419200",
+            "expiration_date": "31-may-2021",
+            "state": "future"
+        },
+        "arrowsheds.us": {
+            "epoch": "1542153600",
+            "expiration_date": "14-nov-2018",
+            "state": "future"
+        },
+        "arrowsicislandpottery.com": {
+            "epoch": "1540684800",
+            "expiration_date": "28-oct-2018",
+            "state": "past"
+        },
+        "arrowsmithmtbclub.com": {
+            "epoch": "1551139200",
+            "expiration_date": "26-feb-2019",
+            "state": "future"
+        },
+        "arrowsprings.com": {
+            "epoch": "1767571200",
+            "expiration_date": "05-jan-2026",
+            "state": "future"
+        },
+        "arrowswalkers.com": {
+            "epoch": "1567900800",
+            "expiration_date": "08-sep-2019",
+            "state": "future"
+        },
+        "arrowtipi.com": {
+            "epoch": "1607990400",
+            "expiration_date": "15-dec-2020",
+            "state": "future"
+        },
+        "arrowtireandwheel.com": {
+            "epoch": "1567814400",
+            "expiration_date": "07-sep-2019",
+            "state": "future"
+        },
+        "arrowtravel.com": {
+            "epoch": "1777507200",
+            "expiration_date": "30-apr-2026",
+            "state": "future"
+        },
+        "arrowtreeexperts.com": {
+            "epoch": "1676419200",
+            "expiration_date": "15-feb-2023",
+            "state": "future"
+        },
+        "arrowwoodint.com": {
+            "epoch": "1573171200",
+            "expiration_date": "08-nov-2019",
+            "state": "future"
+        },
+        "arroyoarabians.com": {
+            "epoch": "1569542400",
+            "expiration_date": "27-sep-2019",
+            "state": "future"
+        },
+        "arroyoarts.com": {
+            "epoch": "1545609600",
+            "expiration_date": "24-dec-2018",
+            "state": "future"
+        },
+        "arroyograndeflowershop.com": {
+            "epoch": "1571616000",
+            "expiration_date": "21-oct-2019",
+            "state": "future"
+        },
+        "arroyogranderanch.com": {
+            "epoch": "1553731200",
+            "expiration_date": "28-mar-2019",
+            "state": "future"
+        },
+        "arroyoinsurance.com": {
+            "epoch": "1574985600",
+            "expiration_date": "29-nov-2019",
+            "state": "future"
+        },
+        "arroyosecoraceway.com": {
+            "epoch": "1559001600",
+            "expiration_date": "28-may-2019",
+            "state": "future"
+        },
+        "arrozconnori.net": {
+            "epoch": "1559865600",
+            "expiration_date": "07-jun-2019",
+            "state": "future"
+        },
+        "arrsm.org": {
+            "epoch": "1555977600",
+            "expiration_date": "23-apr-2019",
+            "state": "future"
+        },
+        "arrtsy.com": {
+            "epoch": "1757548800",
+            "expiration_date": "11-sep-2025",
+            "state": "future"
+        },
+        "arrugadas.com": {
+            "epoch": "1556928000",
+            "expiration_date": "04-may-2019",
+            "state": "future"
+        },
+        "arruza.com": {
+            "epoch": "1670457600",
+            "expiration_date": "08-dec-2022",
+            "state": "future"
+        },
+        "arrvev.com": {
+            "epoch": "1552780800",
+            "expiration_date": "17-mar-2019",
+            "state": "future"
+        },
+        "ars4real.com": {
+            "epoch": "1553904000",
+            "expiration_date": "30-mar-2019",
+            "state": "future"
+        },
+        "arsac-tourisme.com": {
+            "epoch": "1554854400",
+            "expiration_date": "10-apr-2019",
+            "state": "future"
+        },
+        "arsantik.com": {
+            "epoch": "1560038400",
+            "expiration_date": "09-jun-2019",
+            "state": "future"
+        },
+        "arsascia.org": {
+            "epoch": "1555977600",
+            "expiration_date": "23-apr-2019",
+            "state": "future"
+        },
+        "arsatoys.com": {
+            "epoch": "1550707200",
+            "expiration_date": "21-feb-2019",
+            "state": "future"
+        },
+        "arscca.org": {
+            "epoch": "1552694400",
+            "expiration_date": "16-mar-2019",
+            "state": "future"
+        },
+        "arsch-ficken.com": {
+            "epoch": "1546128000",
+            "expiration_date": "30-dec-2018",
+            "state": "future"
+        },
+        "arschamps.com": {
+            "epoch": "1570579200",
+            "expiration_date": "09-oct-2019",
+            "state": "future"
+        },
+        "arschbilder.net": {
+            "epoch": "1566086400",
+            "expiration_date": "18-aug-2019",
+            "state": "future"
+        },
+        "arschfick-bilder.com": {
+            "epoch": "1556755200",
+            "expiration_date": "02-may-2019",
+            "state": "future"
+        },
+        "arschfick.com": {
+            "epoch": "1552176000",
+            "expiration_date": "10-mar-2019",
             "state": "future"
         }
     }
