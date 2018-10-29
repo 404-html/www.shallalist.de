@@ -6565,6 +6565,11 @@
             "expiration_date": "26-aug-2019",
             "state": "future"
         },
+        "1470wxag.com": {
+            "epoch": "1550793600",
+            "expiration_date": "22-feb-2019",
+            "state": "future"
+        },
         "a-rocking-horse-to-love.com": {
             "epoch": "1583712000",
             "expiration_date": "09-mar-2020",
