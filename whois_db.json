@@ -1675,6 +1675,21 @@
             "expiration_date": "01-dec-2018",
             "state": "future"
         },
+        "1-2-c.com": {
+            "epoch": "1566777600",
+            "expiration_date": "26-aug-2019",
+            "state": "future"
+        },
+        "1-2-fly.com": {
+            "epoch": "1574553600",
+            "expiration_date": "24-nov-2019",
+            "state": "future"
+        },
+        "1-2pitch.com": {
+            "epoch": "1548720000",
+            "expiration_date": "29-jan-2019",
+            "state": "future"
+        },
         "10-4.info": {
             "epoch": "1568937600",
             "expiration_date": "20-sep-2019",
@@ -4695,6 +4710,11 @@
             "expiration_date": "29-may-2019",
             "state": "future"
         },
+        "12-ua.tv": {
+            "epoch": "1563926400",
+            "expiration_date": "24-jul-2019",
+            "state": "future"
+        },
         "1200sex.com": {
             "epoch": "1562112000",
             "expiration_date": "03-jul-2019",
@@ -5868,6 +5888,406 @@
         "1290whio.com": {
             "epoch": "1544659200",
             "expiration_date": "13-dec-2018",
+            "state": "future"
+        },
+        "12adult.com": {
+            "epoch": "1560384000",
+            "expiration_date": "13-jun-2019",
+            "state": "future"
+        },
+        "12apartments.com": {
+            "epoch": "1552521600",
+            "expiration_date": "14-mar-2019",
+            "state": "future"
+        },
+        "12apostleshotel.com": {
+            "epoch": "1561507200",
+            "expiration_date": "26-jun-2019",
+            "state": "future"
+        },
+        "12babes.com": {
+            "epoch": "1549238400",
+            "expiration_date": "04-feb-2019",
+            "state": "future"
+        },
+        "12blogs.com": {
+            "epoch": "1558137600",
+            "expiration_date": "18-may-2019",
+            "state": "future"
+        },
+        "12bookhotels.com": {
+            "epoch": "1547078400",
+            "expiration_date": "10-jan-2019",
+            "state": "future"
+        },
+        "12by.com": {
+            "epoch": "1663200000",
+            "expiration_date": "15-sep-2022",
+            "state": "future"
+        },
+        "12chan.org": {
+            "epoch": "1569456000",
+            "expiration_date": "26-sep-2019",
+            "state": "future"
+        },
+        "12cu2.com": {
+            "epoch": "1560384000",
+            "expiration_date": "13-jun-2019",
+            "state": "future"
+        },
+        "12daysofaphonesexchristmas.com": {
+            "epoch": "1544313600",
+            "expiration_date": "09-dec-2018",
+            "state": "future"
+        },
+        "12dive.info": {
+            "epoch": "1558051200",
+            "expiration_date": "17-may-2019",
+            "state": "future"
+        },
+        "12erotik.com": {
+            "epoch": "1570233600",
+            "expiration_date": "05-oct-2019",
+            "state": "future"
+        },
+        "12franklinstreet.com": {
+            "epoch": "1569456000",
+            "expiration_date": "26-sep-2019",
+            "state": "future"
+        },
+        "12g.net": {
+            "epoch": "1618358400",
+            "expiration_date": "14-apr-2021",
+            "state": "future"
+        },
+        "12gage.com": {
+            "epoch": "1544918400",
+            "expiration_date": "16-dec-2018",
+            "state": "future"
+        },
+        "12gods.biz": {
+            "epoch": "1548028800",
+            "expiration_date": "21-jan-2019",
+            "state": "future"
+        },
+        "12greet.com": {
+            "epoch": "1561420800",
+            "expiration_date": "25-jun-2019",
+            "state": "future"
+        },
+        "12hk.com": {
+            "epoch": "1582502400",
+            "expiration_date": "24-feb-2020",
+            "state": "future"
+        },
+        "12house.com": {
+            "epoch": "1570233600",
+            "expiration_date": "05-oct-2019",
+            "state": "future"
+        },
+        "12hry.cz": {
+            "epoch": "1558310400",
+            "expiration_date": "20-may-2019",
+            "state": "future"
+        },
+        "12inchcock.com": {
+            "epoch": "1569542400",
+            "expiration_date": "27-sep-2019",
+            "state": "future"
+        },
+        "12inchcocks.com": {
+            "epoch": "1571011200",
+            "expiration_date": "14-oct-2019",
+            "state": "future"
+        },
+        "12inchdick.com": {
+            "epoch": "1544054400",
+            "expiration_date": "06-dec-2018",
+            "state": "future"
+        },
+        "12inchdicks.com": {
+            "epoch": "1571011200",
+            "expiration_date": "14-oct-2019",
+            "state": "future"
+        },
+        "12inchpenis.com": {
+            "epoch": "1548806400",
+            "expiration_date": "30-jan-2019",
+            "state": "future"
+        },
+        "12joker.com": {
+            "epoch": "1600992000",
+            "expiration_date": "25-sep-2020",
+            "state": "future"
+        },
+        "12meet.com": {
+            "epoch": "1569542400",
+            "expiration_date": "27-sep-2019",
+            "state": "future"
+        },
+        "12meetsenior.com": {
+            "epoch": "1555718400",
+            "expiration_date": "20-apr-2019",
+            "state": "future"
+        },
+        "12mobile.com": {
+            "epoch": "1567123200",
+            "expiration_date": "30-aug-2019",
+            "state": "future"
+        },
+        "12newtown.com": {
+            "epoch": "1545177600",
+            "expiration_date": "19-dec-2018",
+            "state": "future"
+        },
+        "12oaksresort.com": {
+            "epoch": "1571011200",
+            "expiration_date": "14-oct-2019",
+            "state": "future"
+        },
+        "12planet.com": {
+            "epoch": "1556236800",
+            "expiration_date": "26-apr-2019",
+            "state": "future"
+        },
+        "12play4fun.com": {
+            "epoch": "1567468800",
+            "expiration_date": "03-sep-2019",
+            "state": "future"
+        },
+        "12playz.com": {
+            "epoch": "1552694400",
+            "expiration_date": "16-mar-2019",
+            "state": "future"
+        },
+        "12pornosites.org": {
+            "epoch": "1551916800",
+            "expiration_date": "07-mar-2019",
+            "state": "future"
+        },
+        "12proxy.com": {
+            "epoch": "1540771200",
+            "expiration_date": "29-oct-2018",
+            "state": "past"
+        },
+        "12racing.com": {
+            "epoch": "1606176000",
+            "expiration_date": "24-nov-2020",
+            "state": "future"
+        },
+        "12register.com": {
+            "epoch": "1560384000",
+            "expiration_date": "13-jun-2019",
+            "state": "future"
+        },
+        "12seeme.com": {
+            "epoch": "1543536000",
+            "expiration_date": "30-nov-2018",
+            "state": "future"
+        },
+        "12sex.com": {
+            "epoch": "1544832000",
+            "expiration_date": "15-dec-2018",
+            "state": "future"
+        },
+        "12sex.net": {
+            "epoch": "1550016000",
+            "expiration_date": "13-feb-2019",
+            "state": "future"
+        },
+        "12shito-church.com": {
+            "epoch": "1568764800",
+            "expiration_date": "18-sep-2019",
+            "state": "future"
+        },
+        "12stepforums.net": {
+            "epoch": "1559347200",
+            "expiration_date": "01-jun-2019",
+            "state": "future"
+        },
+        "12steps.org": {
+            "epoch": "1643414400",
+            "expiration_date": "29-jan-2022",
+            "state": "future"
+        },
+        "12streetmusic.com": {
+            "epoch": "1545091200",
+            "expiration_date": "18-dec-2018",
+            "state": "future"
+        },
+        "12th-night-inn.com": {
+            "epoch": "1569888000",
+            "expiration_date": "01-oct-2019",
+            "state": "future"
+        },
+        "12thblog.com": {
+            "epoch": "1549497600",
+            "expiration_date": "07-feb-2019",
+            "state": "future"
+        },
+        "12thframe.com": {
+            "epoch": "1554508800",
+            "expiration_date": "06-apr-2019",
+            "state": "future"
+        },
+        "12tits.com": {
+            "epoch": "1551830400",
+            "expiration_date": "06-mar-2019",
+            "state": "future"
+        },
+        "12to16.info": {
+            "epoch": "1561075200",
+            "expiration_date": "21-jun-2019",
+            "state": "future"
+        },
+        "12tonemusic.com": {
+            "epoch": "1674086400",
+            "expiration_date": "19-jan-2023",
+            "state": "future"
+        },
+        "12tv.net": {
+            "epoch": "1556150400",
+            "expiration_date": "25-apr-2019",
+            "state": "future"
+        },
+        "12v3.com": {
+            "epoch": "1544400000",
+            "expiration_date": "10-dec-2018",
+            "state": "future"
+        },
+        "12volt.com": {
+            "epoch": "1581811200",
+            "expiration_date": "16-feb-2020",
+            "state": "future"
+        },
+        "12voltproducts.com": {
+            "epoch": "1575158400",
+            "expiration_date": "01-dec-2019",
+            "state": "future"
+        },
+        "12voltsex.com": {
+            "epoch": "1562544000",
+            "expiration_date": "08-jul-2019",
+            "state": "future"
+        },
+        "12watches.com": {
+            "epoch": "1565222400",
+            "expiration_date": "08-aug-2019",
+            "state": "future"
+        },
+        "12webcam.com": {
+            "epoch": "1564876800",
+            "expiration_date": "04-aug-2019",
+            "state": "future"
+        },
+        "12webcamsexo.com": {
+            "epoch": "1542240000",
+            "expiration_date": "15-nov-2018",
+            "state": "future"
+        },
+        "12wf.com": {
+            "epoch": "1541980800",
+            "expiration_date": "12-nov-2018",
+            "state": "future"
+        },
+        "12xamateur.com": {
+            "epoch": "1560038400",
+            "expiration_date": "09-jun-2019",
+            "state": "future"
+        },
+        "12xanal.com": {
+            "epoch": "1560038400",
+            "expiration_date": "09-jun-2019",
+            "state": "future"
+        },
+        "12xasian.com": {
+            "epoch": "1535328000",
+            "expiration_date": "27-aug-2018",
+            "state": "past"
+        },
+        "12xbigcocks.com": {
+            "epoch": "1560038400",
+            "expiration_date": "09-jun-2019",
+            "state": "future"
+        },
+        "12xblowjobs.com": {
+            "epoch": "1560038400",
+            "expiration_date": "09-jun-2019",
+            "state": "future"
+        },
+        "12xcoed.com": {
+            "epoch": "1560038400",
+            "expiration_date": "09-jun-2019",
+            "state": "future"
+        },
+        "12xcoeds.com": {
+            "epoch": "1561161600",
+            "expiration_date": "22-jun-2019",
+            "state": "future"
+        },
+        "12xeighteen.com": {
+            "epoch": "1560038400",
+            "expiration_date": "09-jun-2019",
+            "state": "future"
+        },
+        "12xgalleries.com": {
+            "epoch": "1540944000",
+            "expiration_date": "31-oct-2018",
+            "state": "future"
+        },
+        "12xgangbang.com": {
+            "epoch": "1560038400",
+            "expiration_date": "09-jun-2019",
+            "state": "future"
+        },
+        "12xhardcore.com": {
+            "epoch": "1568505600",
+            "expiration_date": "15-sep-2019",
+            "state": "future"
+        },
+        "12xinterracial.com": {
+            "epoch": "1560038400",
+            "expiration_date": "09-jun-2019",
+            "state": "future"
+        },
+        "12xlesbians.com": {
+            "epoch": "1561161600",
+            "expiration_date": "22-jun-2019",
+            "state": "future"
+        },
+        "12xmovies.com": {
+            "epoch": "1535241600",
+            "expiration_date": "26-aug-2018",
+            "state": "past"
+        },
+        "12xtranny.com": {
+            "epoch": "1535328000",
+            "expiration_date": "27-aug-2018",
+            "state": "past"
+        },
+        "12xwives.com": {
+            "epoch": "1591660800",
+            "expiration_date": "09-jun-2020",
+            "state": "future"
+        },
+        "12year.com": {
+            "epoch": "1593820800",
+            "expiration_date": "04-jul-2020",
+            "state": "future"
+        },
+        "12yo.net": {
+            "epoch": "1565481600",
+            "expiration_date": "11-aug-2019",
+            "state": "future"
+        },
+        "1300k.com": {
+            "epoch": "1851724800",
+            "expiration_date": "05-sep-2028",
+            "state": "future"
+        },
+        "1300wtls.com": {
+            "epoch": "1564531200",
+            "expiration_date": "31-jul-2019",
             "state": "future"
         },
         "a-rocking-horse-to-love.com": {
