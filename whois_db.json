@@ -1690,6 +1690,11 @@
             "expiration_date": "29-jan-2019",
             "state": "future"
         },
+        "1-6.us": {
+            "epoch": "1555027200",
+            "expiration_date": "12-apr-2019",
+            "state": "future"
+        },
         "10-4.info": {
             "epoch": "1568937600",
             "expiration_date": "20-sep-2019",
@@ -6865,6 +6870,16 @@
             "expiration_date": "16-aug-2019",
             "state": "future"
         },
+        "16-plus.com": {
+            "epoch": "1533772800",
+            "expiration_date": "09-aug-2018",
+            "state": "past"
+        },
+        "16.pl": {
+            "epoch": "1553126400",
+            "expiration_date": "21-mar-2019",
+            "state": "future"
+        },
         "1600westcliff.com": {
             "epoch": "1637280000",
             "expiration_date": "19-nov-2021",
@@ -6943,6 +6958,216 @@
         "16788.net": {
             "epoch": "1563926400",
             "expiration_date": "24-jul-2019",
+            "state": "future"
+        },
+        "168.am": {
+            "epoch": "1570924800",
+            "expiration_date": "13-oct-2019",
+            "state": "future"
+        },
+        "1682collarsandcuffs.com": {
+            "epoch": "1543795200",
+            "expiration_date": "03-dec-2018",
+            "state": "future"
+        },
+        "168crystal.com": {
+            "epoch": "1552176000",
+            "expiration_date": "10-mar-2019",
+            "state": "future"
+        },
+        "168flower.com": {
+            "epoch": "1559088000",
+            "expiration_date": "29-may-2019",
+            "state": "future"
+        },
+        "168gdc.com": {
+            "epoch": "1593907200",
+            "expiration_date": "05-jul-2020",
+            "state": "future"
+        },
+        "168happy.com": {
+            "epoch": "1553385600",
+            "expiration_date": "24-mar-2019",
+            "state": "future"
+        },
+        "168tv.net": {
+            "epoch": "1579651200",
+            "expiration_date": "22-jan-2020",
+            "state": "future"
+        },
+        "169adult.com": {
+            "epoch": "1555718400",
+            "expiration_date": "20-apr-2019",
+            "state": "future"
+        },
+        "169porn.com": {
+            "epoch": "1534896000",
+            "expiration_date": "22-aug-2018",
+            "state": "past"
+        },
+        "169sex.com": {
+            "epoch": "1596067200",
+            "expiration_date": "30-jul-2020",
+            "state": "future"
+        },
+        "16a.us": {
+            "epoch": "1569628800",
+            "expiration_date": "28-sep-2019",
+            "state": "future"
+        },
+        "16aq.cn": {
+            "epoch": "1543708800",
+            "expiration_date": "02-dec-2018",
+            "state": "future"
+        },
+        "16blocs-lefilm.com": {
+            "epoch": "1568505600",
+            "expiration_date": "15-sep-2019",
+            "state": "future"
+        },
+        "16flower.com": {
+            "epoch": "1552780800",
+            "expiration_date": "17-mar-2019",
+            "state": "future"
+        },
+        "16frames.com": {
+            "epoch": "1551312000",
+            "expiration_date": "28-feb-2019",
+            "state": "future"
+        },
+        "16girl.com": {
+            "epoch": "1541548800",
+            "expiration_date": "07-nov-2018",
+            "state": "future"
+        },
+        "16honeys.com": {
+            "epoch": "1574121600",
+            "expiration_date": "19-nov-2019",
+            "state": "future"
+        },
+        "16jahre.com": {
+            "epoch": "1569196800",
+            "expiration_date": "23-sep-2019",
+            "state": "future"
+        },
+        "16lakelodge.com": {
+            "epoch": "1600992000",
+            "expiration_date": "25-sep-2020",
+            "state": "future"
+        },
+        "16mmfilms.com": {
+            "epoch": "1575676800",
+            "expiration_date": "07-dec-2019",
+            "state": "future"
+        },
+        "16movies.com": {
+            "epoch": "1569715200",
+            "expiration_date": "29-sep-2019",
+            "state": "future"
+        },
+        "16noni.it": {
+            "epoch": "1547337600",
+            "expiration_date": "13-jan-2019",
+            "state": "future"
+        },
+        "16novenos.com": {
+            "epoch": "1543795200",
+            "expiration_date": "03-dec-2018",
+            "state": "future"
+        },
+        "16only.com": {
+            "epoch": "1536537600",
+            "expiration_date": "10-sep-2018",
+            "state": "past"
+        },
+        "16sex.com": {
+            "epoch": "1556064000",
+            "expiration_date": "24-apr-2019",
+            "state": "future"
+        },
+        "16sex.net": {
+            "epoch": "1554940800",
+            "expiration_date": "11-apr-2019",
+            "state": "future"
+        },
+        "16sparrows.com": {
+            "epoch": "1560470400",
+            "expiration_date": "14-jun-2019",
+            "state": "future"
+        },
+        "16sur20.com": {
+            "epoch": "1555372800",
+            "expiration_date": "16-apr-2019",
+            "state": "future"
+        },
+        "16thavenuemusic.com": {
+            "epoch": "1837468800",
+            "expiration_date": "24-mar-2028",
+            "state": "future"
+        },
+        "16x9movies.com": {
+            "epoch": "1548633600",
+            "expiration_date": "28-jan-2019",
+            "state": "future"
+        },
+        "16xxx.com": {
+            "epoch": "1572393600",
+            "expiration_date": "30-oct-2019",
+            "state": "future"
+        },
+        "16yd.com": {
+            "epoch": "1560297600",
+            "expiration_date": "12-jun-2019",
+            "state": "future"
+        },
+        "16yearold.com": {
+            "epoch": "1562198400",
+            "expiration_date": "04-jul-2019",
+            "state": "future"
+        },
+        "17-17.com": {
+            "epoch": "1546214400",
+            "expiration_date": "31-dec-2018",
+            "state": "future"
+        },
+        "17-18-19.com": {
+            "epoch": "1552694400",
+            "expiration_date": "16-mar-2019",
+            "state": "future"
+        },
+        "1708house.com": {
+            "epoch": "1583452800",
+            "expiration_date": "06-mar-2020",
+            "state": "future"
+        },
+        "1712house.com": {
+            "epoch": "1709078400",
+            "expiration_date": "28-feb-2024",
+            "state": "future"
+        },
+        "17173.com": {
+            "epoch": "1616976000",
+            "expiration_date": "29-mar-2021",
+            "state": "future"
+        },
+        "1717y.com": {
+            "epoch": "1609286400",
+            "expiration_date": "30-dec-2020",
+            "state": "future"
+        },
+        "171gifs.com": {
+            "epoch": "1543622400",
+            "expiration_date": "01-dec-2018",
+            "state": "future"
+        },
+        "1720club.com": {
+            "epoch": "1567123200",
+            "expiration_date": "30-aug-2019",
+            "state": "future"
+        },
+        "1720house.com": {
+            "epoch": "1549670400",
+            "expiration_date": "09-feb-2019",
             "state": "future"
         },
         "a-rocking-horse-to-love.com": {
