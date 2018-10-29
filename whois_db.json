@@ -6860,6 +6860,11 @@
             "expiration_date": "04-jul-2020",
             "state": "future"
         },
+        "16-19.com": {
+            "epoch": "1565913600",
+            "expiration_date": "16-aug-2019",
+            "state": "future"
+        },
         "1600westcliff.com": {
             "epoch": "1637280000",
             "expiration_date": "19-nov-2021",
@@ -6873,6 +6878,66 @@
         "160tracker.com": {
             "epoch": "1558310400",
             "expiration_date": "20-may-2019",
+            "state": "future"
+        },
+        "1618.ru": {
+            "epoch": "1555718400",
+            "expiration_date": "20-apr-2019",
+            "state": "future"
+        },
+        "161auto.ru": {
+            "epoch": "1570924800",
+            "expiration_date": "13-oct-2019",
+            "state": "future"
+        },
+        "161sex.com": {
+            "epoch": "1653523200",
+            "expiration_date": "26-may-2022",
+            "state": "future"
+        },
+        "1620thezone.com": {
+            "epoch": "1598572800",
+            "expiration_date": "28-aug-2020",
+            "state": "future"
+        },
+        "163.net": {
+            "epoch": "1568419200",
+            "expiration_date": "14-sep-2019",
+            "state": "future"
+        },
+        "163disk.com": {
+            "epoch": "1588896000",
+            "expiration_date": "08-may-2020",
+            "state": "future"
+        },
+        "163dz.com": {
+            "epoch": "1544572800",
+            "expiration_date": "12-dec-2018",
+            "state": "future"
+        },
+        "163flash.net": {
+            "epoch": "1567296000",
+            "expiration_date": "01-sep-2019",
+            "state": "future"
+        },
+        "163flower.com": {
+            "epoch": "1569283200",
+            "expiration_date": "24-sep-2019",
+            "state": "future"
+        },
+        "163girl.com": {
+            "epoch": "1584748800",
+            "expiration_date": "21-mar-2020",
+            "state": "future"
+        },
+        "163liao.com": {
+            "epoch": "1617148800",
+            "expiration_date": "31-mar-2021",
+            "state": "future"
+        },
+        "1664.org": {
+            "epoch": "1547164800",
+            "expiration_date": "11-jan-2019",
             "state": "future"
         },
         "a-rocking-horse-to-love.com": {
