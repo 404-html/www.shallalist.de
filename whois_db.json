@@ -10305,6 +10305,11 @@
             "expiration_date": "29-may-2019",
             "state": "future"
         },
+        "1929.dk": {
+            "epoch": "1559260800",
+            "expiration_date": "31-may-2019",
+            "state": "future"
+        },
         "a-rocking-horse-to-love.com": {
             "epoch": "1583712000",
             "expiration_date": "09-mar-2020",
