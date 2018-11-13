@@ -19685,6 +19685,11 @@
             "expiration_date": "16-may-2019",
             "state": "future"
         },
+        "3-93.com": {
+            "epoch": "1542326400",
+            "expiration_date": "16-nov-2018",
+            "state": "future"
+        },
         "30-50.com": {
             "epoch": "1546905600",
             "expiration_date": "08-jan-2019",
@@ -20808,6 +20813,111 @@
         "373news.com": {
             "epoch": "1602979200",
             "expiration_date": "18-oct-2020",
+            "state": "future"
+        },
+        "38.fr": {
+            "epoch": "1554249600",
+            "expiration_date": "03-apr-2019",
+            "state": "future"
+        },
+        "38221.com": {
+            "epoch": "1756425600",
+            "expiration_date": "29-aug-2025",
+            "state": "future"
+        },
+        "3839.com": {
+            "epoch": "1591488000",
+            "expiration_date": "07-jun-2020",
+            "state": "future"
+        },
+        "388hoop.com": {
+            "epoch": "1570147200",
+            "expiration_date": "04-oct-2019",
+            "state": "future"
+        },
+        "38dd.com": {
+            "epoch": "1559865600",
+            "expiration_date": "07-jun-2019",
+            "state": "future"
+        },
+        "38ddd.com": {
+            "epoch": "1570579200",
+            "expiration_date": "09-oct-2019",
+            "state": "future"
+        },
+        "38dds.com": {
+            "epoch": "1569110400",
+            "expiration_date": "22-sep-2019",
+            "state": "future"
+        },
+        "38ee.com": {
+            "epoch": "1571529600",
+            "expiration_date": "20-oct-2019",
+            "state": "future"
+        },
+        "38girl.net": {
+            "epoch": "1651276800",
+            "expiration_date": "30-apr-2022",
+            "state": "future"
+        },
+        "38hh.com": {
+            "epoch": "1573689600",
+            "expiration_date": "14-nov-2019",
+            "state": "future"
+        },
+        "38post.com": {
+            "epoch": "1572652800",
+            "expiration_date": "02-nov-2019",
+            "state": "future"
+        },
+        "38q.cn": {
+            "epoch": "1575504000",
+            "expiration_date": "05-dec-2019",
+            "state": "future"
+        },
+        "38shishang.com": {
+            "epoch": "1558396800",
+            "expiration_date": "21-may-2019",
+            "state": "future"
+        },
+        "38t.net": {
+            "epoch": "1553558400",
+            "expiration_date": "26-mar-2019",
+            "state": "future"
+        },
+        "39-93.com": {
+            "epoch": "1564531200",
+            "expiration_date": "31-jul-2019",
+            "state": "future"
+        },
+        "390e.com": {
+            "epoch": "1559088000",
+            "expiration_date": "29-may-2019",
+            "state": "future"
+        },
+        "391.us": {
+            "epoch": "1558137600",
+            "expiration_date": "18-may-2019",
+            "state": "future"
+        },
+        "392.us": {
+            "epoch": "1564876800",
+            "expiration_date": "04-aug-2019",
+            "state": "future"
+        },
+        "394.us": {
+            "epoch": "1571270400",
+            "expiration_date": "17-oct-2019",
+            "state": "future"
+        },
+        "398.us": {
+            "epoch": "1564876800",
+            "expiration_date": "04-aug-2019",
+            "state": "future"
+        },
+        "399animeshop.com": {
+            "epoch": "1562889600",
+            "expiration_date": "12-jul-2019",
             "state": "future"
         },
         "a-rocking-horse-to-love.com": {
