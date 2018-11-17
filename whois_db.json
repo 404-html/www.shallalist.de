@@ -32000,6 +32000,11 @@
             "expiration_date": "29-aug-2019",
             "state": "future"
         },
+        "66-99.com": {
+            "epoch": "1572566400",
+            "expiration_date": "01-nov-2019",
+            "state": "future"
+        },
         "664k.com": {
             "epoch": "1569801600",
             "expiration_date": "30-sep-2019",
@@ -32163,6 +32168,91 @@
         "668shop.com": {
             "epoch": "1567900800",
             "expiration_date": "08-sep-2019",
+            "state": "future"
+        },
+        "669.com": {
+            "epoch": "1809388800",
+            "expiration_date": "04-may-2027",
+            "state": "future"
+        },
+        "66995.com": {
+            "epoch": "1621036800",
+            "expiration_date": "15-may-2021",
+            "state": "future"
+        },
+        "66adult.com": {
+            "epoch": "1546905600",
+            "expiration_date": "08-jan-2019",
+            "state": "future"
+        },
+        "66beauty.com": {
+            "epoch": "1555804800",
+            "expiration_date": "21-apr-2019",
+            "state": "future"
+        },
+        "66cams.com": {
+            "epoch": "1550880000",
+            "expiration_date": "23-feb-2019",
+            "state": "future"
+        },
+        "66centsphonesex.com": {
+            "epoch": "1575244800",
+            "expiration_date": "02-dec-2019",
+            "state": "future"
+        },
+        "66imperialinn.com": {
+            "epoch": "1570320000",
+            "expiration_date": "06-oct-2019",
+            "state": "future"
+        },
+        "66live.com": {
+            "epoch": "1561248000",
+            "expiration_date": "23-jun-2019",
+            "state": "future"
+        },
+        "66men.com": {
+            "epoch": "1596672000",
+            "expiration_date": "06-aug-2020",
+            "state": "future"
+        },
+        "66models.com": {
+            "epoch": "1549324800",
+            "expiration_date": "05-feb-2019",
+            "state": "future"
+        },
+        "66p.info": {
+            "epoch": "1551398400",
+            "expiration_date": "01-mar-2019",
+            "state": "future"
+        },
+        "66peers.info": {
+            "epoch": "1553904000",
+            "expiration_date": "30-mar-2019",
+            "state": "future"
+        },
+        "66yo.com": {
+            "epoch": "1608768000",
+            "expiration_date": "24-dec-2020",
+            "state": "future"
+        },
+        "66yuyu.com": {
+            "epoch": "1554508800",
+            "expiration_date": "06-apr-2019",
+            "state": "future"
+        },
+        "670amkirn.com": {
+            "epoch": "1568073600",
+            "expiration_date": "10-sep-2019",
+            "state": "future"
+        },
+        "670thescore.com": {
+            "epoch": "1601769600",
+            "expiration_date": "04-oct-2020",
+            "state": "future"
+        },
+        "6711.com": {
+            "epoch": "1608681600",
+            "expiration_date": "23-dec-2020",
             "state": "future"
         },
         "a-rocking-horse-to-love.com": {
