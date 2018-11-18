@@ -36790,6 +36790,36 @@
             "expiration_date": "02-feb-2019",
             "state": "future"
         },
+        "84rur.ru": {
+            "epoch": "1574812800",
+            "expiration_date": "27-nov-2019",
+            "state": "future"
+        },
+        "84thespit.com": {
+            "epoch": "1601942400",
+            "expiration_date": "06-oct-2020",
+            "state": "future"
+        },
+        "84u.com": {
+            "epoch": "1561507200",
+            "expiration_date": "26-jun-2019",
+            "state": "future"
+        },
+        "8505.info": {
+            "epoch": "1548460800",
+            "expiration_date": "26-jan-2019",
+            "state": "future"
+        },
+        "850koa.com": {
+            "epoch": "1572652800",
+            "expiration_date": "02-nov-2019",
+            "state": "future"
+        },
+        "850thebuzz.com": {
+            "epoch": "1634428800",
+            "expiration_date": "17-oct-2021",
+            "state": "future"
+        },
         "a-rocking-horse-to-love.com": {
             "epoch": "1583712000",
             "expiration_date": "09-mar-2020",
